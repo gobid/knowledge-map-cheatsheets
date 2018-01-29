@@ -1,6 +1,7 @@
 # Knowledge Map Cheat Sheets
 
-Goal: to assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. [SEE THE PDF RIGHT NOW!](https://github.com/gobid/knowledge-map-cheatsheets/blob/master/knowledge-map-cheat.pdf)
+Goal: to assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. 
+[SEE THE PDF RIGHT NOW!](https://github.com/gobid/knowledge-map-cheatsheets/blob/master/knowledge-map-cheat.pdf)
 
 To contribute: 
 1. copy main.tex into an overleaf.com project
