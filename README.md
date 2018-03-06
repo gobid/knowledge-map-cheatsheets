@@ -31,4 +31,4 @@ FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or
 
 Citations:
 - https://www.princetonreview.com/college/ap-subjects
-- http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take 30-50 years -- lifelong learning)
+- http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
