@@ -2,6 +2,8 @@
 
 Goal: to assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. 
 
+In TOPOLOGICAL order.
+
 To contribute: 
 1. fork the project
 2. edit the fork
