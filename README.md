@@ -18,6 +18,8 @@ This project IS NOT solving the problem of learning content -- online courses, v
 
 This project IS solving the problem of "going down a rabbit hole of prerequisites". When you don't know concept A, then you look it up, but find out you need to know unknown concept B which leads you to unknown concept C and so on. This project should eliminate that problem by presenting all established knowledge in topological order of prerequisites. 
 
+This project SHOULD ALSO help with writing proofs or arguments by surfacing all reference theorems / concepts in one place. 
+
 Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
 2. Statistics
