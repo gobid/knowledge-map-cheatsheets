@@ -14,6 +14,10 @@ To contribute:
 
 Method: To be used in conjunction with moocs from class-central.com / coursera / edx / codecademy, lectures on youtube.com / khanacademy.org, articles from google.com or scholar.google.com, answers on stackexchange.com with the objective of structuring learning around a standard syllabus.
 
+This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
+
+This project IS solving the problem of "going down a rabbit hole of prerequisites". When you don't know concept A, then you look it up, but find out you need to know unknown concept B which leads you to unknown concept C and so on. This project should eliminate that problem by presenting all established knowledge in topological order of prerequisites. 
+
 Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
 2. Statistics
