@@ -2,7 +2,7 @@
 
 Goal: to assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation in TOPOLOGICAL order.
 
-Mission: Let's not get bogged down by information overload! Let's cut to the chase.
+Mission: Let's not get bogged down by information overload! Let's cut to the chase (in topological order so we never get stuck).
 
 To contribute: 
 1. fork the project
