@@ -1,8 +1,10 @@
 # Knowledge Map Cheat Sheets
 
-Goal: to assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation in TOPOLOGICAL order.
+Goal: 
+To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
-Mission: Let's not get bogged down by information overload! Let's cut to the chase (in topological order so we never get stuck).
+Mission: 
+Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
 To contribute: 
 1. fork the project
