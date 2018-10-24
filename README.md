@@ -6,12 +6,6 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
-To contribute: 
-1. fork the project
-2. edit the fork (Please cite the source somehow, either an indication of the author on the pdf or below in the citations.)
-3. push to your fork (adding github as a remote for your fork might help https://stackoverflow.com/questions/11690709/can-a-project-have-multiple-origins) and
-4. make a pull request from your fork to this project 
-
 Method: To be used in conjunction with moocs from class-central.com / coursera / edx / codecademy, lectures on youtube.com / khanacademy.org, articles from google.com or scholar.google.com, answers on stackexchange.com with the objective of structuring learning around a standard syllabus.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
@@ -35,6 +29,15 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 12. Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover)
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
+
+To critique: 
+Use the github comments.
+
+To contribute: 
+1. fork the project
+2. edit the fork (Please cite the source somehow, either an indication of the author on the pdf or below in the citations.)
+3. push to your fork (adding github as a remote for your fork might help https://stackoverflow.com/questions/11690709/can-a-project-have-multiple-origins) and
+4. make a pull request from your fork to this project 
 
 Citations:
 - https://www.princetonreview.com/college/ap-subjects
