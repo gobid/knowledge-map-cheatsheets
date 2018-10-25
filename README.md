@@ -4,7 +4,7 @@ Goal:
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
 What percent of all established knowledge do you know?
-Add yourself to this sheet http://bit.ly/2AqvNn4 to find out!
+Add yourself to this sheet http://bit.ly/2AqvNn4 to find out! This sheet can also help you find collaborators for industry, startup, or research projects.
 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
