@@ -6,7 +6,7 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
-Method: To be used in conjunction with moocs from class-central.com / coursera / edx / codecademy, lectures on youtube.com / khanacademy.org, articles from google.com or scholar.google.com, answers on stackexchange.com with the objective of structuring learning around a standard syllabus.
+Method: To be used in conjunction with moocs from class-central.com / coursera / edx / codecademy, lectures on youtube.com / khanacademy.org, articles from google.com or scholar.google.com, answers on stackexchange.com, investopedia, quora, medium with the objective of structuring learning around a standard syllabus.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
 
