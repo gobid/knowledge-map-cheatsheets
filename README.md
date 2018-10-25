@@ -17,6 +17,8 @@ This project IS solving the problem of "going down a rabbit hole of prerequisite
 
 This project SHOULD ALSO help with writing proofs or arguments by surfacing all reference theorems / concepts in one place. 
 
+Finally, this project should stop you from feeling guilty about forgetting what you learned a few years ago by reminding you with ample context.
+
 Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
 2. Statistics
