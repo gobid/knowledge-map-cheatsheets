@@ -30,9 +30,9 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 6. Chemistry (including ChemE)
 7. Biology (including BioE)
 8. Medicine
-9. Economics
+9. Economics (including Business and Finance)
 10. Psychology
-11. History
+11. History (including Political Science and Law)
 12. Art - Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover), Dance, Visual Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
