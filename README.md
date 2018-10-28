@@ -3,16 +3,23 @@
 Goal: 
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
+What percent of all established knowledge do you know?
+Add yourself to this sheet http://bit.ly/2AqvNn4 to find out! 
+
+The sheet can also help you find collaborators for industry, startup, or research projects.
+
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
-Method: To be used in conjunction with moocs from class-central.com / coursera / edx / codecademy, lectures on youtube.com / khanacademy.org, articles from google.com or scholar.google.com, answers on stackexchange.com with the objective of structuring learning around a standard syllabus.
+Method: To be used in conjunction with moocs from class-central.com, coursera, edx, codecademy; lectures on youtube.com, khanacademy.org; articles from google.com or scholar.google.com; answers on stackexchange.com, investopedia, quora, medium with the objective of structuring learning around a standard syllabus.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
 
 This project IS solving the problem of "going down a rabbit hole of prerequisites". When you don't know concept A, then you look it up, but find out you need to know unknown concept B which leads you to unknown concept C and so on. This project should eliminate that problem by presenting all established knowledge in topological order of prerequisites. 
 
 This project SHOULD ALSO help with writing proofs or arguments by surfacing all reference theorems / concepts in one place. 
+
+Finally, this project should stop you from feeling guilty about forgetting what you learned a few years ago by reminding you with ample context.
 
 Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
@@ -23,10 +30,10 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 6. Chemistry (including ChemE)
 7. Biology (including BioE)
 8. Medicine
-9. Economics
+9. Economics (including Business and Finance)
 10. Psychology
-11. History
-12. Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover)
+11. History (including Political Science and Law)
+12. Art - Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover), Dance, Visual Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
@@ -47,3 +54,7 @@ Citations:
 - cliffnotes.com
 - dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
 - 0011_Differential_Equations also should have cited http://www.math.cmu.edu/~gheorghi/fin_form.pdf
+- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
+- https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+- https://course-notes.org/biology/outlines
+
