@@ -11,7 +11,12 @@ The sheet can also help you find collaborators for industry, startup, or researc
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
-Method: To be used in conjunction with moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com; lectures on http://youtube.com, http://khanacademy.org; articles from http://google.com or http://scholar.google.com; answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com with the objective of structuring learning around a standard syllabus.
+Method: To be used in conjunction with: 
+- moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com
+- lectures on http://youtube.com, http://khanacademy.org
+- articles from http://google.com or http://scholar.google.com
+- answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
+with the objective of structuring learning around a standard syllabus.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
 
