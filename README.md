@@ -13,7 +13,7 @@ Let's not get bogged down by information overload! Let's cut to the chase (in TO
 
 Method: To be used in conjunction with: 
 - moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com
-- lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, http://bighistory.com
+- lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, http://bighistory.org
 - articles from http://google.com or http://scholar.google.com
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
 with the objective of structuring learning around a standard syllabus.
