@@ -12,12 +12,12 @@ goal orientation
 learning from materials (Gears, Logo, Legos, Erector)
 concrete thinking
 formal thinking - i.e. combinatorial thinking, where one has to reason in terms of the set of all possible states of a system, and self-referential thinking about thinking itself
-epistemologist 
+epistemologist - person who studies knowledge, how it came about, and its justification
 children as epistemologists
 conservationist view of the world
 dissociated learning
 Pigetian learning
-Mathetic - knowledgee about learning
+Mathetic - knowledge about learning, mathetics to learning as heuristics to problem solving
 Appropriable - personalizable learning
 continuity principle - mathematics to personal life
 power principle - empower learner to accomplish things
@@ -25,3 +25,11 @@ priniciple of cultural resonance - be accepted by the community
 synotic learning - turtle is body synotic with child
 Polya's General Methods for Problem Solving (Process)
 Formalism of Calculus - Turtle's Circle program - Differential Equation
+Relational / Affective
+Cultural Syntonicity - navigating the world like the turtle
+Verbalizable versus non-Verbalizable knowledge
+structured programming
+resistance (to debugging, subfeaturizing)
+Velocity and Acceleration Turtles for Newton's 3rd Law (monkey and rope problem)
+Bourbaki Mother Structures - mapping between mathematics concepts in geo, algebra with affordances of the mind
+Graduated Length Method - in skiing
