@@ -54,7 +54,7 @@ To contribute:
 Citations:
 - https://www.princetonreview.com/college/ap-subjects
 - http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
-- cheatsheets that are not custom-made (noted) are the first good result on google or google images for "[comprehensive] [subject] cheatsheet"
+- cheatsheets that are not custom-made (noted) are the first good result on google or google images for "(comprehensive) [subject] cheatsheet"
 - dummies.com
 - cliffnotes.com
 - dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
