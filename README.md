@@ -59,9 +59,11 @@ Citations:
 - cheatsheets that are not custom-made (noted) are the first good result on google or google images for "(comprehensive) [subject] cheatsheet"
 - dummies.com
 - cliffnotes.com
+- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
+
+Auxiliary Citations:
 - dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
 - 0011_Differential_Equations also should have cited http://www.math.cmu.edu/~gheorghi/fin_form.pdf
-- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 - https://course-notes.org/biology/outlines
 
