@@ -16,6 +16,7 @@ Method: To be used in conjunction with:
 - lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, http://bighistoryproject.com
 - articles from http://google.com or http://scholar.google.com
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
+- exercises found by searching "[subject name] problems / exercises" on google
 with the objective of structuring learning around a standard syllabus.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
