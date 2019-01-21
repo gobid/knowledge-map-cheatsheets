@@ -33,3 +33,9 @@ resistance (to debugging, subfeaturizing)
 Velocity and Acceleration Turtles for Newton's 3rd Law (monkey and rope problem)
 Bourbaki Mother Structures - mapping between mathematics concepts in geo, algebra with affordances of the mind
 Graduated Length Method - in skiing
+
+appropriability
+evocativeness
+integration - affords representing multiple concepts
+situational learning
+appprentice learning
