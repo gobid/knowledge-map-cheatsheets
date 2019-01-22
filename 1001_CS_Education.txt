@@ -33,3 +33,38 @@ resistance (to debugging, subfeaturizing)
 Velocity and Acceleration Turtles for Newton's 3rd Law (monkey and rope problem)
 Bourbaki Mother Structures - mapping between mathematics concepts in geo, algebra with affordances of the mind
 Graduated Length Method - in skiing
+
+appropriability
+evocativeness
+integration - affords representing multiple concepts
+situational learning
+appprentice learning
+ISDP - instructional software design project
+personalization (remembering students actually acting out fd 100 in elementary school)
+linear vs modular programming
+disconnection of knowledge (knowledge starts off as knowledge in parts)
+time frame and rhythms of work (not all non-concentrated work time is bad, chatting and relaxing is important for creative work)
+metacognitive awareness
+cognitive flexibility
+control distractions and anxiety
+continual evaluation
+monitor solution processes, articulation
+relationship with concepts (willingness to take risks, etc)
+generating one's own explanations for a concept
+dynamic communication - defining and redefining - intereaction between software producer and medium
+representations vs algorithms
+social goals and purpose driven exercise
+structural definition of microworld
+functional definition of microworld
+internal vs external notations
+learning dynamic - comparing expectations with findings
+naturally self-correcting microworld
+Microworlds for physics / dynamics, thermodynamics / gas particles (Uri's), Euclidean Space (Blocks), motion / velocity, economics (Smithstown)
+intrinsic environment - students given working model, mathematics learned intrinsic to the model, feedback is direct, rich env for exploration and the more math they apply the more they can do
+microworld - computational objects, mutliple representations, combinations for complex objects, set of activities => learners manipulate objects, interpret feedback, solve challenges
+experimental-feedback cycle - where learning happens from functional perspective
+objectivism
+ideal symbol systems (follow an objectivist approach)
+transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
+
+

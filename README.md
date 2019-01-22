@@ -29,18 +29,19 @@ This project SHOULD ALSO help with writing proofs or arguments by surfacing all 
 Finally, this project should stop you from feeling guilty about forgetting what you learned a few years ago by reminding you with ample context.
 
 Explore these subjects to grasp the fundamentals of all knowledge:
-1. Mathematics
-2. Statistics
-3. Computer Science
-4. Physics (including EE/MechE/Civil&EnvE/AeroE)
-5. Astronomy
-6. Chemistry (including ChemE)
-7. Biology (including BioE)
-8. Medicine
-9. Economics (including Business and Finance)
-10. Psychology
-11. History (including Political Science and Law)
-12. Art - Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover), Dance, Visual Arts
+
+0. Mathematics
+1. Statistics
+2. Computer Science
+3. Physics (including EE/MechE/Civil&EnvE/AeroE)
+4. Astronomy
+5. Chemistry (including ChemE)
+6. Biology (including BioE)
+7. Medicine
+8. Economics (including Business and Finance)
+9. Psychology
+10. History (including Political Science and Law)
+11. Art - Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover), Dance, Visual Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
@@ -59,9 +60,11 @@ Citations:
 - cheatsheets that are not custom-made (noted) are the first good result on google or google images for "(comprehensive) [subject] cheatsheet"
 - dummies.com
 - cliffnotes.com
+- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
+
+Auxiliary Citations:
 - dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
 - 0011_Differential_Equations also should have cited http://www.math.cmu.edu/~gheorghi/fin_form.pdf
-- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 - https://course-notes.org/biology/outlines
 
