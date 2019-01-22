@@ -1,5 +1,6 @@
 Not easily searchable / non-obvious terms are defined below.  
-Based on CS Education related courses from https://www.sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html (LRN_SCI 301, 426)
+Based on CS Education related courses (LRN_SCI 301, 426) from: 
+sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
 
 learning
 objectivist
