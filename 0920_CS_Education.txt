@@ -1,4 +1,5 @@
 Not easily searchable / non-obvious terms are defined below.  
+Based on CS Education related courses from https://www.sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html (LRN_SCI 301, 426)
 
 learning
 objectivist
@@ -82,7 +83,10 @@ long tail in education (demand-pull)
 connected learning environment
 peer supported
 interest powered
-academically oriented 
+academically oriented
+
+sensemaking:
+
 
 
 learning from materials (Gears, Logo, Legos, Erector)
