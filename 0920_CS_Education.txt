@@ -1,3 +1,5 @@
+Not easily searchable / non-obvious terms are defined below.  
+
 learning
 objectivist
 constructivist
@@ -6,8 +8,82 @@ instructivist
 behavioral
 cognitive
 goal orientation
+experiential value
+didactic
+facilitative
+flexibility of program
+errorless learning
+learning from experience
+intrinsic motivation
+extrinsic motivation
+multifaceted
+learner control
+mathemagenic environment
+generative environment
+cooperative learning
+cultural sensitivity
 
-...
+visibility
+mappings
+affordances
+constraints
+conceptual model
+learned helplessness
+taught helplessness
+gulf of execuition
+gulf evaluation
+slips and errors
+creeping featurism
+design-user-system model
+
+embedded cognition
+situated cognition
+radical constructivists
+social constructivists
+sociocultural theory
+scaffolding
+inquiry
+demand-pull vs supply push learning
+processes
+methodologically individualist / reductionist
+supervenience
+social learning theory
+ethnography
+cognitive modeling
+analogical mapping
+generalization
+cognitive load
+metacognition
+cognitive apprentice
+tacit knowledge 
+self-directed 
+self-regulated
+declarative knowledge
+procedural knowledge
+prior knowledge
+knowledge organization
+course climate
+goal orientation
+apprpriate challenge
+connected learning
+emotions
+
+badges
+productictive inquiry
+clicker
+scholarship forums 
+game-based learning
+massive multiplyer RPG (role playing games)
+remix culture
+tinkering
+open source social capital
+pro-amateur sites
+long tail in education (demand-pull)
+connected learning environment
+peer supported
+interest powered
+academically oriented 
+
 
 learning from materials (Gears, Logo, Legos, Erector)
 concrete thinking
