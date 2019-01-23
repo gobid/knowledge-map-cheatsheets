@@ -103,6 +103,63 @@ process management:
     - constrain activities
 - embed expert guidance
     - clarify charactersitcs 
+    - indicate rationales for scientific practices
+- auto handle nonsalient tasks
+    - nonsalient portions
+    - organization of work products
+    - navigation amongst tools / activities
+articulation and reflections:
+- ongoing articulation / reflection
+    - planning reminders
+    - monitoring reminders
+    - sensemaking articulation reminders
+    - epistemic features of scientific practices and products reminders
+        - how products relate to theory
+self-explanation
+self-awareness
+self-monitoring
+self-efficacy
+growth mindset
+planning
+process monitoring
+comprehension monitoring
+relfection on cognition
+"coding" (activity codes)
+reinterpreting (problem statements)
+strucutral granularity <=> computation level (regulation)
+mental model
+cognitive model
+cognitive support
+programming plans
+beacons
+rules of programmming
+top-down comprehension - hypothesis, DFS
+bottom up comprehension - syntactic - chunk groups - semantic
+program model
+situational model
+systemic vs as-needed code comprehension
+inquiry
+delocalized plans
+integrated metamodel
+knolwedge base
+browsing support
+searching
+multiple views
+context-driven views
+additional cognitive support
+Biggerstaff concept assignment problem
+Singer & Lethbridge just-in-time comprehension of source code
+extraction tools
+analysis tools
+presentation tools 
+program comprehension
+Hawthorne effect
+instrumented data
+cognitive suppport - Walenstein
+Green's Cognitive Dimensions
+mix n' match tools - plug into same framework
+adaptive intervfaces
+model driven visualization
 
 learning from materials (Gears, Logo, Legos, Erector)
 concrete thinking
