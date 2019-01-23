@@ -218,6 +218,10 @@ experimental-feedback cycle - where learning happens from functional perspective
 objectivism
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
+computer, subject, learning strategy overlap - integration of subjects makes it easier to learn
+project HeadLight - introduce to computers into the school 2/3 engaged in doing Logo, ISDP - one particular in it which was Harel's thesis
+constructionist -- overall experiences, curriculum, software
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
