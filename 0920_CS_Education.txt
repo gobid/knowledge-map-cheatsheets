@@ -1,6 +1,4 @@
 Not easily searchable / non-obvious terms are defined below.  
-Based on CS Education related courses (LRN_SCI 301, 426) from: 
-sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
 
 learning
 objectivist
@@ -148,4 +146,15 @@ objectivism
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
 
+Based on CS Education related courses (LRN_SCI 301, 426) from: 
+sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
+- Including all papers read in those classes 
 
+And literature on program comprehension: 
+- All papers listed in https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e
+- A Scaffolding Design Framework for Software to Support Science Inquiry - Quintana et. al.
+- Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
+- Automatic Data Visualization for Novice Pascal Programmers Brad Myers
+- Theories, Methods and Tools in Program Comprehension: Past, Present and Future - Storey
+- Explicitly Teaching Metacognitive and Self-Regulation Skills in Computing - Loksa
+- The Role of Self-Regulation in Programming Problem Solving Process and Success - Loksa and Ko
