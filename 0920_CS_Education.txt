@@ -85,8 +85,24 @@ interest powered
 academically oriented
 
 sensemaking:
-
-
+scaffolding design framework
+- bridge learniner understanding 
+    - visual conceptual organizers
+    - descriptors
+    - expert guidance
+- sepantics of discipline
+    - disciplinary strategies explicit in interaction
+    - disciplinary strategies explicit in artifacts learners create
+- representations inspectable in different ways
+    - inspect to reveal underlying data
+    - malleable represetnations
+process management:
+- structure for complex tasks and functionality 
+    - boundaries
+    - ordered and unordered task decompositions
+    - constrain activities
+- embed expert guidance
+    - clarify charactersitcs 
 
 learning from materials (Gears, Logo, Legos, Erector)
 concrete thinking
@@ -146,6 +162,11 @@ objectivism
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
 
+To Do: 
+- scan rale-proj papers for CS Education terms
+- scan explicit-metacog and role-of-self-reg papers for terms
+- scan terms for which need defs or not (perhaps add bolds around terms but not defs, use sublime to do this)
+
 Based on CS Education related courses (LRN_SCI 301, 426) from: 
 sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
 - Including all papers read in those classes 
@@ -153,8 +174,8 @@ sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html
 And literature on program comprehension: 
 - All papers listed in https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e
 - A Scaffolding Design Framework for Software to Support Science Inquiry - Quintana et. al.
-- Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
-- Automatic Data Visualization for Novice Pascal Programmers Brad Myers
 - Theories, Methods and Tools in Program Comprehension: Past, Present and Future - Storey
 - Explicitly Teaching Metacognitive and Self-Regulation Skills in Computing - Loksa
 - The Role of Self-Regulation in Programming Problem Solving Process and Success - Loksa and Ko
+- Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
+- Automatic Data Visualization for Novice Pascal Programmers Brad Myers
