@@ -228,6 +228,14 @@ Platonism
 The unreasonable effectiveness of mathematics in the natural sciences
 situatedness - more connected to culture and society - math - microworld - measuring-in-kitchen
 
+programming knowledge structures
+- microstructure level understanding - text level
+- macrostructure level understanding - program flow level
+goal hierarchy abstraction - higher level goals and more specific goals of a program
+data flow abstraction
+control flow abstraction - sequence of program actions
+
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
