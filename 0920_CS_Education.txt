@@ -231,9 +231,16 @@ situatedness - more connected to culture and society - math - microworld - measu
 programming knowledge structures
 - microstructure level understanding - text level
 - macrostructure level understanding - program flow level
-goal hierarchy abstraction - higher level goals and more specific goals of a program
+procedural level understanding - control flow (mattered more for 80 studied programmers in Pennington work)
+functional level understanding - goal hierarchy
+goal hierarchy abstraction - higher level goals and more specific goals of a program (think functions) - tasks goals may be important for mental representations (later when doing comprehension after having understood functions)
 data flow abstraction
 control flow abstraction - sequence of program actions
+conditionalized action - a set of conditions results in some action which results in a set of new conditions
+text structure knowledge - break down into nodes of sequence of actions, iteration, conditionals make up programs (like prime number factorization)
+- whether code is meaningful or not, structure helps a learner comprehend it
+- data flow may be difficult to infer since that flows between units
+
 
 
 
