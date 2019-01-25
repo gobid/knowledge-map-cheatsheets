@@ -229,17 +229,27 @@ The unreasonable effectiveness of mathematics in the natural sciences
 situatedness - more connected to culture and society - math - microworld - measuring-in-kitchen
 
 programming knowledge structures
-- microstructure level understanding - text level
-- macrostructure level understanding - program flow level
-procedural level understanding - control flow (mattered more for 80 studied programmers in Pennington work)
+- microstructure level understanding - line by line level
+[TS] - macrostructure level understanding - program flow level
+[TS] procedural level understanding - control flow (mattered more for 80 studied programmers in Pennington work)
 functional level understanding - goal hierarchy
-goal hierarchy abstraction - higher level goals and more specific goals of a program (think functions) - tasks goals may be important for mental representations (later when doing comprehension after having understood functions)
-data flow abstraction
-control flow abstraction - sequence of program actions
-conditionalized action - a set of conditions results in some action which results in a set of new conditions
+1. goal hierarchy abstraction - higher level goals and more specific goals of a program (think functions) - tasks goals may be important for mental representations (later when doing comprehension after having understood functions)
+2. data flow abstraction
+3. control flow abstraction - sequence of program actions
+4. conditionalized action - a set of conditions results in some action which results in a set of new conditions
 text structure knowledge - break down into nodes of sequence of actions, iteration, conditionals make up programs (like prime number factorization)
 - whether code is meaningful or not, structure helps a learner comprehend it
 - data flow may be difficult to infer since that flows between units
+plan knowledge - how patterns of program instructions "go together" (e.g. summing, hashing, counting, etc)
+- hypothesize plans, subplans, etc of a program, then validate them
+- based on data flow relations
+- here data flow info more accessible, exact functional implementation less accessible
+text structure units (TS) vs planned knowledge units (PK) - TS had faster response time (response when recognizing program statements and what they do)
+=> PK - data flow and functional relations important - content-dependent knowledge that links specific program functions to plans that achieve them
+=> TS - control flow and procedural relations - abstract knowledge of program text structures
+TS IMPORTANT INITIALLY ESTABLISHING PROGRAM STRUCTURE IN MEMORY, MACROSTRUCTURES ARE PROCEDURES / CONTROL FLOW
+PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPLIED (situational model) - this is distinct from macrostructure organization of codebase provided by TS
+
 
 
 
