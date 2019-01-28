@@ -254,7 +254,8 @@ PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPL
 
 constructionism allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
 learning-by-making idea and style idea (painter programmer vs formal planner programmer)
-
+Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
+epistemology - nature of knowledge vs nature of knowing
 
 
 To Do: 
