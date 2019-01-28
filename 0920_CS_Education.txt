@@ -2,8 +2,8 @@ Not easily searchable / non-obvious terms are defined below.
 
 learning
 objectivist
-constructivist
-constructionist - building knowledge structures, learner enjoys it and engages a public entity (a sand castle, universe theory, etc) 
+constructivist - knowledge constructed by the learner, not transmitted, construction or meaning (whether it's via play or lecture) (Piaget didn't rule out two people constructing the same understanding but some constructivists do) (more about making concepts / constructs)
+constructionist - building knowledge structures, learner enjoys it and engages a public entity (a sand castle, universe theory, etc); (Papert) method - students will be more deeply involved if they are constructing something others will see and critique (more about physical constructing)
 instructivist
 behavioral
 cognitive
@@ -38,7 +38,8 @@ design-user-system model
 
 embedded cognition
 situated cognition
-radical constructivists
+radical constructivists - no point in curriculum, people construct their own meanings of everything
+philosophical constructivists - control their own learning, deemphasize lecture and transmissive forms
 social constructivists
 sociocultural theory
 scaffolding
@@ -250,6 +251,7 @@ text structure units (TS) vs planned knowledge units (PK) - TS had faster respon
 TS IMPORTANT INITIALLY ESTABLISHING PROGRAM STRUCTURE IN MEMORY, MACROSTRUCTURES ARE PROCEDURES / CONTROL FLOW
 PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPLIED (situational model) - this is distinct from macrostructure organization of codebase provided by TS
 
+- 
 
 
 To Do: 
@@ -260,6 +262,7 @@ To Do:
 Based on CS Education related courses (LRN_SCI 301, 426) from: 
 sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
 - Including all papers read in those classes 
+- https://computinged.wordpress.com/2018/03/19/constructivism-vs-constructivism-vs-constructionism/
 
 And literature on program comprehension: 
 - All papers listed in https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e
