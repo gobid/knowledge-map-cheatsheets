@@ -257,7 +257,8 @@ learning-by-making idea and style idea (painter programmer vs formal planner pro
 Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
 epistemology - nature of knowledge vs nature of knowing
 conservation - of quantity, is the basis of numbers and math, first understanding more / less based on shapes, then truly based on quantity, noting that quantity of liquid doesn't change as it goes into different shapes
-
+confusion of quantity with a quality of say one-dimension (like the height of a liquid in a particular beaker) - qualitative seriation
+- child in first stage has a wrong understanding, child in second stage has 2 conflicting understandings to reconcile, by third stage children know liquid is conserved, multiplication of LxW is what leads to the recognition of conservation for some, in the second stage the child realizes that the other half is the difference of the whole minus the first half
 
 To Do: 
 - scan rale-proj papers for CS Education terms
