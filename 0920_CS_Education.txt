@@ -259,6 +259,11 @@ epistemology - nature of knowledge vs nature of knowing
 conservation - of quantity, is the basis of numbers and math, first understanding more / less based on shapes, then truly based on quantity, noting that quantity of liquid doesn't change as it goes into different shapes
 confusion of quantity with a quality of say one-dimension (like the height of a liquid in a particular beaker) - qualitative seriation
 - child in first stage has a wrong understanding, child in second stage has 2 conflicting understandings to reconcile, by third stage children know liquid is conserved, multiplication of LxW is what leads to the recognition of conservation for some, in the second stage the child realizes that the other half is the difference of the whole minus the first half
+    - noting that the liquid in B1 + B2 is all coming from A1 
+    - noting more dimensions like width and depth 
+    - recognizing the multiplicity of the number of glasses 
+    - students realizing that half + half = whole. 
+    - I also am curious whether the order of these realizations comes to different students differently.
 
 To Do: 
 - scan rale-proj papers for CS Education terms
