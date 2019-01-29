@@ -256,6 +256,7 @@ constructionism allows any learner to learn how they want, demand-pull of the co
 learning-by-making idea and style idea (painter programmer vs formal planner programmer)
 Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
 epistemology - nature of knowledge vs nature of knowing
+conservation - of quantity, is the basis of numbers and math, first understanding more / less based on shapes, then truly based on quantity, noting that quantity of liquid doesn't change as it goes into different shapes
 
 
 To Do: 
