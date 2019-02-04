@@ -283,6 +283,11 @@ randomness - important for changing clusters (students start off with more deter
 macro-level rules vs micro-level rules (only need to program micro-level rules)
 StarLogo vs DiffEq - starlogo allows students to zoom into individual view not just solving a diffeq
 
+Programmable Brick - type commands into brick, includes even the Lego Logo Brick (https://en.wikipedia.org/wiki/Lego_Logo, Lego Mindstorms)
+BBB - beyone black boxes - students design scientific instruments
+    - engineering aspects of scientific inquiry
+    - new application can lead to new tech but vice versa also
+perspective - children should understand technologies rather than become enslaved to them (cricket thermometer they build it themselves so they understand temperature conversions better)
 
 
 To Do: 
