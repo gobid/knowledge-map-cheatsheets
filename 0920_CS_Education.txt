@@ -265,6 +265,26 @@ confusion of quantity with a quality of say one-dimension (like the height of a 
     - students realizing that half + half = whole. 
     - I also am curious whether the order of these realizations comes to different students differently.
 
+levels - of understanding, combining lower ones to form higher ones (jams vs cars, levels of computing from electrons to code)
+slippage - confusion between levels of understanding can lead to misunderstanding
+StarLogo - helps people build models of multilevel understanding
+combo is different from sum of parts - waves - traffic jam wave, wave on a rope
+systemic approach - studying systems as opposed to phenomena in isolation
+organizational chart view - traditional hierarchical way of thinking about levels
+container view - parts of a whole, day month year
+jam view - interactions also considered, collection is different from sum of parts
+Minsky mind theory - mind arises from interaction of individual neurons (analogously organism / colony / body arises from interaction of individual cells)
+emergent behavior - human wave arises, moves across crowd as individual humans move arms up/down
+StarLogo - many turtles to simulate complex systems (from scratch, or modify complex system)
+pacemaker cell - leader cells that help other cells aggregate in slime, pacemakers are not needed for aggregation
+centralized vs decentralized control
+positive and negative feedback for cluster growth, larger clusters are more stable
+randomness - important for changing clusters (students start off with more deterministic mindsets)
+macro-level rules vs micro-level rules (only need to program micro-level rules)
+StarLogo vs DiffEq - starlogo allows students to zoom into individual view not just solving a diffeq
+
+
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
