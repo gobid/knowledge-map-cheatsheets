@@ -282,6 +282,8 @@ positive and negative feedback for cluster growth, larger clusters are more stab
 randomness - important for changing clusters (students start off with more deterministic mindsets)
 macro-level rules vs micro-level rules (only need to program micro-level rules)
 StarLogo vs DiffEq - starlogo allows students to zoom into individual view not just solving a diffeq
+- mutli turtle, connection machines, made at thinking machines, redesigned starlogo to netlogo - still an active team
+Minsky - taller vs more - taller does it always win - administrative layer to mind - appearance taller vs wider - but history tells us  tells us the liquid is confined -- so it stays the same
 
 Programmable Brick - type commands into brick, includes even the Lego Logo Brick (https://en.wikipedia.org/wiki/Lego_Logo, Lego Mindstorms)
 BBB - beyone black boxes - students design scientific instruments
