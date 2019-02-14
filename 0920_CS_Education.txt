@@ -291,6 +291,34 @@ BBB - beyone black boxes - students design scientific instruments
     - new application can lead to new tech but vice versa also
 perspective - children should understand technologies rather than become enslaved to them (cricket thermometer they build it themselves so they understand temperature conversions better)
 
+Bifocal modeling - computers, robotics, real-world sensing
+
+Agent-based modeling - agent follows certain rules, epiphenomena emerge
+- physical + virtual students performed better than only virtual
+Bifocal modeling - connecting virtual and physical models to improve understanding
+- ability to compare theoretical and practical models
+- ability to use physical data as training data in ml algorithms
+Scale - 100 agent simulations can mimic billion molecule real world interactions
+Coefficients and precision - adjusting physical phenomenon (hair dryer wind) to real world settings (forest fire winds)
+Energy loss - newtonian physics taught in schools is a rough approximation of the true situation (air resistance, friction, other variations etc)
+Sychronicity - synchronize physical sensor readings with software model ticks
+
+Embodied Modeling Approach for Biology
+Agent-based modeling of molecules, cells, organisms etc and then using micro rules in software to observe emergent macro phenomena
+NetLogo agent-based modeling to explore “levels” in biology, agent-level to complex system level
+- elicits scientific inquiry from the students
+- mechanism should be included in rules when possible, otherwise use probabilities
+- danger of curve fitting to get the right emergent model can be overcome by a strategy of questioning missing components
+- removes requirement of complex mathematics (i.e. diffeq)
+Classical tools vs embodied tools — former make aggregate level assumptions, latter code individual assumptions and discover aggregate-level consequences
+- scrutinize both individual assumptions and aggregate outcomes in embodied tools
+- scrutinize only aggregate outcomes in classical tools
+- equations seem to fit data but don’t provide explanations of mechanism that embodied models do
+(- seems levels should apply to JS program comprehension too)
+- equally plausible models must be compared using 
+- students will be more prepared for scientific inquiry, (but they need to compare with exp data?)
+Agent-personification - i.e. Paul pretending to be the firefly in order to understand how it would move in conjunction with other matter
+Robustness - a model that isn’t perturbed by parameter changes, particularly small ones
 
 To Do: 
 - scan rale-proj papers for CS Education terms
