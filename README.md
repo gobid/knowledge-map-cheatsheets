@@ -41,7 +41,7 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 8. Economics (including Business and Finance)
 9. Psychology
 10. History (including Political Science and Law)
-11. Art - Music (piano, music theory, singing, etc; use spotify, youtube, & saavn radio to discover), Dance, Visual Arts
+11. Art - Literature, Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify, youtube, saavn for inspiration)
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
