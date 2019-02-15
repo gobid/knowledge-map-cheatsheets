@@ -1,13 +1,167 @@
+Not easily searchable / non-obvious terms are defined below.  
+
 learning
 objectivist
-constructivist
-constructionist
+constructivist - knowledge constructed by the learner, not transmitted, construction or meaning (whether it's via play or lecture) (Piaget didn't rule out two people constructing the same understanding but some constructivists do) (more about making concepts / constructs)
+constructionist - building knowledge structures, learner enjoys it and engages a public entity (a sand castle, universe theory, etc); (Papert) method - students will be more deeply involved if they are constructing something others will see and critique (more about physical constructing)
 instructivist
+reductionist - breaking down any phenomenon into simple parts 
 behavioral
 cognitive
 goal orientation
+experiential value
+didactic
+facilitative
+flexibility of program
+errorless learning
+learning from experience
+intrinsic motivation
+extrinsic motivation
+multifaceted
+learner control
+mathemagenic environment
+generative environment
+cooperative learning
+cultural sensitivity
 
-...
+visibility
+mappings
+affordances
+constraints
+conceptual model
+learned helplessness
+taught helplessness
+gulf of execuition
+gulf evaluation
+slips and errors
+creeping featurism
+design-user-system model
+
+embedded cognition
+situated cognition
+radical constructivists - no point in curriculum, people construct their own meanings of everything
+philosophical constructivists - control their own learning, deemphasize lecture and transmissive forms
+social constructivists
+sociocultural theory
+scaffolding
+inquiry
+demand-pull vs supply push learning
+processes
+methodologically individualist / reductionist
+supervenience
+social learning theory
+ethnography
+cognitive modeling
+analogical mapping
+generalization
+cognitive load
+metacognition
+cognitive apprentice
+tacit knowledge 
+self-directed 
+self-regulated
+declarative knowledge
+procedural knowledge
+prior knowledge
+knowledge organization
+course climate
+goal orientation
+apprpriate challenge
+connected learning
+emotions
+
+badges
+productictive inquiry
+clicker
+scholarship forums 
+game-based learning
+massive multiplyer RPG (role playing games)
+remix culture
+tinkering
+open source social capital
+pro-amateur sites
+long tail in education (demand-pull)
+connected learning environment
+peer supported
+interest powered
+academically oriented
+
+sensemaking:
+scaffolding design framework
+- bridge learniner understanding 
+    - visual conceptual organizers
+    - descriptors
+    - expert guidance
+- sepantics of discipline
+    - disciplinary strategies explicit in interaction
+    - disciplinary strategies explicit in artifacts learners create
+- representations inspectable in different ways
+    - inspect to reveal underlying data
+    - malleable represetnations
+process management:
+- structure for complex tasks and functionality 
+    - boundaries
+    - ordered and unordered task decompositions
+    - constrain activities
+- embed expert guidance
+    - clarify charactersitcs 
+    - indicate rationales for scientific practices
+- auto handle nonsalient tasks
+    - nonsalient portions
+    - organization of work products
+    - navigation amongst tools / activities
+articulation and reflections:
+- ongoing articulation / reflection
+    - planning reminders
+    - monitoring reminders
+    - sensemaking articulation reminders
+    - epistemic features of scientific practices and products reminders
+        - how products relate to theory
+self-explanation
+self-awareness
+self-monitoring
+self-efficacy
+growth mindset
+planning
+process monitoring
+comprehension monitoring
+relfection on cognition
+"coding" (activity codes)
+reinterpreting (problem statements)
+strucutral granularity <=> computation level (regulation)
+mental model
+cognitive model
+cognitive support
+programming plans
+beacons
+rules of programmming
+top-down comprehension - hypothesis, DFS
+bottom up comprehension - syntactic - chunk groups - semantic
+program model
+situational model
+systemic vs as-needed code comprehension
+inquiry
+delocalized plans
+integrated metamodel
+knolwedge base
+browsing support
+searching
+multiple views
+context-driven views
+additional cognitive support
+Biggerstaff concept assignment problem
+Singer & Lethbridge just-in-time comprehension of source code
+extraction tools
+analysis tools
+presentation tools 
+program comprehension
+Hawthorne effect
+instrumented data
+cognitive suppport - Walenstein
+Green's Cognitive Dimensions
+mix n' match tools - plug into same framework
+adaptive intervfaces
+model driven visualization
 
 learning from materials (Gears, Logo, Legos, Erector)
 concrete thinking
@@ -67,4 +221,120 @@ objectivism
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
 
+computer, subject, learning strategy overlap - integration of subjects makes it easier to learn
+project HeadLight - introduce to computers into the school 2/3 engaged in doing Logo, ISDP - one particular in it which was Harel's thesis
+constructionist -- overall experiences, curriculum, software
+cluster effects - students affect each other, hierarchy linear modeling
+low threshold high ceiling tools
+Platonism
+The unreasonable effectiveness of mathematics in the natural sciences
+situatedness - more connected to culture and society - math - microworld - measuring-in-kitchen
 
+programming knowledge structures
+- microstructure level understanding - line by line level
+[TS] - macrostructure level understanding - program flow level
+[TS] procedural level understanding - control flow (mattered more for 80 studied programmers in Pennington work)
+functional level understanding - goal hierarchy
+1. goal hierarchy abstraction - higher level goals and more specific goals of a program (think functions) - tasks goals may be important for mental representations (later when doing comprehension after having understood functions)
+2. data flow abstraction
+3. control flow abstraction - sequence of program actions
+4. conditionalized action - a set of conditions results in some action which results in a set of new conditions
+text structure knowledge - break down into nodes of sequence of actions, iteration, conditionals make up programs (like prime number factorization)
+- whether code is meaningful or not, structure helps a learner comprehend it
+- data flow may be difficult to infer since that flows between units
+plan knowledge - how patterns of program instructions "go together" (e.g. summing, hashing, counting, etc)
+- hypothesize plans, subplans, etc of a program, then validate them
+- based on data flow relations
+- here data flow info more accessible, exact functional implementation less accessible
+text structure units (TS) vs planned knowledge units (PK) - TS had faster response time (response when recognizing program statements and what they do)
+=> PK - data flow and functional relations important - content-dependent knowledge that links specific program functions to plans that achieve them
+=> TS - control flow and procedural relations - abstract knowledge of program text structures
+TS IMPORTANT INITIALLY ESTABLISHING PROGRAM STRUCTURE IN MEMORY, MACROSTRUCTURES ARE PROCEDURES / CONTROL FLOW
+PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPLIED (situational model) - this is distinct from macrostructure organization of codebase provided by TS
+
+constructionism allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
+learning-by-making idea and style idea (painter programmer vs formal planner programmer)
+Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
+epistemology - nature of knowledge vs nature of knowing
+conservation - of quantity, is the basis of numbers and math, first understanding more / less based on shapes, then truly based on quantity, noting that quantity of liquid doesn't change as it goes into different shapes
+confusion of quantity with a quality of say one-dimension (like the height of a liquid in a particular beaker) - qualitative seriation
+- child in first stage has a wrong understanding, child in second stage has 2 conflicting understandings to reconcile, by third stage children know liquid is conserved, multiplication of LxW is what leads to the recognition of conservation for some, in the second stage the child realizes that the other half is the difference of the whole minus the first half
+    - noting that the liquid in B1 + B2 is all coming from A1 
+    - noting more dimensions like width and depth 
+    - recognizing the multiplicity of the number of glasses 
+    - students realizing that half + half = whole. 
+    - I also am curious whether the order of these realizations comes to different students differently.
+
+levels - of understanding, combining lower ones to form higher ones (jams vs cars, levels of computing from electrons to code)
+slippage - confusion between levels of understanding can lead to misunderstanding
+StarLogo - helps people build models of multilevel understanding
+combo is different from sum of parts - waves - traffic jam wave, wave on a rope
+systemic approach - studying systems as opposed to phenomena in isolation
+organizational chart view - traditional hierarchical way of thinking about levels
+container view - parts of a whole, day month year
+jam view - interactions also considered, collection is different from sum of parts
+Minsky mind theory - mind arises from interaction of individual neurons (analogously organism / colony / body arises from interaction of individual cells)
+emergent behavior - human wave arises, moves across crowd as individual humans move arms up/down
+StarLogo - many turtles to simulate complex systems (from scratch, or modify complex system)
+pacemaker cell - leader cells that help other cells aggregate in slime, pacemakers are not needed for aggregation
+centralized vs decentralized control
+positive and negative feedback for cluster growth, larger clusters are more stable
+randomness - important for changing clusters (students start off with more deterministic mindsets)
+macro-level rules vs micro-level rules (only need to program micro-level rules)
+StarLogo vs DiffEq - starlogo allows students to zoom into individual view not just solving a diffeq
+- mutli turtle, connection machines, made at thinking machines, redesigned starlogo to netlogo - still an active team
+Minsky - taller vs more - taller does it always win - administrative layer to mind - appearance taller vs wider - but history tells us  tells us the liquid is confined -- so it stays the same
+
+Programmable Brick - type commands into brick, includes even the Lego Logo Brick (https://en.wikipedia.org/wiki/Lego_Logo, Lego Mindstorms)
+BBB - beyone black boxes - students design scientific instruments
+    - engineering aspects of scientific inquiry
+    - new application can lead to new tech but vice versa also
+perspective - children should understand technologies rather than become enslaved to them (cricket thermometer they build it themselves so they understand temperature conversions better)
+
+Bifocal modeling - computers, robotics, real-world sensing
+
+Agent-based modeling - agent follows certain rules, epiphenomena emerge
+- physical + virtual students performed better than only virtual
+Bifocal modeling - connecting virtual and physical models to improve understanding
+- ability to compare theoretical and practical models
+- ability to use physical data as training data in ml algorithms
+Scale - 100 agent simulations can mimic billion molecule real world interactions
+Coefficients and precision - adjusting physical phenomenon (hair dryer wind) to real world settings (forest fire winds)
+Energy loss - newtonian physics taught in schools is a rough approximation of the true situation (air resistance, friction, other variations etc)
+Sychronicity - synchronize physical sensor readings with software model ticks
+
+Embodied Modeling Approach for Biology
+Agent-based modeling of molecules, cells, organisms etc and then using micro rules in software to observe emergent macro phenomena
+NetLogo agent-based modeling to explore “levels” in biology, agent-level to complex system level
+- elicits scientific inquiry from the students
+- mechanism should be included in rules when possible, otherwise use probabilities
+- danger of curve fitting to get the right emergent model can be overcome by a strategy of questioning missing components
+- removes requirement of complex mathematics (i.e. diffeq)
+Classical tools vs embodied tools — former make aggregate level assumptions, latter code individual assumptions and discover aggregate-level consequences
+- scrutinize both individual assumptions and aggregate outcomes in embodied tools
+- scrutinize only aggregate outcomes in classical tools
+- equations seem to fit data but don’t provide explanations of mechanism that embodied models do
+(- seems levels should apply to JS program comprehension too)
+- equally plausible models must be compared using 
+- students will be more prepared for scientific inquiry, (but they need to compare with exp data?)
+Agent-personification - i.e. Paul pretending to be the firefly in order to understand how it would move in conjunction with other matter
+Robustness - a model that isn’t perturbed by parameter changes, particularly small ones
+
+To Do: 
+- scan rale-proj papers for CS Education terms
+- scan explicit-metacog and role-of-self-reg papers for terms
+- scan terms for which need defs or not (perhaps add bolds around terms but not defs, use sublime to do this)
+
+Based on CS Education related courses (LRN_SCI 301, 426) from: 
+sesp.northwestern.edu/learning-sciences/course-schedule-2018-2019.html 
+- Including all papers read in those classes 
+- https://computinged.wordpress.com/2018/03/19/constructivism-vs-constructivism-vs-constructionism/
+
+And literature on program comprehension: 
+- All papers listed in https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e
+- A Scaffolding Design Framework for Software to Support Science Inquiry - Quintana et. al.
+- Theories, Methods and Tools in Program Comprehension: Past, Present and Future - Storey
+- Explicitly Teaching Metacognitive and Self-Regulation Skills in Computing - Loksa
+- The Role of Self-Regulation in Programming Problem Solving Process and Success - Loksa and Ko
+- Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
+- Automatic Data Visualization for Novice Pascal Programmers Brad Myers
