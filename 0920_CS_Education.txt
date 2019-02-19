@@ -320,6 +320,12 @@ Classical tools vs embodied tools — former make aggregate level assumptions, l
 Agent-personification - i.e. Paul pretending to be the firefly in order to understand how it would move in conjunction with other matter
 Robustness - a model that isn’t perturbed by parameter changes, particularly small ones
 
+participatory system - where all actors both machines and humans may take active or passive roles
+conversational system - - systems that take human conversation as a metaphor (though not implying the necessary use of human language)
+connectionism - using neural networks to explain the human mind
+story telling in computing medium - plot, tension, catharsis, etc in interactions with the computer
+convivial - media in which all partipants can contribute content
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
