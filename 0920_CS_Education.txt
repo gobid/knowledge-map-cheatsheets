@@ -326,6 +326,10 @@ connectionism - using neural networks to explain the human mind
 story telling in computing medium - plot, tension, catharsis, etc in interactions with the computer
 convivial - media in which all partipants can contribute content
 
+Protean teaching tools - ones that are very versatile to custom learner interests, such as computers
+transitional object - one that enables a bridge between “concrete” (example-based) and “formal” (abstract) stages of reasoning (i.e. logo turtle, mindstorms robot)
+physical settings - ones that exploit the affordances of physical objects for pedagogical purposes, physical objects have certain affordances particularly for children (think physicalized microworlds)
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
