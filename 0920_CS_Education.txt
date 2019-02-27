@@ -331,6 +331,7 @@ transitional object - one that enables a bridge between “concrete” (example-
 physical settings - ones that exploit the affordances of physical objects for pedagogical purposes, physical objects have certain affordances particularly for children (think physicalized microworlds)
 
 primitives in constructionism - base tools to work with, "forward" "backward" the turtle (differential) in Logo better than compass and straight edge (what greek's had in their mathematics)
+big vs wig - beyond the information given (let them discover it themselves), with information given (tell them then constructivist activity)
 
 
 To Do: 
