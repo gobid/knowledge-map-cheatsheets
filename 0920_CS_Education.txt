@@ -193,7 +193,7 @@ evocativeness
 integration - affords representing multiple concepts
 situational learning
 appprentice learning
-ISDP - instructional software design project
+ISDP - instructional software design project (Harel)
 personalization (remembering students actually acting out fd 100 in elementary school)
 linear vs modular programming
 disconnection of knowledge (knowledge starts off as knowledge in parts)
@@ -329,6 +329,9 @@ convivial - media in which all partipants can contribute content
 Protean teaching tools - ones that are very versatile to custom learner interests, such as computers
 transitional object - one that enables a bridge between “concrete” (example-based) and “formal” (abstract) stages of reasoning (i.e. logo turtle, mindstorms robot)
 physical settings - ones that exploit the affordances of physical objects for pedagogical purposes, physical objects have certain affordances particularly for children (think physicalized microworlds)
+
+primitives in constructionism - base tools to work with, "forward" "backward" the turtle (differential) in Logo better than compass and straight edge (what greek's had in their mathematics)
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
