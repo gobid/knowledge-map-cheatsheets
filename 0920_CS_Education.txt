@@ -333,6 +333,11 @@ physical settings - ones that exploit the affordances of physical objects for pe
 primitives in constructionism - base tools to work with, "forward" "backward" the turtle (differential) in Logo better than compass and straight edge (what greek's had in their mathematics)
 big vs wig - beyond the information given (let them discover it themselves), with information given (tell them then constructivist activity)
 
+material intelligence - computer literacy in our computerized society
+pillars of literacy - material dependencies (physical objects like pen and paper, computers); cognitive dependencies (human has to be able to interpret the book); social basis in community for advanced literacies
+social niche - interests and activities of individual people in society that fill a "niche" in the complex web of society - affected by material dependencies - computers need to support all niches
+protean material dependencies - material dependencies (i.e. computational media) that can support all the niches (from romance novels to scientific journal articles)
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
