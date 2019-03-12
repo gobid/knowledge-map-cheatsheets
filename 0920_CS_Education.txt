@@ -338,6 +338,9 @@ pillars of literacy - material dependencies (physical objects like pen and paper
 social niche - interests and activities of individual people in society that fill a "niche" in the complex web of society - affected by material dependencies - computers need to support all niches
 protean material dependencies - material dependencies (i.e. computational media) that can support all the niches (from romance novels to scientific journal articles)
 
+scaffold
+scaffold past a concept
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
