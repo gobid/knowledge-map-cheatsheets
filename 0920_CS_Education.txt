@@ -343,7 +343,11 @@ scaffold past a concept
 
 computer-based modeling
 agent-based modeling
-power properties - restructure of domain should be able to do more (hindu arabic over roman), cognitive properties - restructurations that make learning easy by playing well with pre-existing knowledge (p-prims), affective properties - content is engaging, social properties - social sharability of properties, diversity properties - working well with different ways of thinking 
+power properties - restructure of domain should be able to do more (hindu arabic over roman)
+cognitive properties - restructurations that make learning easy by playing well with pre-existing knowledge (p-prims)
+affective properties - content is engaging
+social properties - social sharability of properties
+diversity properties - working well with different ways of thinking 
 
 
 To Do: 
