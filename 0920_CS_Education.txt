@@ -349,6 +349,7 @@ affective properties - content is engaging
 social properties - social sharability of properties
 diversity properties - working well with different ways of thinking 
 
+low floor vs high ceiling entry points
 
 To Do: 
 - scan rale-proj papers for CS Education terms
