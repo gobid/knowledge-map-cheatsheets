@@ -352,6 +352,7 @@ diversity properties - working well with different ways of thinking
 low floor vs high ceiling entry points
 
 ask wilensky for 10 points about logo
+- sherry - tinkerers vs planners in programmers
 
 To Do: 
 - scan rale-proj papers for CS Education terms
