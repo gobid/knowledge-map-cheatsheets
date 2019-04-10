@@ -354,6 +354,20 @@ low floor vs high ceiling entry points
 ask wilensky for 10 points about logo + play (see on canvas)
 - sherry - tinkerers vs planners in programmers
 
+Knowledge Representations
+- LS stimulus response bond - learners react to stimuli
+- ACT theory - the bridge between learning and performance
+- production rule - 
+- thorndikes cats - they got out of a box due to trial and error, stimulus and response - not problem solving
+- Behaviorism, also known as behavioral psychology, is a theory of learning based on the idea that all behaviors are acquired through conditioning (wikipedia)
+- Gestalt psychologists - is an attempt to understand the laws behind the ability to acquire and maintain meaningful perceptions in an apparently chaotic world. The central principle of gestalt psychology is that the mind forms a global whole with self-organizing tendencies (from wikipedia) - used problem solving to prove points and prove wrong behaviorists but did not look into problem solving process
+- Newell and Simon - looked at problem solving, and the general relationship between problem solving and learning
+- Tolman - importance of goals for learning and behavior
+- problem solving - state, operator - transforms one state to another / rules, search through states by applying operators 
+- internal vs external application of operators - the problem solver imagines some sequence of actions vs the problem solver directly applies some actions
+- 
+
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
@@ -372,3 +386,4 @@ And literature on program comprehension:
 - The Role of Self-Regulation in Programming Problem Solving Process and Success - Loksa and Ko
 - Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
 - Automatic Data Visualization for Novice Pascal Programmers Brad Myers
+- Wikipedia
