@@ -368,8 +368,26 @@ Knowledge Representations
 - problem-solving method - principles used for selecting operators
 - hill climbing - find similar states to goal state
 - problem solving and learning - goals convert what has been learned into performance (via problem solving)
+- LISP
 - 
 
+- interpretation - "the system can interpret an ex-pression if the expression designates a process and if, given the expression, the system can carry out the process"
+- turing machine - symbol system (manipulates symbols on a strip of tape according to a table of rules)
+- necessary - exhibits general intelligence
+- sufficient - any physical symbol system of sufficient size can be organized further to exhibit general intelligence.
+- hypothesis - physical symbol systems are capable of intelligent action, and that general intelligent action calls for a physical symbol system
+- formal logic - mathematical logic, propositional, first order, etc. 
+- milestones in computing after turing machines: stored programs (Eniac), list processing, LISP, 
+- GPS - general problem solver, PLANNER, CONNIVER - first AI systems 
+- modeling human behavior as symbol systems - information processing psychology - process of experimentally finding out whether symbol systems and human cognition converge
+- heuristic search - using heuristic rules to guide search so you don't have to traverse the exponential search space - selectivity on branches to explore 
+- solution generation in problem space - harder than just a verification problem
+- weak methods - methods that deal with the control of exponential expansion
+- strong methods - highly structured situations (linear programming problems)
+- optimizing search with global variables
+- semantic recognition systems - cached information that may be helpful for problem solving
+- representations - mutilated checker board - you know that there are 2 less squares of one color than the other - and each tile must cover 1 black / 1 white - this latter representation makes it easier to solve the problem
+- 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
