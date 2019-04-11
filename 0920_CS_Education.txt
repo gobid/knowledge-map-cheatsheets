@@ -365,6 +365,9 @@ Knowledge Representations
 - Tolman - importance of goals for learning and behavior
 - problem solving - state, operator - transforms one state to another / rules, search through states by applying operators 
 - internal vs external application of operators - the problem solver imagines some sequence of actions vs the problem solver directly applies some actions
+- problem-solving method - principles used for selecting operators
+- hill climbing - find similar states to goal state
+- problem solving and learning - goals convert what has been learned into performance (via problem solving)
 - 
 
 
