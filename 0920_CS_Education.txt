@@ -389,6 +389,17 @@ Knowledge Representations
 - representations - mutilated checker board - you know that there are 2 less squares of one color than the other - and each tile must cover 1 black / 1 white - this latter representation makes it easier to solve the problem
 - 
 
+- schema - building blocks of cognition
+- schema theory - all knowledge is packaged into units, data structure for representing generic concepts 
+    - like a play that has instantiations, *variables* can take on values, but schemas are more abstract / abstractable and are about any concept not just a set of events), consists of *sub-schemas*
+    - like theories in that they can predict events or outcomes
+    - like procedures because they evaluate the quality of their own fit to available data (are *active*), and have sub-procedures/schema
+    - like parser - *recognition devices* which given a sequence of symbols determines whether the sequence forms a legal sentence, etc (computational linguistics)
+    - *can represent knowledge at all levels of abstraction*
+    - *can represent knowledge rather than definitions*
+- conceptual-driven processing - expectation-driven - when a schema is activated and it activates subschemata which are expected to account for some portion of the input data
+- 
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
