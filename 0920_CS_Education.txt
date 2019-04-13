@@ -369,7 +369,6 @@ Knowledge Representations
 - hill climbing - find similar states to goal state
 - problem solving and learning - goals convert what has been learned into performance (via problem solving)
 - LISP
-- 
 
 - interpretation - "the system can interpret an ex-pression if the expression designates a process and if, given the expression, the system can carry out the process"
 - turing machine - symbol system (manipulates symbols on a strip of tape according to a table of rules)
@@ -387,7 +386,6 @@ Knowledge Representations
 - optimizing search with global variables
 - semantic recognition systems - cached information that may be helpful for problem solving
 - representations - mutilated checker board - you know that there are 2 less squares of one color than the other - and each tile must cover 1 black / 1 white - this latter representation makes it easier to solve the problem
-- 
 
 - schema - building blocks of cognition
 - schema theory - all knowledge is packaged into units, data structure for representing generic concepts (they use sensory data)
@@ -416,6 +414,24 @@ Knowledge Representations
     - story schema - frame and slot to represent what the user knows about the story structure
     - story grammar - hierarchy of categories of story information
 - story content - events and causal relations because of specific story content
+-
+
+- content vs form comprehension - content fits into the structure of the narrative (form)
+- semantic content comprehension - understanding the context of say an algebra word problem
+- text grammar approach - emphasizes importance of formulat structures and and suggests "distributed decision processes"
+- schema approach - emphasizes semantic knowledge, and decisions are made early in comprehension process
+    - question whether processing strategy early in the reading matters - 2 strategies
+- single processing strategy - no choice at time of reading - i.e. just translate sentences into equations in reading and try to solve after
+- function tagging in algebra word problem solving
+    - object names - quantities that will be variables in algebraic equations
+    - substituitions - quantities that may be replaced by another string 
+    - operators - words that signal an operator should be use (times, plus, etc)
+- schemas in algebra word problem solving
+    - people can organize problems into types
+    - people can categorize problems without completely formulating them for solution
+    - people have information about how to solve each problem type
+    - people use category identification to formulate problems in the course of actually solving them
+- algebra word problem categorization - people can categorize algebra word problems with considerable agreement
 - 
 
 To Do: 
