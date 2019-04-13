@@ -412,6 +412,12 @@ Knowledge Representations
     - induction - learning from data, if events / configurations occur multiple times in nature then we can form a schema out of them
 - familiarity of problem can help users surface schema that they may otherwise not be able to draw upon (vowel/number card problem vs sears receipt problem)   
 
+- knowledge about story structure
+    - story schema - frame and slot to represent what the user knows about the story structure
+    - story grammar - hierarchy of categories of story information
+- story content - events and causal relations because of specific story content
+- 
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
