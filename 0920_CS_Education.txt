@@ -432,7 +432,18 @@ Knowledge Representations
     - people have information about how to solve each problem type
     - people use category identification to formulate problems in the course of actually solving them
 - algebra word problem categorization - people can categorize algebra word problems with considerable agreement
-- 
+- categorize can happen two fold - general type then specific type
+- subjects have knowledge about problem types but may not know how to use that knowledge for solutions
+- standard problems - in which the semantics of the story match the problems structure in an expected way
+- tried isomorphic problems but with different algebraic structure - line by line interpret vs read-entire-problem approach
+    - line-by-line used more in non-standard problems (general procedure)
+    - subjects classified some of the problems while solving them
+    - for standard problems, they were solved using info retrieved from memory
+- even non-standard problems are solved using schemas - but when the format is drastically different from algebraic structure then there is a translation component into more paraphrased language
+- when given options of several schema, bias toward one schema may cause a misapplication of schemas
+- choice of schema early on can have an impact sometimes and other times not - they do schema classifications (even when instructions don't tell them to do it explicitly)
+
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
