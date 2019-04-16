@@ -414,7 +414,40 @@ Knowledge Representations
     - story schema - frame and slot to represent what the user knows about the story structure
     - story grammar - hierarchy of categories of story information
 - story content - events and causal relations because of specific story content
--
+- world knowledge - knowledge of human goals tendencies traits context
+- integrating different types of texts - narratives, expositions, descriptions
+- reader model's text level processing - how readers uses schema to comprehend and recall a passage
+- factors affecting text integration
+    - Knowledge of the structure of the text genre.
+    - Knowledge about the referential situation.
+    - Integrative cues in the text.
+    - Constructing generalizations or abstractions.
+    - Focusing on the causal or temporal chain of events in a narrative text.
+    - Focusing on the described phenomena and their explanation in an expository text.
+    - Focusing on the referential situation in a descriptive text.
+- story schema - knowledge that members of a culture extract about the typical structure of stories
+- bartlett's experiment - people fit stories into schema that they know (and an attitude they assume)
+    - images (instantiations of schema parts) help highlight schema items
+- story grammar - a slightly different characterization of the knowledge of story structures - directly denotes hierarchical relationships within the story
+    - setting (where&when) and episode (what happens) - setting, event, internal response, action, event
+    - hierarchical tree structure
+- reading time on sentences higher in the hierarchy is greater
+    - more interesting, or may take more time to integrate into understanding of story
+    - also spend more time on sentences at the boundary of an episode
+    - they remember these sentences better as well
+- causal relations - how earlier episodes affect later ones
+    - actions can be caused by goals, vocations, traits, acts of god
+    - time to read a sentence goes up as the causal distance increases between it and the sentence that precedes it
+- goal pursual - narratives consist of a protagonist pursuing a goal
+- plot unit - a particular configuration of goals, actions, and affective states
+- assessments of story structure - can scramble sentences, can have same content serve different structural roles (setting, initiating event, internal response, consequence, reaction)
+- causal centrality and story grammar categories
+    - central event or state must describe a superordinate rather than a component entity (eating breakfast not pouring cereal)
+    - central event or state - may be part of the causal chain of events and states that lead from beginning to end of story
+    - central event or state may introduce a main character
+- script - a schema for knowledge about routine occurrences
+    - as opposed to a schema for story structure (containing slots like story structure and resolution)
+    - 
 
 - content vs form comprehension - content fits into the structure of the narrative (form)
 - semantic content comprehension - understanding the context of say an algebra word problem
