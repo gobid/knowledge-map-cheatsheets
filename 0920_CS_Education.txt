@@ -447,7 +447,30 @@ Knowledge Representations
     - central event or state may introduce a main character
 - script - a schema for knowledge about routine occurrences
     - as opposed to a schema for story structure (containing slots like story structure and resolution)
-    - 
+    - balancing story structure and story content pedagogy is important
+- knowledge of people - general knowledge of how humans behave, their motivations, concerns, etc
+- knowledge of specific content domains - slots can have default values that can be inferred if they were not mentioned (you pay the bill at the restaurant) where the schema is the frame-with-slots structure
+    - how choice is determined of which schema to use is not completely understood
+- narrative - describes events linked by causation or theme
+    - reader fills in gaps of causal chain
+- descriptions - refers to a static situation in terms of its physical features
+    - reader sequentially adds to their understanding when reading
+    - context and background knowledge important for understanding descriptions sometimes
+- exposition - describes logically related events to inform or persuade (job-related reading, news media)
+    - read the information about more important schema slots at a slower rate than information about less important schema slots
+- theme extraction - can be from topic sentence, sometimes reader needs to figure it out from prose
+    - if later sentences contradict topic, then generalization is redone
+- integrative cues in texts - explicit cues how different clauses relate to one another (consequently)
+- making inferences - just like other knowledge but perhaps less confidence
+    - backwards - link most recently read text to some text that occurred earlier
+    - forward - lets us infer the future (less common)
+    - (can be important in expository writing)
+- mechanism schema - frame-with-slots is trying to explain the mechanism - biological or human or physical phenomena 
+- text level comprehension - as text is read, after certain imbibing certain amounts of text at a time, a reader tries to fit the text into schema 
+    - goes slower for text that is a potential slot match
+    - two loci for matching in eye fixation studies - first word that indicates a match, last word in sentence
+- READER - an AI that does the above processes to emulate humans
+    - reader like human is not perfect - imperfect integration into schema, comprehension, or forgetting exact wording at the time of comprehension
 
 - content vs form comprehension - content fits into the structure of the narrative (form)
 - semantic content comprehension - understanding the context of say an algebra word problem
