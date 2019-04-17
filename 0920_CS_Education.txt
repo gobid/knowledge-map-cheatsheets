@@ -509,7 +509,8 @@ schank
     - we can safely assume defaults in the slots (like ordering in the context of restaurant before getting food)
 - MAINCONS - main conceptualizations needed to understand the chain of events in the script
 - nature of deviations around script - i.e. cold burger means low tip makes sense
-- script application - how to apply headers to figure out what script to use in a particular context 
+- script application - how to apply headers to figure out what script to use in a particular context
+- concept - headers are concepts - knowledge we understand related to the script making sense - hunger and restaurant-related knowledge related to the restaurant script 
 - precondition header - triggers script based on a precondition or reason
 - instrumental header - makes stronger predictions, refers to several contexts where one can be instrumental for the other (subway is instrumental to get to the restaurant)
 - locale header - predictive notion of a location where some things happen 
