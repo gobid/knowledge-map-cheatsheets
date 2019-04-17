@@ -499,6 +499,7 @@ Knowledge Representations
 - when given options of several schema, bias toward one schema may cause a misapplication of schemas
 - choice of schema early on can have an impact sometimes and other times not - they do schema classifications (even when instructions don't tell them to do it explicitly)
 
+schank
 - general knowledge - enables a person to understand and interpret another person's actions simply because the other person is a human being with certain standard needs who lives in a world which has certain standard methods of getting those needs fulfilled
 - specific knowledge - knowledge about a situation allows us to do less processing and wondering about frequently experienced events 
     - need a high level way of organizing a causal change
@@ -508,8 +509,9 @@ Knowledge Representations
     - we can safely assume defaults in the slots (like ordering in the context of restaurant before getting food)
 - MAINCONS - main conceptualizations needed to understand the chain of events in the script
 - nature of deviations around script - i.e. cold burger means low tip makes sense
+- script application - how to apply headers to figure out what script to use in a particular context 
 - precondition header - triggers script based on a precondition or reason
-- instrumental header - makes stronger predictions, refers to several contexts where one can be instrumental for the other
+- instrumental header - makes stronger predictions, refers to several contexts where one can be instrumental for the other (subway is instrumental to get to the restaurant)
 - locale header - predictive notion of a location where some things happen 
 - internal conceptualization header - dependent on role sometimes a script will fit and sometimes it will not (delivery man at restaurant will have a different script than customer)
 - interferences - states or actions that prevent the normal continuation of a script 
