@@ -499,7 +499,34 @@ Knowledge Representations
 - when given options of several schema, bias toward one schema may cause a misapplication of schemas
 - choice of schema early on can have an impact sometimes and other times not - they do schema classifications (even when instructions don't tell them to do it explicitly)
 
-
+- general knowledge - enables a person to understand and interpret another person's actions simply because the other person is a human being with certain standard needs who lives in a world which has certain standard methods of getting those needs fulfilled
+- specific knowledge - knowledge about a situation allows us to do less processing and wondering about frequently experienced events 
+    - need a high level way of organizing a causal change
+    - need a mechanism for recovering steps left out of the causal change
+- scripts - common causal chains of events (birthday party -> cake -> candles) that readers can rely on (also frame-and-slots but more specific)
+    - are from particular points of view (all pov's together for say a restaurant form the whole view of the restaurant)
+    - we can safely assume defaults in the slots (like ordering in the context of restaurant before getting food)
+- MAINCONS - main conceptualizations needed to understand the chain of events in the script
+- nature of deviations around script - i.e. cold burger means low tip makes sense
+- precondition header - triggers script based on a precondition or reason
+- instrumental header - makes stronger predictions, refers to several contexts where one can be instrumental for the other
+- locale header - predictive notion of a location where some things happen 
+- internal conceptualization header - dependent on role sometimes a script will fit and sometimes it will not (delivery man at restaurant will have a different script than customer)
+- interferences - states or actions that prevent the normal continuation of a script 
+    - obstacles - an enabling condition is missing
+    - errors - action completed with an unexpected or inappropriate result
+    - paradigms: Obstacle, Prescription, Success; Error, Loop, Success
+    - emotional reactions, abandonment can also happen
+- abeyance - temporary disuse or suspension - abandoning the issue temporarily, shifting to another character
+- script interactions
+    - competing scripts - they compete for words / content (amusing when players think they are in different scripts)
+    - scripts being ended with a question - such as buying a watch after eating at a restaurant (did he buy the watch at the restaurant or go somewhere else)
+- personal scripts - thought process of the individual or about what an individual is doing in a story, what clinical psychologists are interested in
+    - conceal personal script with a different public script (duplicity)
+- instrumental scripts - cookbooks, how to turn on a car, etc - rigid scripts that need to be followed in a particular way for something to work (also to distinguish from situational - usually only one actor)
+- script based understanding - repetition of situations is assumed
+- script acquisition - associating getting a car with getting a key chain just because that script happend once is a process of early learning of scripts by children, we are processing many scripts - this is our training data 
+    
 
 To Do: 
 - scan rale-proj papers for CS Education terms
