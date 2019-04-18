@@ -387,6 +387,7 @@ Knowledge Representations
 - semantic recognition systems - cached information that may be helpful for problem solving
 - representations - mutilated checker board - you know that there are 2 less squares of one color than the other - and each tile must cover 1 black / 1 white - this latter representation makes it easier to solve the problem
 
+rumelhart
 - schema - building blocks of cognition
 - schema theory - all knowledge is packaged into units, data structure for representing generic concepts (they use sensory data)
     - like a play that has instantiations, *variables* can take on values, but schemas are more abstract / abstractable and are about any concept not just a set of events), consists of *sub-schemas*
@@ -396,6 +397,7 @@ Knowledge Representations
     - *can represent knowledge at all levels of abstraction*
     - *can represent knowledge rather than definitions*
 - conceptual-driven processing - expectation-driven - when a schema is activated and it activates subschemata which are expected to account for some portion of the input data
+- control structure: how to choose a schema (i.e. bottom up)
 - data-driven activation - activated from the bottom-up whenever subschema that has been somehow activated causes the various schemata of which it is a part to be activated (car salesman story - activation of lower schemas lets us bottom-up deduce higher level schema of car-selling story, sometimes can follow by top-down knowledge of the higher level schema to flow down)
 - recognizability - to be recognized a schema has to have an internal structure (carrot nose out of context vs detailed nose)
     - schemata for words not random letters
@@ -410,6 +412,7 @@ Knowledge Representations
     - induction - learning from data, if events / configurations occur multiple times in nature then we can form a schema out of them
 - familiarity of problem can help users surface schema that they may otherwise not be able to draw upon (vowel/number card problem vs sears receipt problem)   
 
+just and carpenter
 - knowledge about story structure
     - story schema - frame and slot to represent what the user knows about the story structure
     - story grammar - hierarchy of categories of story information
@@ -472,6 +475,7 @@ Knowledge Representations
 - READER - an AI that does the above processes to emulate humans
     - reader like human is not perfect - imperfect integration into schema, comprehension, or forgetting exact wording at the time of comprehension
 
+hinsey
 - content vs form comprehension - content fits into the structure of the narrative (form)
 - semantic content comprehension - understanding the context of say an algebra word problem
 - text grammar approach - emphasizes importance of formulat structures and and suggests "distributed decision processes"
