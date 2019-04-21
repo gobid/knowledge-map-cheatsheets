@@ -558,7 +558,40 @@ ericsson
     - (agnostic to behaviorism or cognitivism, though may be hard to reconcile with extreme behaviorism
     - uses STM (short term memory, fast) and LTM (long term memory, slow to put in)
     - any verbalization only gets info from STM and LTM
-    - left off at table 1-1
+- verbalization procedures as a function of time of verbalization - 
+    - while the information is attended (direct articulation: talk aloud, think aloud)
+    - while info is still in short term memory (direct articulation: concurrent probing)
+    - after completion of the task-directed processes (direct articulation: retrospective probing)
+    - vs procedures where the stored info is input to intermediate processes (like abstraction and inference) 
+- recognition - information received from the sensory organs resides for a short time in memories (ichonic [visual] and echoic [auditory] memories) associated with the different senses
+- long-term memory - enormous collection of interrelated nodes, info can be brought to STM from LTM for use
+- short-term memory - central processor controls non-automatic cognitive processes, attending too / heeding info from LTM and sensory stimuli
+- control of attention - the flow of attention is diverted from time to time by interruptions through higher control mechanism, intermediate stages in these interruptions, not being symbolized in STM, are not reportable
+- fixation - transfering of new informtion from STM to LTM, can take 8-10 seconds
+- automation - just like running compiled as opposed to interpreted code, doesn't use STM intermediates to execute a task becuase intermediate steps are carried out without being interpreted
+- verbal reporting - bringing info into attention, when necessary converting it into verbalizable code, vocalizing it (heeded symbolically then vocalized/expressed in the right way)
+- concurrent verbal reports - talk aloud or think aloud - successive states of heeded information are verbalized directly
+- retrospective report - durable (if partial memory trace) of activities performed, fetched from STM or LTM
+- level1 verbalization - information is reproduced in the form in which it was heeded (talk aloud)
+- level2 verbalizzation - think aloud [verbal encoding of states of heeded info]
+- level 3 verbalization - encoded verablization where a mediating process [requests for explanations, motions] occurs between attention to information and its delivery
+    - attention can sometimes even be drawn to topics that subjects would normally not pay attention to (a more extreme form)
+- problems with retrospective report
+    - retrieval can be fallible - other similar memory structures may be retrieved
+    - confusing specific memory of an episode with memories of associated episodes before or after it
+    - why question - different emphasis can result in different answers - they may point to different reasons 
+- directed or specialized probing - topic specificity probes, too little information reported, the less they are prompted or probed the stronger the evidence is
+    - asking about specific instances of thought is better (rather than have subjects do synthesis and provide generalized descriptions of their own thought processes)
+- critical incident technique - subjects are asked about specific incidents where specific things could have occurred
+- interpretive probing - where subjects are speculate and theorize about their processes (rather than leaving that to the experimenters)
+- Verplank and Oskamp experiment - verbalized rules are dissociated from the behavior they are supposed to control (you could incentivize either)
+- Nisbett and Wilson - problems with retrospective verbal reports 
+    - many verbal reports could be generated without accessing memory of corresponding cognitive processes
+    - several aspects made relevant thoughts less accessible 
+    - tendency to generate verbal reports without access to memories will be stronger the less readily available the memory is
+    - argue that concurrent or immediate retrospective reports with better questions could do better
+- verbal report is the most sensitive index for basic perceptual processes like discrimation (of one thing from another)
+- (left off at converging use)
 
 To Do: 
 - scan rale-proj papers for CS Education terms
