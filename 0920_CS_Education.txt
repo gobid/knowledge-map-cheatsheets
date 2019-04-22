@@ -608,7 +608,34 @@ ericsson
     - hard questions turn users off
 - common-sense notion - that people are aware and rational and therefore able to answer questions about the cognitive structures responsible for their overt behavior
 - ability tests - correct answers are graded, cognitive structures are inferred indirectly
-- 
+- methods of data collection - levels, frequency, reactions to stimuli, how and why for motives behind behavior
+- indirect assessment - more effective than direct (i.e. ability tests), higher probability that cognitive structures are evoked, in the moment in real situations while the thinking is happening
+- memory vs inference - remembered behaviors can be hard to gauge accurately since it requires a lot of time to look up in the LTM and then assess frequency; cannot assume that specific responses were caused by general goals or hypotheses (as some steps may not have been taken due to caching and intermediate states didn't enter consciousness) - hence subject cannot answer why by simple memory retrieval; when subjects are asked about general behavior they have to look at data in LTM and average it to make inferences (rationalization); behavior will only be consistent with predictions of ones own behavior if the subject is able to understand what the real situation entails
+- introspection - going through one's own mental thought processes, deemed pseudoscience
+- structuralism - gather facts about consciousness (the content of mind), and in the process to uncover its structure; Titchener let subjects only describe their experienced conscious content leaving the inferential process (causation, dependence, development) to the experimenter
+    - experiencing sensory phenomenon followed by process of making sense of them
+    - description of what was experienced needs to be very clear
+    - simple reaction time
+    - c-reaction - subject only responds to a certain type of reaction given a stimulus
+    - b-reaction - subject has to pick which button based on stimulus
+    - introspective reports + latencies 
+    - sensory components are elementary units of sensation 
+    - criticisms: Wuerzburg and Gestalt psychologists said consciousness cannot be reduced to analytic introspection; rejected "subtraction" mechanism for measuring duration of cognitive processes
+- analytic introspections - takes 10 minutes to recount and make clear 10 seconds of thought; tough to break concentration for probing
+    - tachistoscopic - presentation of visual stimuli to remind
+    - subjects are not naive to hypotheses, uncontrolled use of questions, etc can cause introspective reports to be not scientifically valuable
+- psychophysics - observer is instructed in advance when to attend and what to attend to; the stimulus is simple and presented over an extended interval of time; judgments, generally being comparative, are reports of highly encoded stimuli that say nothing about the raw sensory components; 
+    - critique of latencies - no way to ensure that the motor response is not initiated earlier and in parallel with the perceptual process
+Watson's attack on introspection - against analytic introspection and results of classic introspections - use of language in the same way, common reference (golf player example)
+    - emphasize talk aloud (TA) in overt performace rather than internal meditation
+- describing throughts vs expressing them - "I thought of this then this then this"?
+- verbal report critiques - incomplete, experimenter probe affects result, inconsistent with observable behavior, not generalizable
+    - subject thinking aloud is still in space of the problem (as opposed to the introspector)
+- justifying think aloud - by having the subjects verbalize their thoughts at the time they
+emerged , the difficulties and sources of error associated with keeping thoughts in memory or retrieving them from memory could be eliminated
+    - giving verbalizations can affect the thought process critique
+    - incompleteness of info in STM critique
+    - irrelevance recounting parallel but not germane thought process critique
 
 To Do: 
 - scan rale-proj papers for CS Education terms
