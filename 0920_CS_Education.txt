@@ -591,7 +591,24 @@ ericsson
     - tendency to generate verbal reports without access to memories will be stronger the less readily available the memory is
     - argue that concurrent or immediate retrospective reports with better questions could do better
 - verbal report is the most sensitive index for basic perceptual processes like discrimation (of one thing from another)
-- (left off at converging use)
+- verdical content - verbally reported information making reference to "activities or perceptual events that are correlated with target behavior and therefore with feedback presentation - subjects can report strategies they use for acheiving control of visceral functions
+- thought sampling (STM) - attempt is made to get data on subjects' thoughts while they are performing their daily activities (tone generator)
+- event recording (STM) - subjects are asked to record all instances of a certain type of thought (content rather than frequency)
+- thought listening (STM) - write down all thoughts that occurred during an interval 
+- process of retrieval (LTM) - directly stored or generated / produced 
+    - can often get inaccurate data if ask question in a way where subject doesn't feel required to give a precise accurate response (age vs date of birth); definitions can play a role
+    - even more innacurate if they are processing or estimating rather than recalling directly
+- overreporting - subject reporting too many instances of a given type of event for a given time period; investigators overcome this by requesting recall of instances before and after the critical time period
+- fixed response (multiple choice) effects - can prime the user, but other studies show no difference between open and fixed
+- techniques for better survey responses - told to think carefully, probed in sensitive areas, explicit agreement to answer accurately and completely
+- hypothetical situations - reaction to ideas in general without specific instantiation 
+    - associated information accessed is a big factor in the response
+    - selective cueing and priming can affect (sensitive words)
+    - previous questions affect current ones
+    - hard questions turn users off
+- common-sense notion - that people are aware and rational and therefore able to answer questions about the cognitive structures responsible for their overt behavior
+- ability tests - correct answers are graded, cognitive structures are inferred indirectly
+- 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
