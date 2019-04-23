@@ -637,6 +637,14 @@ emerged , the difficulties and sources of error associated with keeping thoughts
     - incompleteness of info in STM critique
     - irrelevance recounting parallel but not germane thought process critique
 
+- "how do you know questions" - interpret the student on the spot and ask a question (things that look bigger are bigger, isolating the misunderstanding with Jimmy and the hats)
+- iq testing doesn't get into the granularity of the the thought processes and hence does not fully reflect knowledge (in interview part control by test taker part control by interviewer; but in iq test full control by test creator who is not there)
+- Freud - concerned with dreams and slips of the tongue - dreamwork - superego turning the latent dream (decapitating a sibling) into an acceptable dream (sibling losing cap)
+    - understanding the particular case
+    - deal in depth with individuals
+    - rich corpus of data to make inferences
+    - (Piaget chose the clinical interview method)
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
