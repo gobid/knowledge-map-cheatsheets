@@ -643,7 +643,49 @@ emerged , the difficulties and sources of error associated with keeping thoughts
     - understanding the particular case
     - deal in depth with individuals
     - rich corpus of data to make inferences
-    - (Piaget chose the clinical interview method)
+    - Piaget sought biological explanation of knowledge
+- clinical interview - Piaget's Freud-esque technique of listening with a third ear to uncover latent information about the subject's knowledge (abandon multiple choice)
+    - constructivist
+    - general and personal
+    - assesses learning potential
+- pure observation - just having the child work with the problem, but children seldom articulate their thoughts, questions and probes are needed
+- natural mental inclination - how the child sees the world and the child's spontaneous thoughts, and their constructivist way (now constructivism almost = cognitive psychology) of creating an understanding of the world
+- intervention - a question to check the thought process of the child (particularly where it differs from the adult)
+- on-the-fly experiment on thought process - the experimenter must create the follow-up intervention on the fly based on what the child has said to understand deeper contradictions with "adult" theories and internal inconsistencies 
+    - avoidance of "how you got the answer" questions because young children are not capable of extensive introspection
+    - instead has probes that do comparison and get at latent information
+- mental context - child motivation, understanding of terms
+- zone of proximal development - adult assistance to get the right answer (hints, etc) and involves a measure of how much this affects the child and helps them develop a better understanding of a phenomena
+- countersuggestion - technique in the clinical interview where the opposite is said in order to have child justify their original answer
+- constructivism - humans construct their knowledge rather than imbibe it
+    - child has logical structures (states) for knowledge which change through production rules
+    - fluidity - between having the concept and not depending on language
+- stream of consciousness - mind is like a river, ever changing
+- personal context - affect involved in knowledge and change in knowledge by children
+    - even though Piaget was only interested in the epistemological aspect, his methods uncovered affect and motivational blockers to achieving knowledge
+- fairness - standardized tests are impartial but clinical interviews are sensitive to the individual
+- clinical interview aspects
+    - like a conversation
+    - both parties come in with expectations and assumptions
+    - goals - interviewers and childs
+    - acts - do the acts of the interviewer encourage exploring, etc
+    - relationship - between the 2
+- paralingual cues - tone, shruges, etc have more meaning than their attempts to introspect
+- interpretive stance - what do behaviors say about underlying knowledge
+- clinical interview traits
+    - fun, no purpose, rapport with the child
+    - norms - let them experience success start with an easy task
+    - monitoring, motivation, and flexibility - jump from 40s to 80s - flexible for a purpose
+    - neutrality - when the participant has a question just say keep going and be neutral, don't worry about right or wrong answer
+    - failure and reassurance - reassure them they did well even if they failed
+    - hypothesis testing - testing a hypothesis of whats difficult by asking questions around what you think is easy and what you think is difficult for the learner to understand and then seeing their responses
+    - pressure - asking and pushing forward even in hard situations for the participant
+    - rules of game and competence - clinical interview encourages the child to think (not like school where memorization is common)
+    - introspection and expression - ask them step by step questions that ask how they got at sub-results and carefully with purpose expressed
+    - construction and competence - they may want to solve a different problem from the one the experimenter wanted them to solve, instead of resisting as an experimenter you can let them sovle that problem and apply the principles of that to the problem you want them to solve
+    - exploration and openness - participant expresses their view of the world (i.e. math teachers try to trick you)
+    - child view of adult can have an impact (view of adult as teacher)
+    - (left off at not a cookbook)
 
 To Do: 
 - scan rale-proj papers for CS Education terms
