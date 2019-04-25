@@ -715,6 +715,26 @@ ginsburg
     - provide hints at appropriate level of scaffolding
     - teach to demonstrate learning ability in certain cases
 
+vosniadou (just core points)
+- children have many different mental models, besides the spherical earth one, and many are internally consistent
+- Children and Adults Construct an Intuitive Understanding of the World
+- Naive Theories versus Fragmented Knowledge - diSessa believes that naive physics is just a soup of fragmented theories
+- The Process of Knowledge Acquisition - weak restructuring is assimilating different fragments of knowledge into a hierarchy - radical restructuring is using basic theories to develop new theories
+    - existing studies do not make explicit the exact criteria used to identify children's ideas, nor do they provide info regarding systematicity, consistency, robustness of children's notions about the shape of the earth
+    - hypotheses: (1) children think world is flat (2) children fail to understand it's a sphere in space (3) they have trouble reconciling the adult view of the world as a sphere (layer cake)
+- factual info - info that children have been exposed to but not about their ability to use these facts
+- generative info - info that children generate by using facts (earth having an end)
+- results of spherical earth tests on children - most thought the earth is a sphere, but many thought the moon and sun were just on top of the spherical earth (and we live on top), many thought the earth is flat inside it or didn't have an explanation for a house on flatland, many thought that there is an edge to the world (that you can fall off)
+- dual earth view - that there is the flat earth we are on, and there is a round earth up in the sky
+- other earth models - sphere, flattened sphere, hollow sphere, disc earth, rectangular earth
+    - author makes claims how these models are not due to bias in questions but are genuine categories
+- unnacceptable deviation - a response inconsistent with the model they chose
+- acceptable deviation - while in principle inconsistent with the mental model in question, can nevertheless be explained on the grounds that it represents a semantic error or is ambiguous with respect to its exact meaning.
+- consistency - 49 of 60 participants had internally consisten models and were put in one of the above categories
+    - It appears that children try to synthesize the information they receive from adults and from their everyday experience into coherent mental models which they use in a consistent fashion.
+- mixed models - could not be classified into the above categories, chose one category but then after description deviated from it
+- presuppositions - beliefs that make it hard to accept a certain model (i.e. the ground is flat because the ground looks flat which is a false assumption; that unsupported things fall as opposed to gravity)
+- synthetic models - models formed by joining what's claimed as correct by the adult world with their presuppositions
 
 To Do: 
 - scan rale-proj papers for CS Education terms
