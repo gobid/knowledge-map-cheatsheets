@@ -736,6 +736,15 @@ vosniadou (just core points)
 - presuppositions - beliefs that make it hard to accept a certain model (i.e. the ground is flat because the ground looks flat which is a false assumption; that unsupported things fall as opposed to gravity)
 - synthetic models - models formed by joining what's claimed as correct by the adult world with their presuppositions
 
+johnson-laird
+- reasoning - a simulation of the world fleshed out with our knowledge, not a formal rearrangement of the logical skeletons of sentences, probabilistic - perception of the world, a set of assertions, a memory, mental models
+- counterexamples - an instance of rationality
+- logical form - the first or second order logic form of thoughts - may not be what people actually use
+- Watson's selection task - performance is affected by content, humans reason probalistically, not deductively, maximizing their information gain
+- mental models - main assumptions (1) distinct set of possibilities (2) structure of a representation corresponds to the structure of what it represents (3) 
+
+some mixture of them.
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
