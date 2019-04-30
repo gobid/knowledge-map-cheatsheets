@@ -774,7 +774,32 @@ barsalou
 - amodal vs perceptual symbol systems
     - amodal: first perceive then extract features to detect which amodal framework/knowledge to use, then in amodal framework activate part of semantic network and understand frame
     - perceptual: entire process deals with sensory information from physical stimulus to neurons firing to produce a sensory representation to conjunctive (joined/adjacent) neurons detecting features to recalling earlier sensory representation
-- 
+- human conceptual system - for each type of knowledge there is a debate whether the knowledge is modal or not; 
+    - increasingly it's found that perceptual variables affect conceptual processing (lawn vs rolled up lawn are visualized for triggering "roots")
+    - perceptual stimulation in language comprehension - words affect the visualization / simulation in the head
+- bodily states - seeing key invokes the grasping hand - body effected by concept comprehension
+- neuroscience - lesions in modality-specific areas disrupt conceptual knowledge stored there
+    - categories with mostly visual properties activate visual areas; social categories activate emotional areas
+    - view advocated by authors: conjunctive neurons have modality speicific states 
+- amodal theories - have turing machine power - but unlikely that they explain modality specific behavior
+    - not falsifiable
+- simulation from neurons is key, selective attention can be important
+    - conjuctive areas are developed hierarchichally
+- simulator - a distributed collection of modality-specific memories captured across a category’s instances
+- categorical simulation - categorizing as car or plane, etc
+- productivity - embedding simulations in one another to understand more complex phenomena
+- perceptual symbol systems (PSS) - shows that modality-specific representations can implement a fully functional conceptual system 
+    - implements classic propositions by binding simulators to perceived category instances, thereby creating type–token relationships (classes / instances) (a care you see is an _instance_ of a car)
+- situated simulations - a simulation given a certain context 
+
+lakoff and nunez
+- the cognitive unconscious - most of our mental processing happens unconsciously and too quickly for us to notice
+- unconscious memory - experiences we don't recall have a tangible affect on our behavior
+- unconscious mathematical knowledge for informal everyday math - bounded regions, recursion, arithmetic and rotation, approaching a boundary and motion for calculus
+    - even advanced mathematics are not independent of mental processes
+- spatial relations and schema - in, out, above, on top of etc and the schemas build on each other for more complex phenomena
+    - image schema - both perceptual and conceptual (can have built-in spatial logic)
+    - (left off at "first topographic maps")
 
 To Do: 
 - scan rale-proj papers for CS Education terms
