@@ -738,12 +738,43 @@ vosniadou (just core points)
 
 johnson-laird
 - reasoning - a simulation of the world fleshed out with our knowledge, not a formal rearrangement of the logical skeletons of sentences, probabilistic - perception of the world, a set of assertions, a memory, mental models
+    - reasoning, the heart of human rationality may be the ability to grasp that an inference is no good because a counterexample refutes it
 - counterexamples - an instance of rationality
 - logical form - the first or second order logic form of thoughts - may not be what people actually use
 - Watson's selection task - performance is affected by content, humans reason probalistically, not deductively, maximizing their information gain
-- mental models - main assumptions (1) distinct set of possibilities (2) structure of a representation corresponds to the structure of what it represents (3) 
+- mental models - main assumptions (1) distinct set of possibilities (2) structure of a representation corresponds to the structure of what it represents (3) mental models of descriptions represent what is true at the expense of what is false
+    - we aim for minimal change in our mental models - parsimonious learning
+- iconic relations - visualizations of relations that help us easily learn relations that we didn't think of before (A is left of B which is left of C = > A B C)
+    - deductions that evoke visuals require more slower mental processing
+- frailties of human reasoning - humans have limited storage capacity for their intuitive reasoning so they don't do recursive reasoning or holding in mind alternative models 
+- number of mental models - the more models that we need to take into account to make an inference, the harder the inference should be—we should take longer and make more errors
+- effects of content - we think probabilistically and not deductively so content affects our logic - frenchmen being gourmets vs italians
+- illusory inferences - mental models represent what is true and not what is false; the key to a correct solution is to overcome the principle of truth and to envisage fully explicit models
+- strengths of human reasoning - people are deductive also, not entirely probabilistic, they enjoy sudoku
+- strategies in reasoning - developing initial models, adding info to the model
+- abduction - using inductive reasoning to go beyond deductive reasoning making deviations from formal rules, i.e. a poodle's jaw can bite through wire so since a german shepherd is stronger than a poodle it can probably bite through wire
 
-some mixture of them.
+shephard
+- mental rotations of 3D objects - The time required to recognize that two perspective drawings portray objects of the same three-dimensional shape is found to be:
+    - (i) a linearly increasing function 0/ the angular difference in the portrayed orientations of the two objects
+    - (ii) no shorter for differences corresponding simply to a rigid rotation of one of the two-dimensional drawings in its own picture plane than for differences corresponding to .a rotation of the three-dimensional object in depth
+    - used isomers to prevent subjects from getting away with not doing mental rotation
+    - took more time to recognize different pairs than the same ones
+    - subjects tried a rotation and then determined congruence or non-congruence
+
+barsalou
+- modality-specific memory - dealing with memory and learning, to refer to how learner performance depends on the presentation mode of studied items (visual vs verbal representations)
+- amodal representations of states - actually represent knowledge; but researchers report that re-enactments of states in modality-specific systems underlie conceptual processing
+    - (behavioral experiments) perceptual and motor variables consistently produce effects in conceptual tasks
+    - (brain imaging) conceptual processing consistently activates modality-specific brain areas
+    - so modality-specific re-enactments could produce basic conceptual functions, such as the type–token distinction, categorical inference, productivity, propositions and abstract concepts.
+- concept - 
+    - Platonists propose that concepts exist independently of minds, whereas naturalists argue that concepts are causal relations between the world and the mind
+    - here we care about conceptual processing, i.e. simulator, namely, a skill for producing context-specific representations of a category, i.e. car simulator, road simulator, frog simulator, etc
+- amodal vs perceptual symbol systems
+    - amodal: first perceive then extract features to detect which amodal framework/knowledge to use, then in amodal framework activate part of semantic network and understand frame
+    - perceptual: entire process deals with sensory information from physical stimulus to neurons firing to produce a sensory representation to conjunctive (joined/adjacent) neurons detecting features to recalling earlier sensory representation
+- 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
