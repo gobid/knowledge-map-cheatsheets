@@ -799,7 +799,28 @@ lakoff and nunez
     - even advanced mathematics are not independent of mental processes
 - spatial relations and schema - in, out, above, on top of etc and the schemas build on each other for more complex phenomena
     - image schema - both perceptual and conceptual (can have built-in spatial logic)
-    - (left off at "first topographic maps")
+    - mathematics makes use of our adaptive capacities which are not meant only for math
+    - structures in the visual system can be used for conceptual purposes, even hy the congenitally blind
+- motor control and mathematical ideas - readiness, starting up, the main process, possible interruption and resumption, iteration or continuing, purpose, completion, final state 
+    - aspect schema - the same neural structure used in control of complex motor schemas can also be used to reason about events and actions
+        - neural control systems for bodily motions have the same characteristics needed for rational inference in the domain of aspect (the structure of the events)
+            - input to muscles => bodily movement
+            - input to muscles inhibited => rational inference 
+        - the stage characterizing the completion of a process is further along relative to the process than any stage within the process itself
+        - there is no point in a process further along than the completion stage of that process
+- perfective aspect - conceptualizes the event as a whole, not looking at the internal structure of the process, some verbs are naturally imperfective (breathe / live)
+    - completion can be internal or external (jump vs fly/land)
+- the source-path-goal schema - trajector, source, goal, route, trajectory, direction, final location
+- schema composition - into vs out of schemas are combos of subschema in, to, out, from
+- metaphor - is a central process in everyday thought
+    - categories are containers with conjunctions and disjunctions
+    - love and business => partnership metaphor 
+    - conceptual metaphor is the basis of set theory
+    - abstraction in math is the conceptual layering of abstraction on top of abstraction
+- conceptual blend - conceptual combination of two distinct cognitive structures with fixed correspondences between them
+    - circle and cartesian plane - origin and radius as the fixed correspondences
+    - number line metaphorical blend - numbers are points on a line
+- mathematical meaning - is not about the symbols or interpreting symbols; it's about everyday embodied cognition of the symbols 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
