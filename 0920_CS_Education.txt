@@ -252,7 +252,7 @@ text structure units (TS) vs planned knowledge units (PK) - TS had faster respon
 TS IMPORTANT INITIALLY ESTABLISHING PROGRAM STRUCTURE IN MEMORY, MACROSTRUCTURES ARE PROCEDURES / CONTROL FLOW
 PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPLIED (situational model) - this is distinct from macrostructure organization of codebase provided by TS
 
-constructionism allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
+constructionism - creating and sharing work - allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
 learning-by-making idea and style idea (painter programmer vs formal planner programmer)
 Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
 epistemology - nature of knowledge vs nature of knowing
@@ -821,6 +821,16 @@ lakoff and nunez
     - circle and cartesian plane - origin and radius as the fixed correspondences
     - number line metaphorical blend - numbers are points on a line
 - mathematical meaning - is not about the symbols or interpreting symbols; it's about everyday embodied cognition of the symbols 
+
+thick authenticity - new media and authentic learning
+- authentic learning (1) learning that is personally meaningful for the learner (2) learning that relates to the real-world outside of school (3) learning that provides an opportunity to think outside of school (4) learning where the means of assessment affect the learning process
+- thick view of authenticity - that different kinds of authenticity presented in the literature are interdependent and mutually supporting (computer can easily afford such learning)
+- alignment - between some aspect of pedagogy and some other aspect of the educational experience
+- references to authenticity - activities aligned with outside world, assessment aligned with instruction, topics aligned with what learners want to know, methods of inquiry aligned with discipline
+- authentic assessment - the things that students do when learning should be the same as the things people do when taking an assessment
+- 
+
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
