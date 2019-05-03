@@ -828,9 +828,28 @@ thick authenticity - new media and authentic learning
 - alignment - between some aspect of pedagogy and some other aspect of the educational experience
 - references to authenticity - activities aligned with outside world, assessment aligned with instruction, topics aligned with what learners want to know, methods of inquiry aligned with discipline
 - authentic assessment - the things that students do when learning should be the same as the things people do when taking an assessment
-- 
+- experts spend a great deal of time analyzing a problem qualitatively 
+- THE PROBLEM OF PRODUCING AN EXPERT MAY BE TO A LARGE EXTENT THAT OF CREATING AND MAINTAINING THE MOTIVATINO FOR THE LONG TRAINING THAT IS NECESSARY (coding and chunking feats attributed largely to experience)
+- practical skills - a huge benefit is the unused memory that experts have available due to automation
 
-
+glaser
+- powerful ai's cannot solve problems that humans can so specialized structures are required
+    - can't hold entire chess board in STM (need symbols)
+- chunks - experimentally identifiable structures with a certain size 
+    - study of expertise - provides evidence of knowledge competence being important
+    - shift in ai from search power based to knowledge based 
+- experts excel mainly in their own domains
+- experts perceive large meaningful patterns in their domain
+- experts are fast and make almost no errors - because of freed up memory for thought-intensive aspects of the task - can search faster because of cached routes near / like the path to be found
+- experts have superior short term memory (because of automation they have more free space) and more long term memory (because they can do long-term recall easier)
+- experts interpret problems at a deeper more principled level than novices who represent it at a superficial level - expert categories are semantically distinguished and novice categories are syntactically distinguished
+- experts spend a great deal of time analyzing a problem qualitatively - they build a mental model of the problem before applying say equations
+- experts have strong self-monitoring skills - know when they are failing, understand or try to understand the reason behind their failure, have self-knowledge of how much knowledge they have, knowing which problems are difficult, 
+    - there was a sign that experts could even generalize their skills which was important
+    - experts have efficient encoding of presented info using existing semantic knowledge and patterns
+    - retrieval cues (associated with time of internal storage)
+    - experts in mental math could hold large amounts of info either in STM or accessible quickly from LTM in ways non-experts couldn't
+    - (left off at programming)
 
 To Do: 
 - scan rale-proj papers for CS Education terms
