@@ -851,6 +851,26 @@ glaser
     - experts in mental math could hold large amounts of info either in STM or accessible quickly from LTM in ways non-experts couldn't
     - (left off at programming)
 
+wineburg (abraham lincoln)
+- a professional historian without a particular set of knowledge was able avoid over-simplifying and achieve an understanding equal to that of a colleague who was a subject-matter expert
+- literary writing and historical interpretation - solutions to problems are typically not “discovered” but imposed (Resknick)
+    - science - we don't care about solutions that don't work
+    - math - solving problems
+    - history - inventing conundrums that don't go away
+- adaptive expertise - the ability to apply, adapt, or stretch knowledge so that it addresses new situations
+- situation model - setting of the content
+- representation of subtext - a model based on implicit textual information that reconstructed authors’ assumptions, beliefs, biases, convictions, commitments, hopes, and fears-in sum, the totality of their world views (author's bias)
+- event model - incorporated new details and winnowed out less reliable ones; not only integrated information from the textual evidence historians reviewed, but drew on the cognitive resources they brought to the task - their knowledge, skills, beliefs, personal experiences
+- sourcing - the act of considering the source of the document when determining its evidentiary value
+- corroboration - in which the details of one document are compared with those of another before accepting such details as fact 
+- contextualization - the act of creating a spatial and temporal context for a historical event
+- codes - self-referential by historian, text - meaning of text, comments - spacio-temporal, socio-rhetorical, biographic, historiographic, linguistic, analogical, intertextual linkages, specification of ignorance
+- historian with more background knowledge had greater biographic, historiographic, linguistic, analogical text but the historian with less background knowledge had more socio-rhetorical and spacio-temporal text
+- h1 - lincoln says god is not on either side - detachment - you can't use god to justify slavery - but let's not judge or we'll be judged
+- h2 - not sure if physical means brain / mind too, natural rights, contradictions found, accounted for the knowledge he would need to make a judgement, 4.2 questions per document; slavery and god - search - lincoln belief black equality is guaranteed by laws of god - looks for the link
+- H2 finally achieves - Lincoln justifies the equality of the races, not by appealing to God, but by appealing to the natural rights in the Declaration of Independence, a reinterpretation so sweeping that Wills (1992) called it the “Second American Revolution.”
+- (left off at "weaken the historical end of 16")
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
