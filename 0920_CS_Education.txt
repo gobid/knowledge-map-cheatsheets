@@ -871,6 +871,33 @@ wineburg (abraham lincoln)
 - H2 finally achieves - Lincoln justifies the equality of the races, not by appealing to God, but by appealing to the natural rights in the Declaration of Independence, a reinterpretation so sweeping that Wills (1992) called it the “Second American Revolution.”
 - (left off at "weaken the historical end of 16")
 
+chase and simon
+- asked chess players of varying strengths to reproduce moves (in plain view or deGroot's short term recall task)
+- deGroot's short term recall task - where the player reproduces a chess position after viewing it for 5 sec.
+- chunks - structures seen on the board and stored in short-term memory
+- perception task - we ask chess players to reconstruct a chess position while it remains in plain view, and we use subjects’ successive glances at the board as an index of chunking.
+- memory task - which is very similar to de Groot’s task, we ask chess players to reconstruct a position from memory after brief exposure to it, and we use the timing or clustering in recall to segment the output into chunks.
+- master could only perform better in realistic chess positions, not random ones (could recall more and larger chunks)
+    - M would be able to recognize all these chunks provided that he has stored in long-term memory a modest vocabulary of variant patterns for each of a half dozen types of configurations.
+    - M has a short term memory of average capacity but a long term memory that can recognize specific chunks
+    - M can encode position into larger perceptual chunks, each consisting of a familiar subconfiguration of pieces
+    - there may be a hirearchical configuration of chunks (abstract relationships) that makes recall easier
+- within-glance intervals - intervals between pieces placed without looking back at the original position
+- between-glance intervals - intervals between two pieces separated by a glance back at the original position.
+    - between-glance intervals took longer than within-glance (but experts needed less time with between-glance than others)
+- when the label of a chunk is held in short-term memory, successive elements of the chunk can be recovered from long-term memory in some hundreds of milliseconds 
+- A sequence of pieces placed on the board by the subject in the memory task with intervals of less than 2 set between successive pieces corresponds to a single chunk. [hypothesis was confirmed] 
+- The times required for the underlying processes are essentially the same in the memory task as in the perception task. [hypothesis was confirmed]
+- tables present the amount of time to and probability of glance at two given and related pieces in terms of their relationship or lack thereof
+- between-glance frequencies are much closer to chance level than within-glance frequencies (chunk processing)
+- finding - chunks are about the same size in both tasks, but that chess skill is reflected in the speed with which chunks are perceived in the perception task and the size of the chunks in the memory task.
+
+martin
+- 
+
+chi 
+- 
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
