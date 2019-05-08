@@ -825,14 +825,21 @@ lakoff and nunez
 thick authenticity - new media and authentic learning
 - authentic learning (1) learning that is personally meaningful for the learner (2) learning that relates to the real-world outside of school (3) learning that provides an opportunity to think outside of school (4) learning where the means of assessment affect the learning process
 - thick view of authenticity - that different kinds of authenticity presented in the literature are interdependent and mutually supporting (computer can easily afford such learning)
-- alignment - between some aspect of pedagogy and some other aspect of the educational experience
-- references to authenticity - activities aligned with outside world, assessment aligned with instruction, topics aligned with what learners want to know, methods of inquiry aligned with discipline
-- authentic assessment - the things that students do when learning should be the same as the things people do when taking an assessment
+- alignment - between some aspect of pedagogy and some other aspect of the educational experience (materials and activities, assessment, topics of interest, methods of inquiry)
+- references to authenticity - activities aligned with outside world, assessment aligned with instruction, topics aligned with what learners want to know, methods of inquiry aligned with discipline (real questions to professionals as well)
+- authentic assessment - the things that students do when learning should be the same as the things people do when taking an assessment (learn something even while taking the test) (can you have a math "portfolio" and have it really test the math learned?)
 - experts spend a great deal of time analyzing a problem qualitatively 
-- THE PROBLEM OF PRODUCING AN EXPERT MAY BE TO A LARGE EXTENT THAT OF CREATING AND MAINTAINING THE MOTIVATINO FOR THE LONG TRAINING THAT IS NECESSARY (coding and chunking feats attributed largely to experience)
-- practical skills - a huge benefit is the unused memory that experts have available due to automation
+- topics of interest - authentic LE should involve topics of interest and should let users build something they want to share and ask questions that come up that they are interested in solving
+- experts spend a great deal of time analyzing a problem qualitatively
+- authentic self - independent existence, self security, integrated and cohesive personality, independence within relationships, action in accord with one's principles and values, self-reflection
+- thick - in description - means enough detail to make meaningful interpretation possible, in authenticity - using all the definitions of authenticity together
+- aspects of authenticity - connectivity (with a wide community and experts, building an understanding and sharing), modeling (external models of complex systems that reflect internal mental models, complex systems through computer models, disciplinary approaches), representational pluralism (new media affords multiple ways of learning things and using the same tools as experts, ability to express understanding in multiple ways)
+- in digital age: should be able to access modern literary / art forms, should be able to access math problem solving representations and approaches not just learn addition/division/etc algos
+- challenge to new media: how students can receive feedback on new ways of expressing understanding
 
 glaser
+- THE PROBLEM OF PRODUCING AN EXPERT MAY BE TO A LARGE EXTENT THAT OF CREATING AND MAINTAINING THE MOTIVATION FOR THE LONG TRAINING THAT IS NECESSARY (coding and chunking feats attributed largely to experience)
+- practical skills - a huge benefit is the unused memory that experts have available due to automation
 - powerful ai's cannot solve problems that humans can so specialized structures are required
     - can't hold entire chess board in STM (need symbols)
 - chunks - experimentally identifiable structures with a certain size 
