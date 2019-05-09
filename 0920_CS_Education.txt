@@ -876,7 +876,12 @@ wineburg (abraham lincoln)
 - h1 - lincoln says god is not on either side - detachment - you can't use god to justify slavery - but let's not judge or we'll be judged
 - h2 - not sure if physical means brain / mind too, natural rights, contradictions found, accounted for the knowledge he would need to make a judgement, 4.2 questions per document; slavery and god - search - lincoln belief black equality is guaranteed by laws of god - looks for the link
 - H2 finally achieves - Lincoln justifies the equality of the races, not by appealing to God, but by appealing to the natural rights in the Declaration of Independence, a reinterpretation so sweeping that Wills (1992) called it the “Second American Revolution.”
-- (left off at "weaken the historical end of 16")
+- H2 avoided oversimplifying
+- presentism - act of viewing the past through the lens of the present, is not some bad habit we’ve fallen into, but is instead our psychological condition at rest
+    - H2s distrust in his own sense-making abilities may be thought of as a domain-specific form of metacognition, an imperative to read history differently from how we read ordinary expository or narrative text.
+    - he does not understand a world into which a whole segment of the population was born into slavery
+- H2 expertise - his way of asking questions, of reserving judgment, of monitoring affective responses and revisiting earlier assessments, his ability to stick with confusion long enough to let an interpretation emerge. (Document-based question)
+    - how to sort through contradictory information and come to reasoned conclusions
 
 chase and simon
 - asked chess players of varying strengths to reproduce moves (in plain view or deGroot's short term recall task)
@@ -911,7 +916,7 @@ lee martin and dan schwartz
 - deliberate practice - stepping back from action to develop a deeper understanding that can set the stage for greater future success
 - tool plane - people may spend startup time developing a tool to help do the task
 - meta-representational competence - the full range of capabilities that students (and others) have concerning the construction and use of external representations
-- experiment on grad students and undergrads - test of whether undergrads do prospective adaptation after experiencing faults in earlier experiences (fault-driven adaptation) and whether grad students do prospective adaptation from get go
+- experiment on grad students and undergrads - test of whether undergrads do prospective adaptation after experiencing faults in earlier experiences (fault-driven adaptation) and whether grad students do prospective adaptation from get go [hypothesis confirmed]
     - adaptive representations require more time
     - requiring undergraduates to teach to a confederate increased use of representations, but this didn't "stick" and result in prospective adaptation
     - fault driven scenario: UGs were not allowed to look at the reference cases when making a diagnosis (and they created visualizes to get around this so they knew how to make visual representations)
@@ -919,7 +924,19 @@ lee martin and dan schwartz
 the functional utility of making a representation
 
 chi 
-- 
+- sorting tasks and protocols reveal that experts and novices begin their problem representations with specifiobly different problem categories, and completion of the representations depends on the knowledge associated with the categories
+    - novices use surface level features to categorize
+    - little overlap in categories produced by experts and novices
+    - experts are able to "see" the underlying similarities in great number of problems, whereas the novices "see" a variety of problems that they consider to be dissimilar because the surface features are different
+- Our prediction was that novices would group together problems that have the same surface structure, regardless of the deep structure, and experts would group together those problems with similar deep structures, regardless of the surface structure. Individuals of intermediate competence should exhibit some characteristics of each. [hypothesis confirmed]
+- experts and novices categorize problems differently
+- these categories elicit a knowledge structure (a schema) that functions in the representation of a problem
+- at least for experts this schema includes potential solution methods
+- Features idenad by the experts can be characterized as descriptions of the states and conditions of the physical situation described by the problem.
+    - experts agreed on solution methods which corresponded to physics laws / equations (tacit knowledge, can do inferences)
+    - experts use interplay between their knowledge base and problem text to extract features of the problem and use those features to trigger schema for general laws / solution methods
+    - problem representation is organized by schemata for object categories, for example, "spring problems" or "falling bodies" and then they try to use the equations (the feature extraction process is missing)
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
