@@ -856,7 +856,12 @@ glaser
     - experts have efficient encoding of presented info using existing semantic knowledge and patterns
     - retrieval cues (associated with time of internal storage)
     - experts in mental math could hold large amounts of info either in STM or accessible quickly from LTM in ways non-experts couldn't
-    - (left off at programming)
+- programming: programming plans and programming rules (schema and chunks); model of software design process, from abstract to more concrete, "balanced development" - each all modules in each level described are described with the same level of details as other models at that level (unresolved is specifiying mechanisms that help relate the domain-independent design model with the domain specific knowledge in particular applications)
+    - like the chess experiment performance of experts was reduced to that of novices on unplan-like material
+- ill-defined problems - novices get hung up on unimportant details while experts pick out the details to focus on 
+    - experts take a "conceptual approach", looking at history of previous solutions and why they didn't work to justify their new solution
+    - in medical as well, experts can filter for the most salient information for diagnosis
+    - NEOMYCIN - a system that models a doctor diagnosing; acquires knowledge from human experts interactively; model acquisition, data flow, evaluation, automation can help with search and diagnosis; querying metacognition of the experts is essential to refine the problem space  
 
 wineburg (abraham lincoln)
 - a professional historian without a particular set of knowledge was able avoid over-simplifying and achieve an understanding equal to that of a colleague who was a subject-matter expert
