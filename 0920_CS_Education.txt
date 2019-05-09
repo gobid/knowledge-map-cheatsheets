@@ -899,8 +899,24 @@ chase and simon
 - between-glance frequencies are much closer to chance level than within-glance frequencies (chunk processing)
 - finding - chunks are about the same size in both tasks, but that chess skill is reflected in the speed with which chunks are perceived in the perception task and the size of the chunks in the memory task.
 
-martin
-- 
+lee martin and dan schwartz 
+- adaptive expertise - taking the time to create external representations to solve problems
+    - verbalize the principles underlying their skills
+    - judge conventional and non-conventional versions of the skills as appropriate
+    - modify or invent skills according to local constraints
+- startup time - people take an initial period to explore or adapt their ideas, practices, and/or environment. They are slower to start, but they can make up the lost time if they make an appropriate adaptation
+- catalyst to adaptive mindset - when experimentation is encouraged
+- fault-driven adaptation - when a behavior becomes too burdensome or flawed, and it is hard to get by with usual routines, people will try something new
+- prospective adaptation - extensive planning or engaging the adaptive pattern before they confront any specific snags
+- deliberate practice - stepping back from action to develop a deeper understanding that can set the stage for greater future success
+- tool plane - people may spend startup time developing a tool to help do the task
+- meta-representational competence - the full range of capabilities that students (and others) have concerning the construction and use of external representations
+- experiment on grad students and undergrads - test of whether undergrads do prospective adaptation after experiencing faults in earlier experiences (fault-driven adaptation) and whether grad students do prospective adaptation from get go
+    - adaptive representations require more time
+    - requiring undergraduates to teach to a confederate increased use of representations, but this didn't "stick" and result in prospective adaptation
+    - fault driven scenario: UGs were not allowed to look at the reference cases when making a diagnosis (and they created visualizes to get around this so they knew how to make visual representations)
+    - neither the verbal protocol nor the exit interview contained any evidence that graduate students estimated
+the functional utility of making a representation
 
 chi 
 - 
