@@ -942,6 +942,17 @@ chi
     - experts use interplay between their knowledge base and problem text to extract features of the problem and use those features to trigger schema for general laws / solution methods
     - problem representation is organized by schemata for object categories, for example, "spring problems" or "falling bodies" and then they try to use the equations (the feature extraction process is missing)
 
+diSessa Physics
+- weak organization - people begin with a poorly organized intuitive sense of physics
+    - causal syntax - causal schema in terms of agents, patients (?), and interventions 
+    - a tendency to focus on static characterizations of dynamic events 
+    - rich phenomenology of balancing equilibrium
+- sense of mechanism: gives us the capability to (1) assess the likelihood of various events based on generalizations about what does and does not happen (2) make predictions and "postdictions"; that is, one can trace entailments forward and backward in time, explaining what will happen on the basis of what is the case, and explaining what must have been the case in order for the present circumstances to exist (3) give causal descriptions and explanations; one can look at a physical event and assign credit or blame for what happens to certain aspects of the circumstances and to general facts about the world
+- for experts phenomenology must uniformly be reducibale via an analysis of circumstances to a few core theoretical ideas
+    - so expertise can be build by reorganizing and prioritizing existing phenomenology (reorganized intuitive knowledge)
+- intuitive physics is difficult to change despite years of instruction (quantitative focus on instruction)
+- mccloskey says intuitive physics theory needs to be replaced, but diSessa says both intuitive and scientific physicas are based on phenomenological primitives and only reordering not replacement is needed
+- (add rest of notes on disessa's first section before moving to next)
 
 To Do: 
 - scan rale-proj papers for CS Education terms
