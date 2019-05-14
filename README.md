@@ -33,14 +33,14 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 0. Mathematics
 1. Statistics
 2. Computer Science
-3. Physics - incl. EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
-4. Chemistry - incl. ChemE
-5. Biology - incl. BioE
+3. Physics - EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+4. Chemistry - ChemE
+5. Biology - BioE
 6. Medicine
-7. Psychology - incl. Cognitive Science
-8. Economics - incl. Business and Finance
-9. Humanities - incl. Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
-10. Art - incl. Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify, youtube, saavn), Culinary Arts
+7. Psychology - Cognitive Science
+8. Economics - Business and Finance
+9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
+10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify, youtube, saavn), Culinary Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
