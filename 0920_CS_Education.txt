@@ -952,7 +952,7 @@ diSessa Physics
     - so expertise can be build by reorganizing and prioritizing existing phenomenology (reorganized intuitive knowledge)
 - intuitive physics is difficult to change despite years of instruction (quantitative focus on instruction)
 - mccloskey says intuitive physics theory needs to be replaced, but diSessa says both intuitive and scientific physicas are based on phenomenological primitives and only reordering not replacement is needed
-- (add rest of notes on disessa's first section before moving to next)
+- elements - describe the size and character of the knowledge structures involved; 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
