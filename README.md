@@ -40,7 +40,7 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 7. Psychology - Cognitive Science
 8. Economics - Business and Finance
 9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
-10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify, youtube, saavn), Culinary Arts
+10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify / saavn, youtube), Culinary Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
