@@ -30,13 +30,12 @@ Finally, this project should stop you from feeling guilty about forgetting what 
 
 Explore these subjects to grasp the fundamentals of all knowledge:
 
-0. Mathematics
-1. Statistics
-2. Computer Science
-3. Physics - EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
-4. Chemistry - ChemE
-5. Biology - BioE
-6. Medicine
+1. Mathematics
+2. Statistics
+3. Computer Science
+4. Physics - EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+5. Chemistry - ChemE
+6. Biology - Medicine, BioE
 7. Psychology - Cognitive Science
 8. Economics - Business and Finance
 9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
