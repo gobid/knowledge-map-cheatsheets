@@ -949,10 +949,33 @@ diSessa Physics
     - rich phenomenology of balancing equilibrium
 - sense of mechanism: gives us the capability to (1) assess the likelihood of various events based on generalizations about what does and does not happen (2) make predictions and "postdictions"; that is, one can trace entailments forward and backward in time, explaining what will happen on the basis of what is the case, and explaining what must have been the case in order for the present circumstances to exist (3) give causal descriptions and explanations; one can look at a physical event and assign credit or blame for what happens to certain aspects of the circumstances and to general facts about the world
 - for experts phenomenology must uniformly be reducibale via an analysis of circumstances to a few core theoretical ideas
-    - so expertise can be build by reorganizing and prioritizing existing phenomenology (reorganized intuitive knowledge)
+    - so expertise can be built by reorganizing and prioritizing existing phenomenology (reorganized intuitive knowledge)
 - intuitive physics is difficult to change despite years of instruction (quantitative focus on instruction)
-- mccloskey says intuitive physics theory needs to be replaced, but diSessa says both intuitive and scientific physicas are based on phenomenological primitives and only reordering not replacement is needed
-- elements - describe the size and character of the knowledge structures involved; 
+- mccloskey says intuitive physics theory needs to be replaced, but diSessa says both intuitive and scientific physics are based on phenomenological primitives and only reordering not replacement is needed
+- p-prim (phenomenological primitive) structure:
+    - elements - describe the size and character of the knowledge structures involved
+    - cognitive mechanism - provide an image of the operation of the intuitive knowledge system; reasoning using intuitive knowledge (p-prims act by being "recognized" / activated)
+        - activation followed a cuing priority - based on strength of connection with antecedent structures
+        - reliability priority - a high value means that the p-prim will unlikely be turned off
+        - structured priorities - pair of cuing priority and reliability priority
+    - development - how elements and system properties change (instructional difficulties)
+        - priority of p-prims change as people develop expertise
+        - distributed encoding - integration of intuitive knowledge structures into functional encoding of expertise
+    - systematicity - level and kind of relatedness of the elements in the system; integrated subsystems or independent subsystems
+        - mutual use of p-prims in structures, a sequence etc. can cause all to be raised or lowered
+        - common attributes - a common base vocab or dependency of p-prims on other p-prims
+        - top-down coherence - first learning "slogans" or particular statements or ideas and then letting those trigger many underlying ideas, reactions, etc.
+        - mutual plausibility - integration - important elements reinforce each other and generate new elements via specific episodes of reasoning (i.e. presumptions)
+        - phenomenological syllogisms - class of mutual possibilities - x => y ; y => z ; means x => z but this may only be true given certain presumptions
+    - completeness - a set of lower priority p-prims linked to some contexts explain real world phenomenon that other p-prims dont work for
+    - abstraction - a set of related p-prims may comprise some intuitive abstraction / theory (particularly ones in dense parts of the intuitive knowledge network) (intuitive physics)
+- the basic force and motion cluster - p-prims around kinesthetic sense of agency, constraints, balance and equilibrium 
+- ohm's p-prim - an agent that is the locus of an impetus that acts against a resistance to produce a result (modulation of effort and why that effort is needed)
+    - interpreted differently by experts and novices in the case of why a vacuum cleaner produces a higher pitch when covered up
+        - expert it's not sucking air, less work to do, motor moves faster
+        - novice it has more work to do, higher pitch because has to work harder (greater effort)
+            - notions of patient and effort (this agency notion fades as they develop expertise)
+- resistance - 
 
 To Do: 
 - scan rale-proj papers for CS Education terms
