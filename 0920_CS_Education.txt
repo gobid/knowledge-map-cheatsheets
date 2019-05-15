@@ -1012,7 +1012,8 @@ diSessa Physics
     - (second paragraph of invariance principle to end - almost done)
     
 mccloskey (short notes tue if time, expand wed)
-- 
+- impetus theory (1) impetus dies off (2) circular motion retained after projectlie released (3) projectile - first the object procedes straight; then turns down
+- modern students are not aristotelean - aristotle said the air is pushing the projectile and there is always some force in contact with the projectile - students believe the medieval theory that the force is imparted on to the object
 
 
 
