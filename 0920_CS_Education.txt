@@ -1012,10 +1012,23 @@ diSessa Physics
     - (second paragraph of invariance principle to end - almost done)
     
 mccloskey (short notes tue if time, expand wed)
-- impetus theory (1) impetus dies off (2) circular motion retained after projectlie released (3) projectile - first the object procedes straight; then turns down
+- impetus theory (1) the act of setting an object in motion imparts to the object an internal force or "impetus" that serves to maintain the motion (the force is then with the object) (2) impetus dies off so object comes to a stop (*) circular motion retained after projectlie released (**) projectile - first the object procedes straight; then turns down
+    - tapering off circular OR just circular
+    - plane projectile - straight down or diagonal line
+    - cliff projectile many said curved right angle down
 - modern students are not aristotelean - aristotle said the air is pushing the projectile and there is always some force in contact with the projectile - students believe the medieval theory that the force is imparted on to the object
+- modern impetus theory evidence
+    - [ball tossed up and comes down] ball provided force, cancel out at top, on way down gravity becomes stronger [2 ppl]
+    - [moving ball over cliff] belief that impetus can act in one direction only; first the ball goes straight, then goes down after the horizontal force dissipates (same with ball cut at bottom of swinging pendulum, claim that curvilinear momentum continues for a bit)
+- individual differences
+    - existence of curvilinear impetus
+    - how impetus is dissipated - naturally or by some external friction
+    - when gravity takes effect (immediately vs after another say horizontal impetus dies)
+    - impetus is imparted to the object stays with the object and makes it keep moving VS an object that's merely carried does not acquire the impetus (airplane projectile)
 
 
+
+(knowledge representation - this notion that we're problem solving all our lives)
 
 To Do: 
 - scan rale-proj papers for CS Education terms
