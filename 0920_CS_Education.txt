@@ -975,7 +975,46 @@ diSessa Physics
         - expert it's not sucking air, less work to do, motor moves faster
         - novice it has more work to do, higher pitch because has to work harder (greater effort)
             - notions of patient and effort (this agency notion fades as they develop expertise)
-- resistance - 
+- resistance p-prim - spontaneous resistence resides in the patient of action (the mass on the spring), not some external actor
+    - there is an active-passive distinction (constrain vs restrain)
+    - blocking or bouncing are not active
+    - notion of successful resistance (sturdy wall vs ball on string tugged) - people shouldn't get confused between these two when recalling the event
+- force as a mover p-prim - pushing an object at rest causes the object to move in the direction of the force
+    - deflection - pushes / forces adding p-prim (force as a deflector vs mover)
+- force as a spinner p-prim - we think that tugging a string wrapped around a yoyo to the right will cause the yoyo to spin the other direction and move to the left but the force as a mover actually applies here; difficult for us to decide between p-prims
+- continuous push p-prim - a continuous force that keeps an object in motion
+    - both force an a mover and continuous push are connected with ohm's p-prim with high cuing priority
+    - involve agency, intention, effort, patient
+    - mental representation of the intention and the result may be made in the same geometric vocab
+    - mover (a single blast - then object is actively moving) vs continuous push (object passively moved along)
+    - violence cues strength - ship is strong so it can float not sink
+- dying away / warming up p-prim - earthly motion always dies away; car warms up to get to speed
+- constraint phenomena p-prims
+    - bouncing and blocking are p-prims - they are fundamental to our naive thoughts
+    - clamping (holding fixed)
+    - undermining the perceived primitivity of clamping, guiding, blocking takes time
+    - springiness (that all matter is springy, pushes back against deformation, normal force) developed over physics course despite being explicitly taught
+- dynamic balance p-prim - where two forces oppose each other and cancel out (balancing by conspiracy)
+- abstract balance p-prim - matches off amounts in a pair (requires the monkey climbing up to mean the weight goes up to to match and be symmetric) (more like algebraic equality)
+- dynamic imbalance p-prim - one force is greater than the other, it "gets its way at first" "overcoming" the other's influence (a mass on a spring vertically oriented, the spring force kx can overcome gravity and launch the mass in the air - this thought process is aligned with the notion of "overcoming")
+- abstract imbalance p-prim - (note: elems with high cuing priority [mutual use] to abstract balancing are very different from ones connected to dynamic balancing) 
+    - generalized springiness - displacement from equilibrium proportional to the perturbation
+    - heavier side of pulley keeps dropping till lighter side weight hits pully (dynamic rather than abstract imbalance / springiness - which would have predicted they would balance off proprotionally 
+    - abstract balancing can be temporarily violated without an external perturbing force
+- equilibration p-prim - the tendency of things to go back into equilibrium; movement of particles to spread out evenly, etc
+- development - replacement of slew of p-prims with laws that organize the p-prims that are still used
+    - clusters of elements interact in particular lines of conceptual development
+    - p-prims play important roles in development
+    - chronology of developmental patterns
+- mccloskey - impetus theory (the force makes the object move but that dies off); circular impetus theory (objects continue to move in a circle); objects dropped from a moving object fall straight down (no projectile motion)
+    - claim by disessa is that impetus is not a systematic and coherent theory - abstraction salient in a small class of situations like toss (where the impetus of the ball dies off and gravity brings it back down); impetus theory is the confluence of certain p-prims and will only be observed occassionally; 
+    - principle of invariance - p-prims deal with these better from bell sound dying to dynamic balance (that applies in different situations from the ball toss)
+    - (second paragraph of invariance principle to end - almost done)
+    
+mccloskey (short notes tue if time, expand wed)
+- 
+
+
 
 To Do: 
 - scan rale-proj papers for CS Education terms
