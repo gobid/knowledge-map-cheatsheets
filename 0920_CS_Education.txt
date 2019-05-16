@@ -937,7 +937,7 @@ chi
 - experts and novices categorize problems differently
 - these categories elicit a knowledge structure (a schema) that functions in the representation of a problem
 - at least for experts this schema includes potential solution methods
-- Features idenad by the experts can be characterized as descriptions of the states and conditions of the physical situation described by the problem.
+- Features identified by the experts can be characterized as descriptions of the states and conditions of the physical situation described by the problem.
     - experts agreed on solution methods which corresponded to physics laws / equations (tacit knowledge, can do inferences)
     - experts use interplay between their knowledge base and problem text to extract features of the problem and use those features to trigger schema for general laws / solution methods
     - problem representation is organized by schemata for object categories, for example, "spring problems" or "falling bodies" and then they try to use the equations (the feature extraction process is missing)
@@ -1013,12 +1013,25 @@ diSessa Physics
     - coverage - what about the large %'s of people who didn't converge - they are displaying different p-prims
     - continuity - how do people jump straight to impetus theory, how does mcclosky's theory immediately get replaced by real physics; there's a discontinuity; p-prims on the other hand are continuous - a process of reweighting them and reorganizing them to achieve real physics understanding
     - principle of dynamic - impetus theory holders are flexible and influences by problem data and nudges, like being reminded of centripetal force changes their answer; changing the p-prims is the key for physics understanding
-    
+- spawned knowledge-in-pieces research
+- p-prims might be a schema but they are primitive and the smallest element
+- built a microworld for her - really emphasized only force gravity
+- different can activate different p-prims
+- ken forbus builds aii models; but building p-primis model is tough because there is a lot of other stuff to model; scott friedman - intermediate nodes in NN correspondence with p-prim? (but what ken/scott have done is traditional AI)
+- difficulty of 6x5 (easy) vs 6x9 (hard) video
+    - 5's are easier than 9's (sucking up mental effort)
+    - geometric (arrays) [suppose to be harder than divide to groups]
+    - sharing (given # groups) vs. measurement (given size of group) division (partitive vs. quotative) [partitive supposed to be harder than quotative]
+    - accidents of process
+    - list of 5's vs 9,18,27,etc. 
+
+
 mccloskey (short notes tue if time, expand wed)
 - impetus theory (1) the act of setting an object in motion imparts to the object an internal force or "impetus" that serves to maintain the motion (the force is then with the object) (2) impetus dies off so object comes to a stop (*) circular motion retained after projectlie released (**) projectile - first the object procedes straight; then turns down
     - tapering off circular OR just circular
     - plane projectile - straight down or diagonal line
     - cliff projectile many said curved right angle down
+    - sherin's revision (1) motino requires a causal explanation (2) forces can be stored up in objects ...
 - modern students are not aristotelean - aristotle said the air is pushing the projectile and there is always some force in contact with the projectile - students believe the medieval theory that the force is imparted on to the object
 - modern impetus theory evidence
     - [ball tossed up and comes down] ball provided force, cancel out at top, on way down gravity becomes stronger [2 ppl]
@@ -1056,6 +1069,14 @@ siegler
 - sum-cut strategy - 1,2,3,4-5,6 rather than sum strategy or min strategy (4,5,6) - is transitional and essential (in all 7 children in experiment)
 - still min only used occasionally at first
     - impasses play a role in generalization of the strategy
+-  probablilistic mutations in ideas
+- learning events - speed, certain p-prims activated; 
+
+- learning - changes that occur over minutes to hours (enduring change to knowledge in LTM) (forgetting counts as learning?)
+- conceptual change - fundamental conceptual shifts that happen over weeks to months
+- novice to expert - changes that occur over years and thousands of hours of focused study and practice
+- development - maturational changes that occur during childhood years
+- learning can happen from working on problems, from listening to someone, from random probabilistic processes
 
 (knowledge representation - this notion that we're problem solving all our lives)
 
