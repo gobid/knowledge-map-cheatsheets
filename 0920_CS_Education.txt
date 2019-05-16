@@ -1008,8 +1008,11 @@ diSessa Physics
     - chronology of developmental patterns
 - mccloskey - impetus theory (the force makes the object move but that dies off); circular impetus theory (objects continue to move in a circle); objects dropped from a moving object fall straight down (no projectile motion)
     - claim by disessa is that impetus is not a systematic and coherent theory - abstraction salient in a small class of situations like toss (where the impetus of the ball dies off and gravity brings it back down); impetus theory is the confluence of certain p-prims and will only be observed occassionally; 
-    - principle of invariance - p-prims deal with these better from bell sound dying to dynamic balance (that applies in different situations from the ball toss)
-    - (second paragraph of invariance principle to end - almost done)
+    - principle of invariance - p-prims deal with these better from bell sound dying to dynamic balance (that applies in different situations from the ball toss, that is better at adjusting to different naive theories by learners than the single impetus theory)
+        - the theory depends on the problem statement - how they described the particular circular motion (but why don't carried objects get the impetus) [fine structure of changing minds and intricate decisions can't be captured by impetus theory]
+    - coverage - what about the large %'s of people who didn't converge - they are displaying different p-prims
+    - continuity - how do people jump straight to impetus theory, how does mcclosky's theory immediately get replaced by real physics; there's a discontinuity; p-prims on the other hand are continuous - a process of reweighting them and reorganizing them to achieve real physics understanding
+    - principle of dynamic - impetus theory holders are flexible and influences by problem data and nudges, like being reminded of centripetal force changes their answer; changing the p-prims is the key for physics understanding
     
 mccloskey (short notes tue if time, expand wed)
 - impetus theory (1) the act of setting an object in motion imparts to the object an internal force or "impetus" that serves to maintain the motion (the force is then with the object) (2) impetus dies off so object comes to a stop (*) circular motion retained after projectlie released (**) projectile - first the object procedes straight; then turns down
@@ -1026,7 +1029,33 @@ mccloskey (short notes tue if time, expand wed)
     - when gravity takes effect (immediately vs after another say horizontal impetus dies)
     - impetus is imparted to the object stays with the object and makes it keep moving VS an object that's merely carried does not acquire the impetus (airplane projectile)
 
-
+siegler
+- microgenetic method - (a) observations of individual children throughout the period of the change, (b) a high density of observations relative to the rate of change within that period, and (c) intensive trial-by-trial analyses intended to infer the processes that gave
+    - density has to be high relative to rate of change of phenomena
+    - can increase likelihood of change by hypothesizing relevant tasks or materials that would lead to the change
+    - or can present a novel task and see how children change when doing it in a single session 
+    - intensive analyses can pinpoint whether it was change in which strategies used, more efficient processing, or new strategies
+- Lawler - found that children finding 2 competing theories that are able to solve the same problem led to insights and discoveries
+- min strategy for addition - starting at the bigger number
+    - Groen and Parkman found that time to solve problems was proportional to smaller number (chronometric)
+- Siegler - K-3 math problem experiment - consistent with chronometric; also used add strategy - counting on fingers representations of both addends to achieve the sum; were confident they'd hit conditions where children would construct min strategy
+    - large variability in types of strategies used
+    - variability in correctness's association with strategies used
+    - most made the discovery
+- impasse driven learning - when it's difficult to solve the problem without the strategy
+    - but discovery happened in all of the problems not just impasse ones (24+1), distributed fairly evenly 
+- children often change without impasses, grammars change, methods of determining larger vs smaller (by counting or by logic that one set is a superset/bigger)
+    - change (like mutation) as the norm
+    - children did not use illegitimate strategies however
+    - production rule would have probably involved representing both addends 
+    - a strategy many students lacked that was associated with not using min strategy: number can be represented quantitatively by simply restating the number and using it to represent the quantity
+        - this would be encoded as production rules
+    - goal sketch production rules may influence strategies used / not used, knowledge of procedures and conceptual knowledge, components of existing strategies may be a useful source of components for new strategies, microgenetic methods can help
+- performance just before the discoveries were unusually long and strange
+- count-from-first does not mediate discovery of min
+- sum-cut strategy - 1,2,3,4-5,6 rather than sum strategy or min strategy (4,5,6) - is transitional and essential (in all 7 children in experiment)
+- still min only used occasionally at first
+    - impasses play a role in generalization of the strategy
 
 (knowledge representation - this notion that we're problem solving all our lives)
 
