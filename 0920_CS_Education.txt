@@ -1078,6 +1078,34 @@ siegler
 - development - maturational changes that occur during childhood years
 - learning can happen from working on problems, from listening to someone, from random probabilistic processes
 
+posner
+- learning is: the result of the interaction between what the student is taught and his current ideas or concepts (model of conceptual change is not articulated)
+    -  a rational activity (impacted by affect but rational)
+- central commitments - strategies, categories, and solution criteria for science research
+- change in central commitment - scientific revolution or central commitments require a change
+- assimilation - students use existing concepts to deal with new phenomena
+- accomodation - student must replace or reorganize his central concepts
+- conceptual ecology - concepts that students know already that affect their change
+    - concepts generate class of problems - accepted approaches solve the class of problems
+    - (1) there must be dissatisfaction with existing conceptions (2) a new concept must be intelligible (3) a new conception must appear initially plausible (i.e. in context with the current body of literature) (4) a new concept should suggest the plausibility of a fruitful research program (future research)
+- Anomalies: The character of the specific failures of a given idea are an important part of the ecology which selects its successor.
+- Analogies and metaphors: These can serve to suggest new ideas and to make them intelligible.
+- Explanatory idea: Most fields have subject matter specific views concerning what counts as a successful explanation in the field.
+- General views about the character of knowledge: Some standards for successful knowledge such as elegance, economy, parsimony. And not being ad hoc seem subject matter neutral.
+- metaphysical beliefs about the universe - that it is organized and follows certain rules
+- metaphysical concepts of science - beliefs about the nature of the universe 
+- knowledge of other fields and competing concepts play a role
+- representations must be visually represented in the person's mind
+- Einstein's 2 special relativity laws were intelligible but perhaps difficult to reconcile with Newtonian mechanics. 
+- special relativity subject to all the above concerns: metaphysical beliefs, consistency with state of knowledge, consistent with past experience, visualize imagery of it, conception can solve problems
+    - must be empirically correct
+    - naturalness, simplicity, inner perfection
+    - potential energy being relative (gravitational potential energy relative to center of earth)
+    - perceptual change is what the students say (rod hasn't changed size, clocks don't actually change) - metaphysical commitments
+    - Newtonizing - an attempt to assimilate new info into this framework
+- (given the improbability)
+
+
 (knowledge representation - this notion that we're problem solving all our lives)
 
 To Do: 
