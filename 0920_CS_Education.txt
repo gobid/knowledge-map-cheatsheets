@@ -1103,7 +1103,21 @@ posner
     - potential energy being relative (gravitational potential energy relative to center of earth)
     - perceptual change is what the students say (rod hasn't changed size, clocks don't actually change) - metaphysical commitments
     - Newtonizing - an attempt to assimilate new info into this framework
-- (given the improbability)
+- fruitfulness of theory - engineering, science, astronomy, etc contributions
+- 2 features of conceptual analogies that were shown to guide the change process from one conception to another. 1) anomalies, and 2) fundamental assumptions about science and about knowledge.
+- awareness of fundamental assumptions, demand for consistency, awareness of epistemological and historical foundations of mdoern science, sense of fruitfulness
+- assimilation focus, retrospective anomolies, observational theories, analogies
+- a focus on student errors, representations, common conceptual problems, etc.
+    - teacher as devil's advocate adversary, challenger
+    - demand for consistency, exactness, agreement with existing theory
+
+chi 
+
+
+diSessa
+
+
+Carey
 
 
 (knowledge representation - this notion that we're problem solving all our lives)
