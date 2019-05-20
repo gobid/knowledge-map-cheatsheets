@@ -1111,13 +1111,19 @@ posner
     - teacher as devil's advocate adversary, challenger
     - demand for consistency, exactness, agreement with existing theory
 
+Carey
+- restructuring - 
+- restructuring in child learners vs restructuring in novice-expert conversion
+    - novice-expert restructuring involves new interrelations ("no acceleration without a force instead of no motion without a force")
+    - novice-expert restructuring involves new interconnections that create new abstract concepts and schemata
+    - novice vs expert - they share many terms but the meaning / relationships of the terms / concepts are different for novices and experts (strong view of restructuring)
+- intuitive theory constraints - our intuitive theories have certain natural constratins (like we don't think a rabbit means an animal chewing carrots)
+- (consider concepts motion and velocity)
+
 chi 
 
 
 diSessa
-
-
-Carey
 
 
 (knowledge representation - this notion that we're problem solving all our lives)
