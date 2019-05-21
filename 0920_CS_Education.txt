@@ -1112,15 +1112,25 @@ posner
     - demand for consistency, exactness, agreement with existing theory
 
 Carey
-- restructuring - 
+- restructuring - articulation of changes in domain, concepts, and explanatory structure are required as they depend on each other (Aristotle -> Galileo)
+    - weaker - new relations among concepts are represented, and new schemata come into being which allow the solution of new problems and which change the solutions to old problems
+    - stronger - includes these kinds of change, and also includes changes at the level of individual concepts at the core of time successive systems (the question is, is this stronger sense required for science education?)
+    - whether fundamental belief systems has to be changed matters in research: Acquiring expertise in chess does not require abandoning a highly deveioped altemative theory of chess, while the shift from Aristotelian to Galilean mechanics' does
 - restructuring in child learners vs restructuring in novice-expert conversion
     - novice-expert restructuring involves new interrelations ("no acceleration without a force instead of no motion without a force")
     - novice-expert restructuring involves new interconnections that create new abstract concepts and schemata
     - novice vs expert - they share many terms but the meaning / relationships of the terms / concepts are different for novices and experts (strong view of restructuring)
 - intuitive theory constraints - our intuitive theories have certain natural constratins (like we don't think a rabbit means an animal chewing carrots)
-- (consider concepts motion and velocity)
-
-chi 
+- restructuring when children learn - weaker and even stronger restructurations do occur, child domains split (psychology) from parent domains (biology)
+- inductive projections - patterns of inductive projection provide evidence about the theories held by the person making the inferences (i.e. we think that human dolls don't have omenta like humans do, but dolphins have them)
+    - 4 year olds did not project (i.e. think that A has a spleen because B has a spleen) spleens more to other animals than to inanimate objects
+- patterns of attribution of biological properties - restructuring occurs over the years to understand species relationships
+    - 4 year olds still project from animals to non-animals and from mammals to non-mammals in a way that is incorrect according to science (eat, breathe, have babies, etc.)
+    - so restructuring occurs
+- projection from two animals - for 6 year olds projection to any animal from dog alone is the same as from dog and bee; where as adults think that dog and bee together give a signal that all animals have a spleen whereas just dog / just bee doesn't do it
+- clinical interviews - young children do not know the biological function of bodily processes and internal body parts.
+chi, but 10 year olds have achieved the naive adult understanding
+- species as natural kinds - 
 
 
 diSessa
