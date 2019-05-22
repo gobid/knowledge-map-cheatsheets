@@ -1134,6 +1134,10 @@ chi, but 10 year olds have achieved the naive adult understanding
 
 
 diSessa
+- conceptual change framework - nodes can be added, deleted, relinked, etc (i.e. no force without motion replaced without change in speed)
+- (left off at the "concept of concept")
+
+Chi
 
 
 (knowledge representation - this notion that we're problem solving all our lives)
