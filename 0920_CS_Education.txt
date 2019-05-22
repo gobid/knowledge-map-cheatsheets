@@ -1135,9 +1135,26 @@ chi, but 10 year olds have achieved the naive adult understanding
 
 diSessa
 - conceptual change framework - nodes can be added, deleted, relinked, etc (i.e. no force without motion replaced without change in speed)
-- (left off at the "concept of concept")
+- concept of a concept - force / mammal are important, but it's important to justify what counts
+    - childhood animism - young children think many inanimate objects are alive
+    - mentalese - expressions of tacit knowledge which is not evident in language but is key for how learning works
+- manifest variety - from dogs to numbers the variety is very diverse, need for more than one theoretical construct
+- theoretical imprecision - as per cog-sci tradition, need more precision about processes and form of mental representations associated with concepts (variety of processes involved in change)
+- probabilistic theory of concept - how similar a given instance (to be classified) is to the gold-standard prototype
+    - knowing the concept VS categorizing are two different things
+- ICM - idealized cognitive models - i.e. bachelors are unmarried males in a society where they are of marriagable age (very specific definitions, visuals that exclude non-ICM compliant instances like priests)
+- relational theory of concepts - addition, deletion, interrelation of nodes
+- patterns of activation in a neural net - concepts may be intermediate node visuals / feature maps in an NN
+- actional / situated perspective - concepts are a pattern of people, things in the world, and neuronal activations
+- tenets of accountability: standards of what counts as a concept, an account of different varieties of concepts, theoretical accounts of a variety of processes involved in concept use and conceptual change (ancillary knowledge may have an impact on the change and how fast/easily it happens), *match real-time data of students with theoretical accounts of processes*
+- coordination classes (one type of concept) - the competence to see a particular class of info in the world; important to see how learner's models are different from experts; systematically connected ways of getting information from the world; multiple observations or aspects may need to be coordinated to determine the necessary information (integration); across instances and situations, the knowledge that accomplishes readout of information must reliably determine the same info 
+- causal net - class of info / set of inferences not obvious but that can be determined by info given (i.e. force causes acceleration)
+- quantitities as coordination classes - p-prims are abstractions of common experiences (push harder and go farther/faster); people can see physically relevant things; invariance is an issue too much noise and too much is seen as relevant; p-prims coordinate -  beginning causal net is the naive sense of mechanisms; qualitative interpretations of equations are important
+- invariance - that the rules apply in all situations (J violates this by basically saying newton's 3rd law doesn't apply in many situations)
+    - lack of invariance is a source of issues because they don't try to make sure the laws always apply
 
 Chi
+- 
 
 
 (knowledge representation - this notion that we're problem solving all our lives)
