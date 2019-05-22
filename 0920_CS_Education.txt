@@ -1130,8 +1130,13 @@ Carey
 - projection from two animals - for 6 year olds projection to any animal from dog alone is the same as from dog and bee; where as adults think that dog and bee together give a signal that all animals have a spleen whereas just dog / just bee doesn't do it
 - clinical interviews - young children do not know the biological function of bodily processes and internal body parts.
 chi, but 10 year olds have achieved the naive adult understanding
-- species as natural kinds - 
-
+- species as natural kinds - people know the difference betweeen natural phenomena and man-made or conceptual phenomena (box, thing, etc)
+- childhood animism - thinking that inanimate things are alive when a child
+- domain - selection of phenomena that describe a group (eating, drinking, sleeping for humans)
+- explanatory framework - the why and conventions behind certain behaviors and descriptors of a group
+- changes in individual concepts - male means more than just clothing but also has to do with body's role in reproduction; eating helps people stay alive - it's not just for fun
+- coalescence of animal and plant - involves reconceptualizing both
+- Piaget Stage Theory - ? - point at end?
 
 diSessa
 - conceptual change framework - nodes can be added, deleted, relinked, etc (i.e. no force without motion replaced without change in speed)
@@ -1154,9 +1159,30 @@ diSessa
     - lack of invariance is a source of issues because they don't try to make sure the laws always apply
 
 Chi
-- 
-
-
+- emergent - some processes that emerge as you assemble info (such as the apparent flow in diffusion of dye in water)
+    - micro level molecular level - flow from one to another, aggregate phenomena is emergent
+    - explanation does not do justice to this - randomness of both actions and interactions not emphasized; all molecules move not dye molecules; molecules are a population that must be treated as random variables  
+- direct - can be understood by just being told (such as the flow of blood in human circulation)
+    - both processes direct and emergent have global patterns and components
+    - both have multiple levels
+    - both have interaction
+    - both have invisible patterns
+    - both processes involve numerous simple and complicated descriptors about both the pattern and the components
+    - both local and global behaviors / patterns can be influenced
+pattern and/or the components.
+- differences
+    - neither the aggregate components themselves (the dye and clear liquids) nor their constituents (dye and water molecules) are directly (nor indirectly) causing the global flow pattern to occur
+- direct processes are - distinct (each stage of process different), constrained (only interacts with other prespecified components), sequential, dependent (stages are dependen on each other), terminating
+    - component pattern relations are - direct (effect on the overall pattern), corresponding (direction of process corresponds to overall pattern), differntial status (some portions are more essential for certain outcomes than other portions), global goal or intentional
+- emergent processes are - uniform (same behavior happening everywhere throughout the process), unconstrained / random, simultaneous, independent, continuous
+    - component pattern relations are - nondirect, disjoint (i.e. the relationship between the cars and the jam is disjoint in that the jam can move backward while the cars move forward), equivalent status, local goal or unintentional
+- domain-specific vs concept-specific vs theory-specific definitions
+    - but underlying similarities should be there from the real world to theory taught in school
+    - commonalities can be construed as an ontological kind / category
+    - misconceptions within an ontological category should be easier to resolve than misconceptions across categories
+- understanding the causal mechanism between the components and the pattern, is distinct from understanding the cause-effect relations between some factors and the
+- causes of failure - Alternative Conceptions, Incorrectly explaining the cause of the flow pattern at the constituent
+component level (emergent processes are misconceived of as a kind of direct processes),  
 (knowledge representation - this notion that we're problem solving all our lives)
 
 To Do: 
