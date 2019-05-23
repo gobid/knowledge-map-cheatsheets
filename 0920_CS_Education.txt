@@ -1137,6 +1137,11 @@ chi, but 10 year olds have achieved the naive adult understanding
 - changes in individual concepts - male means more than just clothing but also has to do with body's role in reproduction; eating helps people stay alive - it's not just for fun
 - coalescence of animal and plant - involves reconceptualizing both
 - Piaget Stage Theory - ? - point at end?
+- conceptual change: change in domain of phenomena (intuitive bio and psych are together but they split off), change in individual concepts, change in nature of explanations
+    -  coalescences (plants and animals) and differentiations (living things vs not living) 
+- conceptual change hard and conditions: conditions for change difficult - have to learn lots of the specifics of how systems work - accumulation of raw material; then only conceptual change can emerge
+    - need to understand all individual concepts to be able to apply a framework accurately (i.e. framework of newtonian mechanics)
+    - novices go through weak (knowl change) or strong restructuring (conceptual change) to get to expert
 
 diSessa
 - conceptual change framework - nodes can be added, deleted, relinked, etc (i.e. no force without motion replaced without change in speed)
@@ -1183,6 +1188,14 @@ pattern and/or the components.
 - understanding the causal mechanism between the components and the pattern, is distinct from understanding the cause-effect relations between some factors and the
 - causes of failure - Alternative Conceptions, Incorrectly explaining the cause of the flow pattern at the constituent
 component level (emergent processes are misconceived of as a kind of direct processes),  
+
+-  tacit knowledge - knowledge that we aren't aware that we have 
+    - (can be obvious in retrospect - restaurant script, p-prims, sense for answers in NYT)
+    - won't be explicitly stated in talk aloud, questions for making it easier to infer tacit knowledge (as opposed to questions to bring out the tacit knowledge - we should probe it though)
+    - beliefs are included in knowledge, knowledge is the stuff in your head that stays in LTM
+        - still useful to understand on-the-fly constructed mental models
+    - if we probe are we making it un-tacit - still always getting sliver surface level but most knowledge is not conscious
+
 (knowledge representation - this notion that we're problem solving all our lives)
 
 To Do: 
