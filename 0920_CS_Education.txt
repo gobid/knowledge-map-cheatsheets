@@ -1162,6 +1162,12 @@ diSessa
 - quantitities as coordination classes - p-prims are abstractions of common experiences (push harder and go farther/faster); people can see physically relevant things; invariance is an issue too much noise and too much is seen as relevant; p-prims coordinate -  beginning causal net is the naive sense of mechanisms; qualitative interpretations of equations are important
 - invariance - that the rules apply in all situations (J violates this by basically saying newton's 3rd law doesn't apply in many situations)
     - lack of invariance is a source of issues because they don't try to make sure the laws always apply
+- levels of change - learning a category - learning concepts like what a number is
+- changing psychological entities - causal net - certain nodes get stronger or weaker
+- difficulty of conceptual change - different situations activate different nodes in the causal net
+    - causal net is a collection of tacit knowledge
+- conditions for conceptual change - readout strategies (process for seeing and read out its values) and the causal net should co-evolve - first read out strategy then causal net (different situations activiate different p-prims)
+    - haven't been integrated into a coordination class consistent with Newtonian physics (or maybe different p-prims are connected to multiple "naive" corrdination classes)
 
 Chi
 - emergent - some processes that emerge as you assemble info (such as the apparent flow in diffusion of dye in water)
@@ -1188,6 +1194,9 @@ pattern and/or the components.
 - understanding the causal mechanism between the components and the pattern, is distinct from understanding the cause-effect relations between some factors and the
 - causes of failure - Alternative Conceptions, Incorrectly explaining the cause of the flow pattern at the constituent
 component level (emergent processes are misconceived of as a kind of direct processes),  
+- levels and kinds of change - conceptions within a category vs across ontological categories (direct vs emergent)
+- change - ontologies are phychological entities - through common processes (deletion, addition, etc)
+- that particular misassignment of emergent vs direct is a problem for a lot of science learning
 
 -  tacit knowledge - knowledge that we aren't aware that we have 
     - (can be obvious in retrospect - restaurant script, p-prims, sense for answers in NYT)
