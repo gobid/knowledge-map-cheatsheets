@@ -217,7 +217,7 @@ Microworlds for physics / dynamics, thermodynamics / gas particles (Uri's), Eucl
 intrinsic environment - students given working model, mathematics learned intrinsic to the model, feedback is direct, rich env for exploration and the more math they apply the more they can do
 microworld - computational objects, mutliple representations, combinations for complex objects, set of activities => learners manipulate objects, interpret feedback, solve challenges
 experimental-feedback cycle - where learning happens from functional perspective
-objectivism
+objectivism - the belief that certain things, especially truths, exist independently of human knowledge or perception of them
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
 
@@ -1198,12 +1198,39 @@ component level (emergent processes are misconceived of as a kind of direct proc
 - change - ontologies are phychological entities - through common processes (deletion, addition, etc)
 - that particular misassignment of emergent vs direct is a problem for a lot of science learning
 
--  tacit knowledge - knowledge that we aren't aware that we have 
+- tacit knowledge - knowledge that we aren't aware that we have 
     - (can be obvious in retrospect - restaurant script, p-prims, sense for answers in NYT)
     - won't be explicitly stated in talk aloud, questions for making it easier to infer tacit knowledge (as opposed to questions to bring out the tacit knowledge - we should probe it though)
     - beliefs are included in knowledge, knowledge is the stuff in your head that stays in LTM
         - still useful to understand on-the-fly constructed mental models
     - if we probe are we making it un-tacit - still always getting sliver surface level but most knowledge is not conscious
+
+scribner
+- literacy without schooling (Vai Script, Quranic) - does not lead to the same cognitive skills as literacy with schooling (depends on the activities associated with the written language)
+- practice approach to cognition - the practice itself needs to be studied, thinking in context
+- law of mental work - mental work will be expended to save physical work
+- literal strategy vs non literal (behavioral) strategy - literal means solution is specified exactly in terms of numbers, behavioral means that evening out was done (removing 4 from 14, 1 from 11 to make proper containers)
+- optimial strategy - least physical effort strategies - optimal moves of items from one container to another
+- students use more literal strategies, milk business workers use more practical, non-literal strategies to save on economies of effort
+- practical thinking becomes adaptive when it serves economies of effort
+
+lave
+- gap-closing arithmetic - arithmetic serves as a tool to repair problems that come up when grocery shopping (analyzing the activity in context and the context itself)
+- layout of supermarket is conducive to certain types of arithmetic
+
+hutchins
+- cognitive framework of distributed socio-technical systems - cognitive properties of individuals can be very different from each other and from the system at whole which uses external objects to aid communication, information, and cognition
+    - organizations as cognitive systems
+    - material media using which representations are embodied
+- memory in cogntitive system - a combination of recognition, recall, pattern matching, cross modality consistency checking, construction, and reconstruction that is conducted in interaction with a rich set of representational structures, many of which permit, but do not demand, the reconstruction of some internal representation that we would normally call the “memory” for the speed
+    - individual memories are just a part of the system
+- redundant system - redundant recording, redundant memory, redundant checking - what we care about is interaction of people with each other and environment
+
+Nunez
+- embodied cognition - learning and cognition are situated and context dependent; and cognition itself is embodied in that it depends on the experience of being in the human body [free moving hand vs epsilon delta definition of continuity]
+- congitivism is based on objectiviism - that there is some underlying truth independent of human cognition
+- image schemata - are perceptual-conceptual primitives that allow the organization of experiences involving spatial relations ("on" is based on support, above, and in contact with schema)
+- conceptual metaphor - ‘mappings’ that preserve the inferential structure of a source domain as it is projected onto a target domain (i.e. spent time at work (metaphor of money for time) ) 
 
 (knowledge representation - this notion that we're problem solving all our lives)
 
