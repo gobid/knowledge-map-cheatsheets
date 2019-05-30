@@ -1206,6 +1206,20 @@ component level (emergent processes are misconceived of as a kind of direct proc
     - if we probe are we making it un-tacit - still always getting sliver surface level but most knowledge is not conscious
 
 scribner
+- practice framework of cognition - congitive skills take shape in the course of practice (often socially organize); as they hit problems when they practice, they try to solve them and build cognitive skills (these skills are specific to the practice literary skills vs religious quran vs science research)
+    - no need to adopt the Western Philosophical thinking thata separates the practical and theoretical thought
+- functional approach - practice of basic mental processes and structures which becomes specialized and diversified through experience; there's a sense of a goal or subgoal that the processes are trying to achieve; notion to analyze the practical, seemingly mundane processes themselves (i.e. the milk factory worker's calculations)
+- unit of analyzes - the task, the goal, the practical processes
+    - might be the same unit as Hutchins but focused on the task
+    - but can't see least effort practices or variability without this emphasis on practice 
+    - also thinking is adapted to particular tasks asked to perform (reading/writing doesn't help you accross the board)
+- Vai tailors famous work - Liberia - 3 kinds of literacy - Western style schooling OR Vai script OR quran - but what they learned were just very adapted to what they learned (no general purpose cogntive skills) 
+- critique of cognitive perspective - can't divorce the cognition from the practices  
+    - mental representations - all the people doing these specific cultural practiced tasks have the same underlying specific representations (that diverge from literal solutions because of influences like the law of mental work); change with increasing experience
+- alternative explanation pattern - students use a literal academic format but people who are in a practice use represenations specific to their practice
+    - people (doing a specific representations) have better representations (in practice) [for accomplishing that task]
+    - processes to apply (develop and improve with practice); processes shaped by the practice; why a certain pattern of behavior comes into existence
+    - still third one applies
 - literacy without schooling (Vai Script, Quranic) - does not lead to the same cognitive skills as literacy with schooling (depends on the activities associated with the written language)
 - practice approach to cognition - the practice itself needs to be studied, thinking in context
 - law of mental work - mental work will be expended to save physical work
@@ -1215,12 +1229,23 @@ scribner
 - practical thinking becomes adaptive when it serves economies of effort
 
 lave
+- setting - where the activity happens repeatably; individual's version of the store (pet food area when you don't have a pet is part of the arena but not the setting) 
+- arena - durable place within which an activity takes place; behavior settings have durable and public properties, not negotiable directly by the individual
+- context - arena + setting (can be same across visits) + but when there is a change, then that sets up a context as well; + highlights difference between arena and setting; 
+- dialectically constituted problem solving - dialectic: the existence or action of opposing social forces, concepts, etc. (metaphysical); your cognition is influenced by the forces of the environment (cheese choices and prices influence your cognition)
+    - Hegelian - thesis, antithesis, synthesis
 - gap-closing arithmetic - arithmetic serves as a tool to repair problems that come up when grocery shopping (analyzing the activity in context and the context itself)
-- layout of supermarket is conducive to certain types of arithmetic
+    - person goes in expecting to do something; environment provides some dialectic feedback and problems that the person solves (in order to get what they wanted in the first place)
+- lave theory - it's not just solving some individual problem (i.e. people have said problem solving = cognition), but interaction with an environment that generates problems (dialectic interactions) that you solve towards some end goal; 
+    - negotiating even what the problem is (time to spend on it, etc)
+    - lave is a scribner student (Vai, Liberia)
+- layout of supermarket is conducive to certain types of arithmetic 
 
 hutchins
 - unit of analysis - entity to be analyzed as a cognitive being; it is the whole (people, materials, i.e. plane cards etc) system here not the individual
-- function system - a full system with human actors and physical inanimate representations that together can do cognitive work and have institutional memory (pilots, speed bugs, etc)
+    - bruce idea: perhaps factoring system into persons and environment is not possible; more extreme distributed cognition: even the representation stretches across people and objects; but in hutchins, an individual representation is in a person, or display but the function is spread across entities
+- function system (distributed cognition) - a full system with human actors and physical inanimate representations that together can do cognitive work and have institutional memory (pilots, speed bugs, etc)
+    - internal to individual or external to people representtion
 - stance toward representations - observable and not observable representations (not observable: pilots memories, observable: speed bugs); The properties of these representations inside the system and the processes that operate on representations are assumed to cause or explain the observed performance of the cognitive system as a whole. (it's only the representations and their interactions, not the environment, is the cognitive system; but defining what is the system and what is the environment is key)
 - Thagard thinks that people have represetnations, processes that they apply to them, and the processes applied to the represetnations gennerate the behavior; for Hutchins just replace people with functional system
 - cognitive framework of distributed socio-technical systems - cognitive properties of individuals can be very different from each other and from the system at whole which uses external objects to aid communication, information, and cognition
@@ -1231,6 +1256,10 @@ hutchins
 - redundant system - redundant recording, redundant memory, redundant checking - what we care about is interaction of people with each other and environment
 
 Nunez
+- grounding - grounding for situatedness comes from the nature of shared human bodily experience and action, realized through
+basic embodied cognitive processes and conceptual systems; for us to understand something we must reduce it to something more basic (underlying basic experiences - image schemas of lakoff - universal mental language)
+    - nunez et al. claim - for traditional cogsci - our grounding is in an objective world (bruce says this is false - cog sci doesn't handle the reduction) [objective reality is the external physical world; predefined concepts - objectivism]
+- embodiment - image schemata (only few, underlying) different from p-prims (lot of them, not most basic)
 - embodied cognition - learning and cognition are situated and context dependent; and cognition itself is embodied in that it depends on the experience of being in the human body [free moving hand vs epsilon delta definition of continuity]
 - congitivism is based on objectiviism - that there is some underlying truth independent of human cognition
 - image schemata - are perceptual-conceptual primitives that allow the organization of experiences involving spatial relations ("on" is based on support, above, and in contact with schema)
