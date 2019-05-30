@@ -1219,6 +1219,10 @@ lave
 - layout of supermarket is conducive to certain types of arithmetic
 
 hutchins
+- unit of analysis - entity to be analyzed as a cognitive being; it is the whole (people, materials, i.e. plane cards etc) system here not the individual
+- function system - a full system with human actors and physical inanimate representations that together can do cognitive work and have institutional memory (pilots, speed bugs, etc)
+- stance toward representations - observable and not observable representations (not observable: pilots memories, observable: speed bugs); The properties of these representations inside the system and the processes that operate on representations are assumed to cause or explain the observed performance of the cognitive system as a whole. (it's only the representations and their interactions, not the environment, is the cognitive system; but defining what is the system and what is the environment is key)
+- Thagard thinks that people have represetnations, processes that they apply to them, and the processes applied to the represetnations gennerate the behavior; for Hutchins just replace people with functional system
 - cognitive framework of distributed socio-technical systems - cognitive properties of individuals can be very different from each other and from the system at whole which uses external objects to aid communication, information, and cognition
     - organizations as cognitive systems
     - material media using which representations are embodied
