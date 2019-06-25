@@ -30,18 +30,16 @@ Finally, this project should stop you from feeling guilty about forgetting what 
 
 Explore these subjects to grasp the fundamentals of all knowledge:
 
-0. Mathematics
-1. Statistics
-2. Computer Science
-3. Physics (including EE/MechE/Civil&EnvE/AeroE)
-4. Astronomy
-5. Chemistry (including ChemE)
-6. Biology (including BioE)
-7. Medicine
-8. Economics (including Business and Finance)
-9. Psychology
-10. History (including Political Science and Law)
-11. Art - Literature, Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify, youtube, saavn for inspiration)
+1. Mathematics
+2. Statistics
+3. Computer Science
+4. Physics - EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+5. Chemistry - ChemE
+6. Biology - Medicine, BioE
+7. Psychology - Cognitive Science
+8. Economics - Business and Finance
+9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
+10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify / saavn, youtube), Culinary Arts
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
@@ -57,6 +55,7 @@ To contribute:
 Citations:
 - https://www.princetonreview.com/college/ap-subjects
 - http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
+- https://en.wikipedia.org/wiki/List_of_academic_fields
 - cheatsheets that are not custom-made (noted) are the first good result on google or google images for "(comprehensive) [subject] cheatsheet"
 - dummies.com
 - cliffnotes.com

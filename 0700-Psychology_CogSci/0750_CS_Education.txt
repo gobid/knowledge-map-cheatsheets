@@ -193,7 +193,7 @@ evocativeness
 integration - affords representing multiple concepts
 situational learning
 appprentice learning
-ISDP - instructional software design project
+ISDP - instructional software design project (Harel)
 personalization (remembering students actually acting out fd 100 in elementary school)
 linear vs modular programming
 disconnection of knowledge (knowledge starts off as knowledge in parts)
@@ -217,7 +217,7 @@ Microworlds for physics / dynamics, thermodynamics / gas particles (Uri's), Eucl
 intrinsic environment - students given working model, mathematics learned intrinsic to the model, feedback is direct, rich env for exploration and the more math they apply the more they can do
 microworld - computational objects, mutliple representations, combinations for complex objects, set of activities => learners manipulate objects, interpret feedback, solve challenges
 experimental-feedback cycle - where learning happens from functional perspective
-objectivism
+objectivism - the belief that certain things, especially truths, exist independently of human knowledge or perception of them
 ideal symbol systems (follow an objectivist approach)
 transparency of system - carried through examples and experience in the case of computer models (social contexts, transfer to situations)
 
@@ -252,7 +252,7 @@ text structure units (TS) vs planned knowledge units (PK) - TS had faster respon
 TS IMPORTANT INITIALLY ESTABLISHING PROGRAM STRUCTURE IN MEMORY, MACROSTRUCTURES ARE PROCEDURES / CONTROL FLOW
 PK IMPORTANT LATER - FUNCTIONAL STRUCTURE AND SITUATION IN WHICH PROGRAM IS APPLIED (situational model) - this is distinct from macrostructure organization of codebase provided by TS
 
-constructionism allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
+constructionism - creating and sharing work - allows any learner to learn how they want, demand-pull of the concepts (ie math concepts) they need
 learning-by-making idea and style idea (painter programmer vs formal planner programmer)
 Logo works for fractions - hard quantitative evidence - even though they don't like fractions when taught in its traditional manner
 epistemology - nature of knowledge vs nature of knowing
@@ -320,6 +320,953 @@ Classical tools vs embodied tools — former make aggregate level assumptions, l
 Agent-personification - i.e. Paul pretending to be the firefly in order to understand how it would move in conjunction with other matter
 Robustness - a model that isn’t perturbed by parameter changes, particularly small ones
 
+participatory system - where all actors both machines and humans may take active or passive roles
+conversational system - - systems that take human conversation as a metaphor (though not implying the necessary use of human language)
+connectionism - using neural networks to explain the human mind
+story telling in computing medium - plot, tension, catharsis, etc in interactions with the computer
+convivial - media in which all partipants can contribute content
+
+Protean teaching tools - ones that are very versatile to custom learner interests, such as computers
+transitional object - one that enables a bridge between “concrete” (example-based) and “formal” (abstract) stages of reasoning (i.e. logo turtle, mindstorms robot)
+physical settings - ones that exploit the affordances of physical objects for pedagogical purposes, physical objects have certain affordances particularly for children (think physicalized microworlds)
+
+primitives in constructionism - base tools to work with, "forward" "backward" the turtle (differential) in Logo better than compass and straight edge (what greek's had in their mathematics)
+big vs wig - beyond the information given (let them discover it themselves), with information given (tell them then constructivist activity)
+
+material intelligence - computer literacy in our computerized society
+pillars of literacy - material dependencies (physical objects like pen and paper, computers); cognitive dependencies (human has to be able to interpret the book); social basis in community for advanced literacies
+social niche - interests and activities of individual people in society that fill a "niche" in the complex web of society - affected by material dependencies - computers need to support all niches
+protean material dependencies - material dependencies (i.e. computational media) that can support all the niches (from romance novels to scientific journal articles)
+
+scaffold
+scaffold past a concept
+
+computer-based modeling
+agent-based modeling
+power properties - restructure of domain should be able to do more (hindu arabic over roman)
+cognitive properties - restructurations that make learning easy by playing well with pre-existing knowledge (p-prims)
+affective properties - content is engaging
+social properties - social sharability of properties
+diversity properties - working well with different ways of thinking 
+
+low floor vs high ceiling entry points
+
+ask wilensky for 10 points about logo + play (see on canvas)
+- sherry - tinkerers vs planners in programmers
+
+Knowledge Representations
+- LS stimulus response bond - learners react to stimuli
+- ACT theory - the bridge between learning and performance
+- production rule - 
+- thorndikes cats - they got out of a box due to trial and error, stimulus and response - not problem solving
+- behaviorism - also known as behavioral psychology, is a theory of learning based on the idea that all behaviors are acquired through conditioning without addressing thoughts or feelings (wikipedia)
+- cognitivism - as opposed to behaviorism, that the thought processes in the mind matter and should be studied and are distinct from the behavior that they cause 
+- Gestalt psychologists - is an attempt to understand the laws behind the ability to acquire and maintain meaningful perceptions in an apparently chaotic world. The central principle of gestalt psychology is that the mind forms a global whole with self-organizing tendencies (from wikipedia) - used problem solving to prove points and prove wrong behaviorists but did not look into problem solving process
+- Newell and Simon - looked at problem solving, and the general relationship between problem solving and learning
+- Tolman - importance of goals for learning and behavior
+- problem solving - state, operator - transforms one state to another / rules, search through states by applying operators 
+- internal vs external application of operators - the problem solver imagines some sequence of actions vs the problem solver directly applies some actions
+- problem-solving method - principles used for selecting operators
+- hill climbing - find similar states to goal state
+- problem solving and learning - goals convert what has been learned into performance (via problem solving)
+- LISP
+
+- interpretation - "the system can interpret an ex-pression if the expression designates a process and if, given the expression, the system can carry out the process"
+- turing machine - symbol system (manipulates symbols on a strip of tape according to a table of rules)
+- necessary - exhibits general intelligence
+- sufficient - any physical symbol system of sufficient size can be organized further to exhibit general intelligence.
+- hypothesis - physical symbol systems are capable of intelligent action, and that general intelligent action calls for a physical symbol system
+- formal logic - mathematical logic, propositional, first order, etc. 
+- milestones in computing after turing machines: stored programs (Eniac), list processing, LISP, 
+- GPS - general problem solver, PLANNER, CONNIVER - first AI systems 
+- modeling human behavior as symbol systems - information processing psychology - process of experimentally finding out whether symbol systems and human cognition converge
+- heuristic search - using heuristic rules to guide search so you don't have to traverse the exponential search space - selectivity on branches to explore 
+- solution generation in problem space - harder than just a verification problem
+- weak methods - methods that deal with the control of exponential expansion
+- strong methods - highly structured situations (linear programming problems)
+- optimizing search with global variables
+- semantic recognition systems - cached information that may be helpful for problem solving
+- representations - mutilated checker board - you know that there are 2 less squares of one color than the other - and each tile must cover 1 black / 1 white - this latter representation makes it easier to solve the problem
+
+rumelhart
+- schema - building blocks of cognition
+- schema theory - all knowledge is packaged into units, data structure for representing generic concepts (they use sensory data)
+    - like a play that has instantiations, *variables* can take on values, but schemas are more abstract / abstractable and are about any concept not just a set of events), consists of *sub-schemas*
+    - like theories in that they can predict events or outcomes
+    - like procedures because they evaluate the quality of their own fit to available data (are *active*), and have sub-procedures/schema
+    - like parser - *recognition devices* which given a sequence of symbols determines whether the sequence forms a legal sentence, etc (computational linguistics)
+    - *can represent knowledge at all levels of abstraction*
+    - *can represent knowledge rather than definitions*
+- conceptual-driven processing - expectation-driven - when a schema is activated and it activates subschemata which are expected to account for some portion of the input data
+- control structure: how to choose a schema (i.e. bottom up)
+- data-driven activation - activated from the bottom-up whenever subschema that has been somehow activated causes the various schemata of which it is a part to be activated (car salesman story - activation of lower schemas lets us bottom-up deduce higher level schema of car-selling story, sometimes can follow by top-down knowledge of the higher level schema to flow down)
+- recognizability - to be recognized a schema has to have an internal structure (carrot nose out of context vs detailed nose)
+    - schemata for words not random letters
+- premature commitment to wrong schema - can be debilitating making people stick to wrong schema longer than they would have otherwise
+- 3 reasons for failure - not having the right schemata, not having the right sensory clues to bottom up infer the schemata, not understanding the text correctly to find the right schemata
+- schema and memory - schema can help structure concepts in the users mind and this may be the fundamental requirement for remembering (but the danger is it can also lead to restructuring to fit schema)
+- perception - goal directed, it's not just about taking existing info and fitting it into schema, but rather seeking useful information
+- accretion - fact learning - imbibing text or knowledge over time and being able to remember and access it (no new schema formed)
+- tuning - refinement of knowledge through experiment and experience (evolution of existing schema, i.e. making more generalizable)
+- restructuring - new schema through combining old schema or inferring from experential data 
+    - pattern generation - copying old schema with modifications, learning by analogy
+    - induction - learning from data, if events / configurations occur multiple times in nature then we can form a schema out of them
+- familiarity of problem can help users surface schema that they may otherwise not be able to draw upon (vowel/number card problem vs sears receipt problem)   
+
+just and carpenter
+- knowledge about story structure
+    - story schema - frame and slot to represent what the user knows about the story structure
+    - story grammar - hierarchy of categories of story information
+- story content - events and causal relations because of specific story content
+- world knowledge - knowledge of human goals tendencies traits context
+- integrating different types of texts - narratives, expositions, descriptions
+- reader model's text level processing - how readers uses schema to comprehend and recall a passage
+- factors affecting text integration
+    - Knowledge of the structure of the text genre.
+    - Knowledge about the referential situation.
+    - Integrative cues in the text.
+    - Constructing generalizations or abstractions.
+    - Focusing on the causal or temporal chain of events in a narrative text.
+    - Focusing on the described phenomena and their explanation in an expository text.
+    - Focusing on the referential situation in a descriptive text.
+- story schema - knowledge that members of a culture extract about the typical structure of stories
+- bartlett's experiment - people fit stories into schema that they know (and an attitude they assume)
+    - images (instantiations of schema parts) help highlight schema items
+- story grammar - a slightly different characterization of the knowledge of story structures - directly denotes hierarchical relationships within the story
+    - setting (where&when) and episode (what happens) - setting, event, internal response, action, event
+    - hierarchical tree structure
+- reading time on sentences higher in the hierarchy is greater
+    - more interesting, or may take more time to integrate into understanding of story
+    - also spend more time on sentences at the boundary of an episode
+    - they remember these sentences better as well
+- causal relations - how earlier episodes affect later ones
+    - actions can be caused by goals, vocations, traits, acts of god
+    - time to read a sentence goes up as the causal distance increases between it and the sentence that precedes it
+- goal pursual - narratives consist of a protagonist pursuing a goal
+- plot unit - a particular configuration of goals, actions, and affective states
+- assessments of story structure - can scramble sentences, can have same content serve different structural roles (setting, initiating event, internal response, consequence, reaction)
+- causal centrality and story grammar categories
+    - central event or state must describe a superordinate rather than a component entity (eating breakfast not pouring cereal)
+    - central event or state - may be part of the causal chain of events and states that lead from beginning to end of story
+    - central event or state may introduce a main character
+- script - a schema for knowledge about routine occurrences
+    - as opposed to a schema for story structure (containing slots like story structure and resolution)
+    - balancing story structure and story content pedagogy is important
+- knowledge of people - general knowledge of how humans behave, their motivations, concerns, etc
+- knowledge of specific content domains - slots can have default values that can be inferred if they were not mentioned (you pay the bill at the restaurant) where the schema is the frame-with-slots structure
+    - how choice is determined of which schema to use is not completely understood
+- narrative - describes events linked by causation or theme
+    - reader fills in gaps of causal chain
+- descriptions - refers to a static situation in terms of its physical features
+    - reader sequentially adds to their understanding when reading
+    - context and background knowledge important for understanding descriptions sometimes
+- exposition - describes logically related events to inform or persuade (job-related reading, news media)
+    - read the information about more important schema slots at a slower rate than information about less important schema slots
+- theme extraction - can be from topic sentence, sometimes reader needs to figure it out from prose
+    - if later sentences contradict topic, then generalization is redone
+- integrative cues in texts - explicit cues how different clauses relate to one another (consequently)
+- making inferences - just like other knowledge but perhaps less confidence
+    - backwards - link most recently read text to some text that occurred earlier
+    - forward - lets us infer the future (less common)
+    - (can be important in expository writing)
+- mechanism schema - frame-with-slots is trying to explain the mechanism - biological or human or physical phenomena 
+- text level comprehension - as text is read, after certain imbibing certain amounts of text at a time, a reader tries to fit the text into schema 
+    - goes slower for text that is a potential slot match
+    - two loci for matching in eye fixation studies - first word that indicates a match, last word in sentence
+- READER - an AI that does the above processes to emulate humans
+    - reader like human is not perfect - imperfect integration into schema, comprehension, or forgetting exact wording at the time of comprehension
+
+hinsey
+- content vs form comprehension - content fits into the structure of the narrative (form)
+- semantic content comprehension - understanding the context of say an algebra word problem
+- text grammar approach - emphasizes importance of formulat structures and and suggests "distributed decision processes"
+- schema approach - emphasizes semantic knowledge, and decisions are made early in comprehension process
+    - question whether processing strategy early in the reading matters - 2 strategies
+- single processing strategy - no choice at time of reading - i.e. just translate sentences into equations in reading and try to solve after
+- function tagging in algebra word problem solving
+    - object names - quantities that will be variables in algebraic equations
+    - substituitions - quantities that may be replaced by another string 
+    - operators - words that signal an operator should be use (times, plus, etc)
+- schemas in algebra word problem solving
+    - people can organize problems into types
+    - people can categorize problems without completely formulating them for solution
+    - people have information about how to solve each problem type
+    - people use category identification to formulate problems in the course of actually solving them
+- algebra word problem categorization - people can categorize algebra word problems with considerable agreement
+- categorize can happen two fold - general type then specific type
+- subjects have knowledge about problem types but may not know how to use that knowledge for solutions
+- standard problems - in which the semantics of the story match the problems structure in an expected way
+- tried isomorphic problems but with different algebraic structure - line by line interpret vs read-entire-problem approach
+    - line-by-line used more in non-standard problems (general procedure)
+    - subjects classified some of the problems while solving them
+    - for standard problems, they were solved using info retrieved from memory
+- even non-standard problems are solved using schemas - but when the format is drastically different from algebraic structure then there is a translation component into more paraphrased language
+- when given options of several schema, bias toward one schema may cause a misapplication of schemas
+- choice of schema early on can have an impact sometimes and other times not - they do schema classifications (even when instructions don't tell them to do it explicitly)
+
+schank
+- general knowledge - enables a person to understand and interpret another person's actions simply because the other person is a human being with certain standard needs who lives in a world which has certain standard methods of getting those needs fulfilled
+- specific knowledge - knowledge about a situation allows us to do less processing and wondering about frequently experienced events 
+    - need a high level way of organizing a causal change
+    - need a mechanism for recovering steps left out of the causal change
+- scripts - common causal chains of events (birthday party -> cake -> candles) that readers can rely on (also frame-and-slots but more specific)
+    - are from particular points of view (all pov's together for say a restaurant form the whole view of the restaurant)
+    - we can safely assume defaults in the slots (like ordering in the context of restaurant before getting food)
+- MAINCONS - main conceptualizations needed to understand the chain of events in the script
+- nature of deviations around script - i.e. cold burger means low tip makes sense
+- script application - how to apply headers to figure out what script to use in a particular context
+- concept - headers are concepts - knowledge we understand related to the script making sense - hunger and restaurant-related knowledge related to the restaurant script 
+- precondition header - triggers script based on a precondition or reason
+- instrumental header - makes stronger predictions, refers to several contexts where one can be instrumental for the other (subway is instrumental to get to the restaurant)
+- locale header - predictive notion of a location where some things happen 
+- internal conceptualization header - dependent on role sometimes a script will fit and sometimes it will not (delivery man at restaurant will have a different script than customer)
+- interferences - states or actions that prevent the normal continuation of a script 
+    - obstacles - an enabling condition is missing
+    - errors - action completed with an unexpected or inappropriate result
+    - paradigms: Obstacle, Prescription, Success; Error, Loop, Success
+    - emotional reactions, abandonment can also happen
+- abeyance - temporary disuse or suspension - abandoning the issue temporarily, shifting to another character
+- script interactions
+    - competing scripts - they compete for words / content (amusing when players think they are in different scripts)
+    - scripts being ended with a question - such as buying a watch after eating at a restaurant (did he buy the watch at the restaurant or go somewhere else)
+- personal scripts - thought process of the individual or about what an individual is doing in a story, what clinical psychologists are interested in
+    - conceal personal script with a different public script (duplicity)
+- instrumental scripts - cookbooks, how to turn on a car, etc - rigid scripts that need to be followed in a particular way for something to work (also to distinguish from situational - usually only one actor)
+- script based understanding - repetition of situations is assumed
+- script acquisition - associating getting a car with getting a key chain just because that script happend once is a process of early learning of scripts by children, we are processing many scripts - this is our training data 
+    
+ericsson
+- cognitive processes - as opposed to just studying stimulus and response, studying processes that process the stimulus and provide the response
+- verbal reports - verbalizations may not be accurate of what they are actually doing while thinking, translation, objectiving coding, theory backing of coding
+    - circular that response latencies and number of items correct are compared between control and experiment; but the default values were captured via experiments
+    - experimenter probes effect
+    - if they are just used for generating hypotheses, then not critiqued as much
+    - distinguishing between think-aloud (TA), retrospective responses, and classical introspective reports (all are condemned the same way)
+- hard-soft distinction - quantitative vs qualitative data
+- verbal vs non-verbal data
+- objective coding of think-aloud data 
+- steps in coding think-aloud data
+    - pre-processing - translating the verbal data to text split by sections
+    - translate language into that of the theory and literature
+        - method 1 - replace words, should even need to know the language to translate
+        - method 2 - meaning of response data analyzed
+    - think aloud data should be treated like any other "tracked" data
+        - instead of "believing what the user says" (no need to trust the user), simply use that data as a signal and look probabilistically at how that verbalization data could have been generated by them given the situation and questions asked
+    - don't use theory-ladened encodings, instead choose the most "neutral" theory that doesn't have extreme assumptions 
+- bootstrapping operation - need a model to analyze data and need data to develop a model (chicken and egg)
+- information processing model of cognitive processes - that a cognitive process can be viewed as a sequence of internal states successively transformed by a series of information processes
+    - (agnostic to behaviorism or cognitivism, though may be hard to reconcile with extreme behaviorism
+    - uses STM (short term memory, fast) and LTM (long term memory, slow to put in)
+    - any verbalization only gets info from STM and LTM
+- verbalization procedures as a function of time of verbalization - 
+    - while the information is attended (direct articulation: talk aloud, think aloud)
+    - while info is still in short term memory (direct articulation: concurrent probing)
+    - after completion of the task-directed processes (direct articulation: retrospective probing)
+    - vs procedures where the stored info is input to intermediate processes (like abstraction and inference) 
+- recognition - information received from the sensory organs resides for a short time in memories (ichonic [visual] and echoic [auditory] memories) associated with the different senses
+- long-term memory - enormous collection of interrelated nodes, info can be brought to STM from LTM for use
+- short-term memory - central processor controls non-automatic cognitive processes, attending too / heeding info from LTM and sensory stimuli
+- control of attention - the flow of attention is diverted from time to time by interruptions through higher control mechanism, intermediate stages in these interruptions, not being symbolized in STM, are not reportable
+- fixation - transfering of new informtion from STM to LTM, can take 8-10 seconds
+- automation - just like running compiled as opposed to interpreted code, doesn't use STM intermediates to execute a task becuase intermediate steps are carried out without being interpreted
+- verbal reporting - bringing info into attention, when necessary converting it into verbalizable code, vocalizing it (heeded symbolically then vocalized/expressed in the right way)
+- concurrent verbal reports - talk aloud or think aloud - successive states of heeded information are verbalized directly
+- retrospective report - durable (if partial memory trace) of activities performed, fetched from STM or LTM
+- level1 verbalization - information is reproduced in the form in which it was heeded (talk aloud)
+- level2 verbalizzation - think aloud [verbal encoding of states of heeded info]
+- level 3 verbalization - encoded verablization where a mediating process [requests for explanations, motions] occurs between attention to information and its delivery
+    - attention can sometimes even be drawn to topics that subjects would normally not pay attention to (a more extreme form)
+- problems with retrospective report
+    - retrieval can be fallible - other similar memory structures may be retrieved
+    - confusing specific memory of an episode with memories of associated episodes before or after it
+    - why question - different emphasis can result in different answers - they may point to different reasons 
+- directed or specialized probing - topic specificity probes, too little information reported, the less they are prompted or probed the stronger the evidence is
+    - asking about specific instances of thought is better (rather than have subjects do synthesis and provide generalized descriptions of their own thought processes)
+- critical incident technique - subjects are asked about specific incidents where specific things could have occurred
+- interpretive probing - where subjects are speculate and theorize about their processes (rather than leaving that to the experimenters)
+- Verplank and Oskamp experiment - verbalized rules are dissociated from the behavior they are supposed to control (you could incentivize either)
+- Nisbett and Wilson - problems with retrospective verbal reports 
+    - many verbal reports could be generated without accessing memory of corresponding cognitive processes
+    - several aspects made relevant thoughts less accessible 
+    - tendency to generate verbal reports without access to memories will be stronger the less readily available the memory is
+    - argue that concurrent or immediate retrospective reports with better questions could do better
+- verbal report is the most sensitive index for basic perceptual processes like discrimation (of one thing from another)
+- verdical content - verbally reported information making reference to "activities or perceptual events that are correlated with target behavior and therefore with feedback presentation - subjects can report strategies they use for acheiving control of visceral functions
+- thought sampling (STM) - attempt is made to get data on subjects' thoughts while they are performing their daily activities (tone generator)
+- event recording (STM) - subjects are asked to record all instances of a certain type of thought (content rather than frequency)
+- thought listening (STM) - write down all thoughts that occurred during an interval 
+- process of retrieval (LTM) - directly stored or generated / produced 
+    - can often get inaccurate data if ask question in a way where subject doesn't feel required to give a precise accurate response (age vs date of birth); definitions can play a role
+    - even more innacurate if they are processing or estimating rather than recalling directly
+- overreporting - subject reporting too many instances of a given type of event for a given time period; investigators overcome this by requesting recall of instances before and after the critical time period
+- fixed response (multiple choice) effects - can prime the user, but other studies show no difference between open and fixed
+- techniques for better survey responses - told to think carefully, probed in sensitive areas, explicit agreement to answer accurately and completely
+- hypothetical situations - reaction to ideas in general without specific instantiation 
+    - associated information accessed is a big factor in the response
+    - selective cueing and priming can affect (sensitive words)
+    - previous questions affect current ones
+    - hard questions turn users off
+- common-sense notion - that people are aware and rational and therefore able to answer questions about the cognitive structures responsible for their overt behavior
+- ability tests - correct answers are graded, cognitive structures are inferred indirectly
+- methods of data collection - levels, frequency, reactions to stimuli, how and why for motives behind behavior
+- indirect assessment - more effective than direct (i.e. ability tests), higher probability that cognitive structures are evoked, in the moment in real situations while the thinking is happening
+- memory vs inference - remembered behaviors can be hard to gauge accurately since it requires a lot of time to look up in the LTM and then assess frequency; cannot assume that specific responses were caused by general goals or hypotheses (as some steps may not have been taken due to caching and intermediate states didn't enter consciousness) - hence subject cannot answer why by simple memory retrieval; when subjects are asked about general behavior they have to look at data in LTM and average it to make inferences (rationalization); behavior will only be consistent with predictions of ones own behavior if the subject is able to understand what the real situation entails
+- introspection - going through one's own mental thought processes, deemed pseudoscience
+- structuralism - gather facts about consciousness (the content of mind), and in the process to uncover its structure; Titchener let subjects only describe their experienced conscious content leaving the inferential process (causation, dependence, development) to the experimenter
+    - experiencing sensory phenomenon followed by process of making sense of them
+    - description of what was experienced needs to be very clear
+    - simple reaction time
+    - c-reaction - subject only responds to a certain type of reaction given a stimulus
+    - b-reaction - subject has to pick which button based on stimulus
+    - introspective reports + latencies 
+    - sensory components are elementary units of sensation 
+    - criticisms: Wuerzburg and Gestalt psychologists said consciousness cannot be reduced to analytic introspection; rejected "subtraction" mechanism for measuring duration of cognitive processes
+- analytic introspections - takes 10 minutes to recount and make clear 10 seconds of thought; tough to break concentration for probing
+    - tachistoscopic - presentation of visual stimuli to remind
+    - subjects are not naive to hypotheses, uncontrolled use of questions, etc can cause introspective reports to be not scientifically valuable
+- psychophysics - observer is instructed in advance when to attend and what to attend to; the stimulus is simple and presented over an extended interval of time; judgments, generally being comparative, are reports of highly encoded stimuli that say nothing about the raw sensory components; 
+    - critique of latencies - no way to ensure that the motor response is not initiated earlier and in parallel with the perceptual process
+Watson's attack on introspection - against analytic introspection and results of classic introspections - use of language in the same way, common reference (golf player example)
+    - emphasize talk aloud (TA) in overt performace rather than internal meditation
+- describing throughts vs expressing them - "I thought of this then this then this"?
+- verbal report critiques - incomplete, experimenter probe affects result, inconsistent with observable behavior, not generalizable
+    - subject thinking aloud is still in space of the problem (as opposed to the introspector)
+- justifying think aloud - by having the subjects verbalize their thoughts at the time they
+emerged , the difficulties and sources of error associated with keeping thoughts in memory or retrieving them from memory could be eliminated
+    - giving verbalizations can affect the thought process critique
+    - incompleteness of info in STM critique
+    - irrelevance recounting parallel but not germane thought process critique
+
+ginsburg
+- "how do you know questions" - interpret the student on the spot and ask a question (things that look bigger are bigger, isolating the misunderstanding with Jimmy and the hats)
+- iq testing doesn't get into the granularity of the the thought processes and hence does not fully reflect knowledge (in interview part control by test taker part control by interviewer; but in iq test full control by test creator who is not there)
+- Freud - concerned with dreams and slips of the tongue - dreamwork - superego turning the latent dream (decapitating a sibling) into an acceptable dream (sibling losing cap)
+    - understanding the particular case
+    - deal in depth with individuals
+    - rich corpus of data to make inferences
+    - Piaget sought biological explanation of knowledge
+- clinical interview - Piaget's Freud-esque technique of listening with a third ear to uncover latent information about the subject's knowledge (abandon multiple choice)
+    - constructivist
+    - general and personal
+    - assesses learning potential
+- pure observation - just having the child work with the problem, but children seldom articulate their thoughts, questions and probes are needed
+- natural mental inclination - how the child sees the world and the child's spontaneous thoughts, and their constructivist way (now constructivism almost = cognitive psychology) of creating an understanding of the world
+- intervention - a question to check the thought process of the child (particularly where it differs from the adult)
+- on-the-fly experiment on thought process - the experimenter must create the follow-up intervention on the fly based on what the child has said to understand deeper contradictions with "adult" theories and internal inconsistencies 
+    - avoidance of "how you got the answer" questions because young children are not capable of extensive introspection
+    - instead has probes that do comparison and get at latent information
+- mental context - child motivation, understanding of terms
+- zone of proximal development - adult assistance to get the right answer (hints, etc) and involves a measure of how much this affects the child and helps them develop a better understanding of a phenomena
+- countersuggestion - technique in the clinical interview where the opposite is said in order to have child justify their original answer
+- constructivism - humans construct their knowledge rather than imbibe it
+    - child has logical structures (states) for knowledge which change through production rules
+    - fluidity - between having the concept and not depending on language
+- stream of consciousness - mind is like a river, ever changing
+- personal context - affect involved in knowledge and change in knowledge by children
+    - even though Piaget was only interested in the epistemological aspect, his methods uncovered affect and motivational blockers to achieving knowledge
+- fairness - standardized tests are impartial but clinical interviews are sensitive to the individual
+- clinical interview aspects
+    - like a conversation
+    - both parties come in with expectations and assumptions
+    - goals - interviewers and childs
+    - acts - do the acts of the interviewer encourage exploring, etc
+    - relationship - between the 2
+- paralingual cues - tone, shruges, etc have more meaning than their attempts to introspect
+- interpretive stance - what do behaviors say about underlying knowledge
+- clinical interview traits
+    - fun, no purpose, rapport with the child
+    - norms - let them experience success start with an easy task
+    - monitoring, motivation, and flexibility - jump from 40s to 80s - flexible for a purpose
+    - neutrality - when the participant has a question just say keep going and be neutral, don't worry about right or wrong answer
+    - failure and reassurance - reassure them they did well even if they failed
+    - hypothesis testing - testing a hypothesis of whats difficult by asking questions around what you think is easy and what you think is difficult for the learner to understand and then seeing their responses
+    - pressure - asking and pushing forward even in hard situations for the participant
+    - rules of game and competence - clinical interview encourages the child to think (not like school where memorization is common)
+    - introspection and expression - ask them step by step questions that ask how they got at sub-results and carefully with purpose expressed
+    - construction and competence - they may want to solve a different problem from the one the experimenter wanted them to solve, instead of resisting as an experimenter you can let them sovle that problem and apply the principles of that to the problem you want them to solve
+    - exploration and openness - participant expresses their view of the world (i.e. math teachers try to trick you)
+    - child view of adult can have an impact (view of adult as teacher)
+    - (left off at not a cookbook)
+- state of mind - needs to understand child as autonomous constructor of knowledge
+    - respect the child's constructions
+    - onus on the interviewer to know the problem and the norms of what literature predicts children will say (keep it in mind)
+    - can start from mcq tests (use theoretically meaningful tasks) but cast a wide net (delve into thought of child)
+    - specific tasks (instances) are important, not general questions
+    - vary the tasks so they don't get bored
+    - mix open minded and focused questions
+    - rapport (even beforehand) with child overcoming child's beliefs that their views will be criticized
+    - explain purpose of interview
+    - put the child in the role of expert
+    - start with an easy task
+    - empathy warmth explanation honesty
+    - encourage them but don't tell them whether the answer is right or wrong, just say keep at it you're doing great
+    - constantly monitor child emotion, empathize if they feel bad or inadequate
+    - encourage verbalization
+    - treat each child appropriately 
+    - don't assume that a wrong answer is wrong or a right answer is right - go into the reasoning
+    - give them time
+    - help the child introspect, it's hard for them
+    - explore their thoughts even if it contradicts your hypotheses
+    - don't talk too much
+    - suspend tendency to teach and correct
+    - don't ask leading questions
+    - rephrase questions
+    - probe and offer countersuggestions (extreme examples)
+    - provide hints at appropriate level of scaffolding
+    - teach to demonstrate learning ability in certain cases
+
+vosniadou (just core points)
+- children have many different mental models, besides the spherical earth one, and many are internally consistent
+- Children and Adults Construct an Intuitive Understanding of the World
+- Naive Theories versus Fragmented Knowledge - diSessa believes that naive physics is just a soup of fragmented theories
+- The Process of Knowledge Acquisition - weak restructuring is assimilating different fragments of knowledge into a hierarchy - radical restructuring is using basic theories to develop new theories
+    - existing studies do not make explicit the exact criteria used to identify children's ideas, nor do they provide info regarding systematicity, consistency, robustness of children's notions about the shape of the earth
+    - hypotheses: (1) children think world is flat (2) children fail to understand it's a sphere in space (3) they have trouble reconciling the adult view of the world as a sphere (layer cake)
+- factual info - info that children have been exposed to but not about their ability to use these facts
+- generative info - info that children generate by using facts (earth having an end)
+- results of spherical earth tests on children - most thought the earth is a sphere, but many thought the moon and sun were just on top of the spherical earth (and we live on top), many thought the earth is flat inside it or didn't have an explanation for a house on flatland, many thought that there is an edge to the world (that you can fall off)
+- dual earth view - that there is the flat earth we are on, and there is a round earth up in the sky
+- other earth models - sphere, flattened sphere, hollow sphere, disc earth, rectangular earth
+    - author makes claims how these models are not due to bias in questions but are genuine categories
+- unnacceptable deviation - a response inconsistent with the model they chose
+- acceptable deviation - while in principle inconsistent with the mental model in question, can nevertheless be explained on the grounds that it represents a semantic error or is ambiguous with respect to its exact meaning.
+- consistency - 49 of 60 participants had internally consisten models and were put in one of the above categories
+    - It appears that children try to synthesize the information they receive from adults and from their everyday experience into coherent mental models which they use in a consistent fashion.
+- mixed models - could not be classified into the above categories, chose one category but then after description deviated from it
+- presuppositions - beliefs that make it hard to accept a certain model (i.e. the ground is flat because the ground looks flat which is a false assumption; that unsupported things fall as opposed to gravity)
+- synthetic models - models formed by joining what's claimed as correct by the adult world with their presuppositions
+
+johnson-laird
+- reasoning - a simulation of the world fleshed out with our knowledge, not a formal rearrangement of the logical skeletons of sentences, probabilistic - perception of the world, a set of assertions, a memory, mental models
+    - reasoning, the heart of human rationality may be the ability to grasp that an inference is no good because a counterexample refutes it
+- counterexamples - an instance of rationality
+- logical form - the first or second order logic form of thoughts - may not be what people actually use
+- Watson's selection task - performance is affected by content, humans reason probalistically, not deductively, maximizing their information gain
+- mental models - main assumptions (1) distinct set of possibilities (2) structure of a representation corresponds to the structure of what it represents (3) mental models of descriptions represent what is true at the expense of what is false
+    - we aim for minimal change in our mental models - parsimonious learning
+- iconic relations - visualizations of relations that help us easily learn relations that we didn't think of before (A is left of B which is left of C = > A B C)
+    - deductions that evoke visuals require more slower mental processing
+- frailties of human reasoning - humans have limited storage capacity for their intuitive reasoning so they don't do recursive reasoning or holding in mind alternative models 
+- number of mental models - the more models that we need to take into account to make an inference, the harder the inference should be—we should take longer and make more errors
+- effects of content - we think probabilistically and not deductively so content affects our logic - frenchmen being gourmets vs italians
+- illusory inferences - mental models represent what is true and not what is false; the key to a correct solution is to overcome the principle of truth and to envisage fully explicit models
+- strengths of human reasoning - people are deductive also, not entirely probabilistic, they enjoy sudoku
+- strategies in reasoning - developing initial models, adding info to the model
+- abduction - using inductive reasoning to go beyond deductive reasoning making deviations from formal rules, i.e. a poodle's jaw can bite through wire so since a german shepherd is stronger than a poodle it can probably bite through wire
+
+shephard
+- mental rotations of 3D objects - The time required to recognize that two perspective drawings portray objects of the same three-dimensional shape is found to be:
+    - (i) a linearly increasing function 0/ the angular difference in the portrayed orientations of the two objects
+    - (ii) no shorter for differences corresponding simply to a rigid rotation of one of the two-dimensional drawings in its own picture plane than for differences corresponding to .a rotation of the three-dimensional object in depth
+    - used isomers to prevent subjects from getting away with not doing mental rotation
+    - took more time to recognize different pairs than the same ones
+    - subjects tried a rotation and then determined congruence or non-congruence
+
+barsalou
+- modality-specific memory - dealing with memory and learning, to refer to how learner performance depends on the presentation mode of studied items (visual vs verbal representations)
+- amodal representations of states - actually represent knowledge; but researchers report that re-enactments of states in modality-specific systems underlie conceptual processing
+    - (behavioral experiments) perceptual and motor variables consistently produce effects in conceptual tasks
+    - (brain imaging) conceptual processing consistently activates modality-specific brain areas
+    - so modality-specific re-enactments could produce basic conceptual functions, such as the type–token distinction, categorical inference, productivity, propositions and abstract concepts.
+- concept - 
+    - Platonists propose that concepts exist independently of minds, whereas naturalists argue that concepts are causal relations between the world and the mind
+    - here we care about conceptual processing, i.e. simulator, namely, a skill for producing context-specific representations of a category, i.e. car simulator, road simulator, frog simulator, etc
+- amodal vs perceptual symbol systems
+    - amodal: first perceive then extract features to detect which amodal framework/knowledge to use, then in amodal framework activate part of semantic network and understand frame
+    - perceptual: entire process deals with sensory information from physical stimulus to neurons firing to produce a sensory representation to conjunctive (joined/adjacent) neurons detecting features to recalling earlier sensory representation
+- human conceptual system - for each type of knowledge there is a debate whether the knowledge is modal or not; 
+    - increasingly it's found that perceptual variables affect conceptual processing (lawn vs rolled up lawn are visualized for triggering "roots")
+    - perceptual stimulation in language comprehension - words affect the visualization / simulation in the head
+- bodily states - seeing key invokes the grasping hand - body effected by concept comprehension
+- neuroscience - lesions in modality-specific areas disrupt conceptual knowledge stored there
+    - categories with mostly visual properties activate visual areas; social categories activate emotional areas
+    - view advocated by authors: conjunctive neurons have modality speicific states 
+- amodal theories - have turing machine power - but unlikely that they explain modality specific behavior
+    - not falsifiable
+- simulation from neurons is key, selective attention can be important
+    - conjuctive areas are developed hierarchichally
+- simulator - a distributed collection of modality-specific memories captured across a category’s instances
+- categorical simulation - categorizing as car or plane, etc
+- productivity - embedding simulations in one another to understand more complex phenomena
+- perceptual symbol systems (PSS) - shows that modality-specific representations can implement a fully functional conceptual system 
+    - implements classic propositions by binding simulators to perceived category instances, thereby creating type–token relationships (classes / instances) (a care you see is an _instance_ of a car)
+- situated simulations - a simulation given a certain context 
+
+lakoff and nunez
+- the cognitive unconscious - most of our mental processing happens unconsciously and too quickly for us to notice
+- unconscious memory - experiences we don't recall have a tangible affect on our behavior
+- unconscious mathematical knowledge for informal everyday math - bounded regions, recursion, arithmetic and rotation, approaching a boundary and motion for calculus
+    - even advanced mathematics are not independent of mental processes
+- spatial relations and schema - in, out, above, on top of etc and the schemas build on each other for more complex phenomena
+    - image schema - both perceptual and conceptual (can have built-in spatial logic)
+    - mathematics makes use of our adaptive capacities which are not meant only for math
+    - structures in the visual system can be used for conceptual purposes, even hy the congenitally blind
+- motor control and mathematical ideas - readiness, starting up, the main process, possible interruption and resumption, iteration or continuing, purpose, completion, final state 
+    - aspect schema - the same neural structure used in control of complex motor schemas can also be used to reason about events and actions
+        - neural control systems for bodily motions have the same characteristics needed for rational inference in the domain of aspect (the structure of the events)
+            - input to muscles => bodily movement
+            - input to muscles inhibited => rational inference 
+        - the stage characterizing the completion of a process is further along relative to the process than any stage within the process itself
+        - there is no point in a process further along than the completion stage of that process
+- perfective aspect - conceptualizes the event as a whole, not looking at the internal structure of the process, some verbs are naturally imperfective (breathe / live)
+    - completion can be internal or external (jump vs fly/land)
+- the source-path-goal schema - trajector, source, goal, route, trajectory, direction, final location
+- schema composition - into vs out of schemas are combos of subschema in, to, out, from
+- metaphor - is a central process in everyday thought
+    - categories are containers with conjunctions and disjunctions
+    - love and business => partnership metaphor 
+    - conceptual metaphor is the basis of set theory
+    - abstraction in math is the conceptual layering of abstraction on top of abstraction
+- conceptual blend - conceptual combination of two distinct cognitive structures with fixed correspondences between them
+    - circle and cartesian plane - origin and radius as the fixed correspondences
+    - number line metaphorical blend - numbers are points on a line
+- mathematical meaning - is not about the symbols or interpreting symbols; it's about everyday embodied cognition of the symbols 
+
+thick authenticity - new media and authentic learning
+- authentic learning (1) learning that is personally meaningful for the learner (2) learning that relates to the real-world outside of school (3) learning that provides an opportunity to think outside of school (4) learning where the means of assessment affect the learning process
+- thick view of authenticity - that different kinds of authenticity presented in the literature are interdependent and mutually supporting (computer can easily afford such learning)
+- alignment - between some aspect of pedagogy and some other aspect of the educational experience (materials and activities, assessment, topics of interest, methods of inquiry)
+- references to authenticity - activities aligned with outside world, assessment aligned with instruction, topics aligned with what learners want to know, methods of inquiry aligned with discipline (real questions to professionals as well)
+- authentic assessment - the things that students do when learning should be the same as the things people do when taking an assessment (learn something even while taking the test) (can you have a math "portfolio" and have it really test the math learned?)
+- experts spend a great deal of time analyzing a problem qualitatively 
+- topics of interest - authentic LE should involve topics of interest and should let users build something they want to share and ask questions that come up that they are interested in solving
+- experts spend a great deal of time analyzing a problem qualitatively
+- authentic self - independent existence, self security, integrated and cohesive personality, independence within relationships, action in accord with one's principles and values, self-reflection
+- thick - in description - means enough detail to make meaningful interpretation possible, in authenticity - using all the definitions of authenticity together
+- aspects of authenticity - connectivity (with a wide community and experts, building an understanding and sharing), modeling (external models of complex systems that reflect internal mental models, complex systems through computer models, disciplinary approaches), representational pluralism (new media affords multiple ways of learning things and using the same tools as experts, ability to express understanding in multiple ways)
+- in digital age: should be able to access modern literary / art forms, should be able to access math problem solving representations and approaches not just learn addition/division/etc algos
+- challenge to new media: how students can receive feedback on new ways of expressing understanding
+
+glaser
+- THE PROBLEM OF PRODUCING AN EXPERT MAY BE TO A LARGE EXTENT THAT OF CREATING AND MAINTAINING THE MOTIVATION FOR THE LONG TRAINING THAT IS NECESSARY (coding and chunking feats attributed largely to experience)
+- practical skills - a huge benefit is the unused memory that experts have available due to automation
+- powerful ai's cannot solve problems that humans can so specialized structures are required
+    - can't hold entire chess board in STM (need symbols)
+- chunks - experimentally identifiable structures with a certain size 
+    - study of expertise - provides evidence of knowledge competence being important
+    - shift in ai from search power based to knowledge based 
+- experts excel mainly in their own domains
+- experts perceive large meaningful patterns in their domain
+- experts are fast and make almost no errors - because of freed up memory for thought-intensive aspects of the task - can search faster because of cached routes near / like the path to be found
+- experts have superior short term memory (because of automation they have more free space) and more long term memory (because they can do long-term recall easier)
+- experts interpret problems at a deeper more principled level than novices who represent it at a superficial level - expert categories are semantically distinguished and novice categories are syntactically distinguished
+- experts spend a great deal of time analyzing a problem qualitatively - they build a mental model of the problem before applying say equations
+- experts have strong self-monitoring skills - know when they are failing, understand or try to understand the reason behind their failure, have self-knowledge of how much knowledge they have, knowing which problems are difficult, 
+    - there was a sign that experts could even generalize their skills which was important
+    - experts have efficient encoding of presented info using existing semantic knowledge and patterns
+    - retrieval cues (associated with time of internal storage)
+    - experts in mental math could hold large amounts of info either in STM or accessible quickly from LTM in ways non-experts couldn't
+- programming: programming plans and programming rules (schema and chunks); model of software design process, from abstract to more concrete, "balanced development" - each all modules in each level described are described with the same level of details as other models at that level (unresolved is specifiying mechanisms that help relate the domain-independent design model with the domain specific knowledge in particular applications)
+    - like the chess experiment performance of experts was reduced to that of novices on unplan-like material
+- ill-defined problems - novices get hung up on unimportant details while experts pick out the details to focus on 
+    - experts take a "conceptual approach", looking at history of previous solutions and why they didn't work to justify their new solution
+    - in medical as well, experts can filter for the most salient information for diagnosis
+    - NEOMYCIN - a system that models a doctor diagnosing; acquires knowledge from human experts interactively; model acquisition, data flow, evaluation, automation can help with search and diagnosis; querying metacognition of the experts is essential to refine the problem space  
+
+wineburg (abraham lincoln)
+- a professional historian without a particular set of knowledge was able avoid over-simplifying and achieve an understanding equal to that of a colleague who was a subject-matter expert
+- literary writing and historical interpretation - solutions to problems are typically not “discovered” but imposed (Resknick)
+    - science - we don't care about solutions that don't work
+    - math - solving problems
+    - history - inventing conundrums that don't go away
+- adaptive expertise - the ability to apply, adapt, or stretch knowledge so that it addresses new situations
+- situation model - setting of the content
+- representation of subtext - a model based on implicit textual information that reconstructed authors’ assumptions, beliefs, biases, convictions, commitments, hopes, and fears-in sum, the totality of their world views (author's bias)
+- event model - incorporated new details and winnowed out less reliable ones; not only integrated information from the textual evidence historians reviewed, but drew on the cognitive resources they brought to the task - their knowledge, skills, beliefs, personal experiences
+- sourcing - the act of considering the source of the document when determining its evidentiary value
+- corroboration - in which the details of one document are compared with those of another before accepting such details as fact 
+- contextualization - the act of creating a spatial and temporal context for a historical event
+- codes - self-referential by historian, text - meaning of text, comments - spacio-temporal, socio-rhetorical, biographic, historiographic, linguistic, analogical, intertextual linkages, specification of ignorance
+- historian with more background knowledge had greater biographic, historiographic, linguistic, analogical text but the historian with less background knowledge had more socio-rhetorical and spacio-temporal text
+- h1 - lincoln says god is not on either side - detachment - you can't use god to justify slavery - but let's not judge or we'll be judged
+- h2 - not sure if physical means brain / mind too, natural rights, contradictions found, accounted for the knowledge he would need to make a judgement, 4.2 questions per document; slavery and god - search - lincoln belief black equality is guaranteed by laws of god - looks for the link
+- H2 finally achieves - Lincoln justifies the equality of the races, not by appealing to God, but by appealing to the natural rights in the Declaration of Independence, a reinterpretation so sweeping that Wills (1992) called it the “Second American Revolution.”
+- H2 avoided oversimplifying
+- presentism - act of viewing the past through the lens of the present, is not some bad habit we’ve fallen into, but is instead our psychological condition at rest
+    - H2s distrust in his own sense-making abilities may be thought of as a domain-specific form of metacognition, an imperative to read history differently from how we read ordinary expository or narrative text.
+    - he does not understand a world into which a whole segment of the population was born into slavery
+- H2 expertise - his way of asking questions, of reserving judgment, of monitoring affective responses and revisiting earlier assessments, his ability to stick with confusion long enough to let an interpretation emerge. (Document-based question)
+    - how to sort through contradictory information and come to reasoned conclusions
+
+chase and simon
+- asked chess players of varying strengths to reproduce moves (in plain view or deGroot's short term recall task)
+- deGroot's short term recall task - where the player reproduces a chess position after viewing it for 5 sec.
+- chunks - structures seen on the board and stored in short-term memory
+- perception task - we ask chess players to reconstruct a chess position while it remains in plain view, and we use subjects’ successive glances at the board as an index of chunking.
+- memory task - which is very similar to de Groot’s task, we ask chess players to reconstruct a position from memory after brief exposure to it, and we use the timing or clustering in recall to segment the output into chunks.
+- master could only perform better in realistic chess positions, not random ones (could recall more and larger chunks)
+    - M would be able to recognize all these chunks provided that he has stored in long-term memory a modest vocabulary of variant patterns for each of a half dozen types of configurations.
+    - M has a short term memory of average capacity but a long term memory that can recognize specific chunks
+    - M can encode position into larger perceptual chunks, each consisting of a familiar subconfiguration of pieces
+    - there may be a hirearchical configuration of chunks (abstract relationships) that makes recall easier
+- within-glance intervals - intervals between pieces placed without looking back at the original position
+- between-glance intervals - intervals between two pieces separated by a glance back at the original position.
+    - between-glance intervals took longer than within-glance (but experts needed less time with between-glance than others)
+- when the label of a chunk is held in short-term memory, successive elements of the chunk can be recovered from long-term memory in some hundreds of milliseconds 
+- A sequence of pieces placed on the board by the subject in the memory task with intervals of less than 2 set between successive pieces corresponds to a single chunk. [hypothesis was confirmed] 
+- The times required for the underlying processes are essentially the same in the memory task as in the perception task. [hypothesis was confirmed]
+- tables present the amount of time to and probability of glance at two given and related pieces in terms of their relationship or lack thereof
+- between-glance frequencies are much closer to chance level than within-glance frequencies (chunk processing)
+- finding - chunks are about the same size in both tasks, but that chess skill is reflected in the speed with which chunks are perceived in the perception task and the size of the chunks in the memory task.
+
+lee martin and dan schwartz 
+- adaptive expertise - taking the time to create external representations to solve problems
+    - verbalize the principles underlying their skills
+    - judge conventional and non-conventional versions of the skills as appropriate
+    - modify or invent skills according to local constraints
+- startup time - people take an initial period to explore or adapt their ideas, practices, and/or environment. They are slower to start, but they can make up the lost time if they make an appropriate adaptation
+- catalyst to adaptive mindset - when experimentation is encouraged
+- fault-driven adaptation - when a behavior becomes too burdensome or flawed, and it is hard to get by with usual routines, people will try something new
+- prospective adaptation - extensive planning or engaging the adaptive pattern before they confront any specific snags
+- deliberate practice - stepping back from action to develop a deeper understanding that can set the stage for greater future success
+- tool plane - people may spend startup time developing a tool to help do the task
+- meta-representational competence - the full range of capabilities that students (and others) have concerning the construction and use of external representations
+- experiment on grad students and undergrads - test of whether undergrads do prospective adaptation after experiencing faults in earlier experiences (fault-driven adaptation) and whether grad students do prospective adaptation from get go [hypothesis confirmed]
+    - adaptive representations require more time
+    - requiring undergraduates to teach to a confederate increased use of representations, but this didn't "stick" and result in prospective adaptation
+    - fault driven scenario: UGs were not allowed to look at the reference cases when making a diagnosis (and they created visualizes to get around this so they knew how to make visual representations)
+    - neither the verbal protocol nor the exit interview contained any evidence that graduate students estimated
+the functional utility of making a representation
+
+chi 
+- sorting tasks and protocols reveal that experts and novices begin their problem representations with specifiobly different problem categories, and completion of the representations depends on the knowledge associated with the categories
+    - novices use surface level features to categorize
+    - little overlap in categories produced by experts and novices
+    - experts are able to "see" the underlying similarities in great number of problems, whereas the novices "see" a variety of problems that they consider to be dissimilar because the surface features are different
+- Our prediction was that novices would group together problems that have the same surface structure, regardless of the deep structure, and experts would group together those problems with similar deep structures, regardless of the surface structure. Individuals of intermediate competence should exhibit some characteristics of each. [hypothesis confirmed]
+- experts and novices categorize problems differently
+- these categories elicit a knowledge structure (a schema) that functions in the representation of a problem
+- at least for experts this schema includes potential solution methods
+- Features identified by the experts can be characterized as descriptions of the states and conditions of the physical situation described by the problem.
+    - experts agreed on solution methods which corresponded to physics laws / equations (tacit knowledge, can do inferences)
+    - experts use interplay between their knowledge base and problem text to extract features of the problem and use those features to trigger schema for general laws / solution methods
+    - problem representation is organized by schemata for object categories, for example, "spring problems" or "falling bodies" and then they try to use the equations (the feature extraction process is missing)
+
+diSessa Physics
+- weak organization - people begin with a poorly organized intuitive sense of physics
+    - causal syntax - causal schema in terms of agents, patients (?), and interventions 
+    - a tendency to focus on static characterizations of dynamic events 
+    - rich phenomenology of balancing equilibrium
+- sense of mechanism: gives us the capability to (1) assess the likelihood of various events based on generalizations about what does and does not happen (2) make predictions and "postdictions"; that is, one can trace entailments forward and backward in time, explaining what will happen on the basis of what is the case, and explaining what must have been the case in order for the present circumstances to exist (3) give causal descriptions and explanations; one can look at a physical event and assign credit or blame for what happens to certain aspects of the circumstances and to general facts about the world
+- for experts phenomenology must uniformly be reducibale via an analysis of circumstances to a few core theoretical ideas
+    - so expertise can be built by reorganizing and prioritizing existing phenomenology (reorganized intuitive knowledge)
+- intuitive physics is difficult to change despite years of instruction (quantitative focus on instruction)
+- mccloskey says intuitive physics theory needs to be replaced, but diSessa says both intuitive and scientific physics are based on phenomenological primitives and only reordering not replacement is needed
+- p-prim (phenomenological primitive) structure:
+    - elements - describe the size and character of the knowledge structures involved
+    - cognitive mechanism - provide an image of the operation of the intuitive knowledge system; reasoning using intuitive knowledge (p-prims act by being "recognized" / activated)
+        - activation followed a cuing priority - based on strength of connection with antecedent structures
+        - reliability priority - a high value means that the p-prim will unlikely be turned off
+        - structured priorities - pair of cuing priority and reliability priority
+    - development - how elements and system properties change (instructional difficulties)
+        - priority of p-prims change as people develop expertise
+        - distributed encoding - integration of intuitive knowledge structures into functional encoding of expertise
+    - systematicity - level and kind of relatedness of the elements in the system; integrated subsystems or independent subsystems
+        - mutual use of p-prims in structures, a sequence etc. can cause all to be raised or lowered
+        - common attributes - a common base vocab or dependency of p-prims on other p-prims
+        - top-down coherence - first learning "slogans" or particular statements or ideas and then letting those trigger many underlying ideas, reactions, etc.
+        - mutual plausibility - integration - important elements reinforce each other and generate new elements via specific episodes of reasoning (i.e. presumptions)
+        - phenomenological syllogisms - class of mutual possibilities - x => y ; y => z ; means x => z but this may only be true given certain presumptions
+    - completeness - a set of lower priority p-prims linked to some contexts explain real world phenomenon that other p-prims dont work for
+    - abstraction - a set of related p-prims may comprise some intuitive abstraction / theory (particularly ones in dense parts of the intuitive knowledge network) (intuitive physics)
+- the basic force and motion cluster - p-prims around kinesthetic sense of agency, constraints, balance and equilibrium 
+- ohm's p-prim - an agent that is the locus of an impetus that acts against a resistance to produce a result (modulation of effort and why that effort is needed)
+    - interpreted differently by experts and novices in the case of why a vacuum cleaner produces a higher pitch when covered up
+        - expert it's not sucking air, less work to do, motor moves faster
+        - novice it has more work to do, higher pitch because has to work harder (greater effort)
+            - notions of patient and effort (this agency notion fades as they develop expertise)
+- resistance p-prim - spontaneous resistence resides in the patient of action (the mass on the spring), not some external actor
+    - there is an active-passive distinction (constrain vs restrain)
+    - blocking or bouncing are not active
+    - notion of successful resistance (sturdy wall vs ball on string tugged) - people shouldn't get confused between these two when recalling the event
+- force as a mover p-prim - pushing an object at rest causes the object to move in the direction of the force
+    - deflection - pushes / forces adding p-prim (force as a deflector vs mover)
+- force as a spinner p-prim - we think that tugging a string wrapped around a yoyo to the right will cause the yoyo to spin the other direction and move to the left but the force as a mover actually applies here; difficult for us to decide between p-prims
+- continuous push p-prim - a continuous force that keeps an object in motion
+    - both force an a mover and continuous push are connected with ohm's p-prim with high cuing priority
+    - involve agency, intention, effort, patient
+    - mental representation of the intention and the result may be made in the same geometric vocab
+    - mover (a single blast - then object is actively moving) vs continuous push (object passively moved along)
+    - violence cues strength - ship is strong so it can float not sink
+- dying away / warming up p-prim - earthly motion always dies away; car warms up to get to speed
+- constraint phenomena p-prims
+    - bouncing and blocking are p-prims - they are fundamental to our naive thoughts
+    - clamping (holding fixed)
+    - undermining the perceived primitivity of clamping, guiding, blocking takes time
+    - springiness (that all matter is springy, pushes back against deformation, normal force) developed over physics course despite being explicitly taught
+- dynamic balance p-prim - where two forces oppose each other and cancel out (balancing by conspiracy)
+- abstract balance p-prim - matches off amounts in a pair (requires the monkey climbing up to mean the weight goes up to to match and be symmetric) (more like algebraic equality)
+- dynamic imbalance p-prim - one force is greater than the other, it "gets its way at first" "overcoming" the other's influence (a mass on a spring vertically oriented, the spring force kx can overcome gravity and launch the mass in the air - this thought process is aligned with the notion of "overcoming")
+- abstract imbalance p-prim - (note: elems with high cuing priority [mutual use] to abstract balancing are very different from ones connected to dynamic balancing) 
+    - generalized springiness - displacement from equilibrium proportional to the perturbation
+    - heavier side of pulley keeps dropping till lighter side weight hits pully (dynamic rather than abstract imbalance / springiness - which would have predicted they would balance off proprotionally 
+    - abstract balancing can be temporarily violated without an external perturbing force
+- equilibration p-prim - the tendency of things to go back into equilibrium; movement of particles to spread out evenly, etc
+- development - replacement of slew of p-prims with laws that organize the p-prims that are still used
+    - clusters of elements interact in particular lines of conceptual development
+    - p-prims play important roles in development
+    - chronology of developmental patterns
+- mccloskey - impetus theory (the force makes the object move but that dies off); circular impetus theory (objects continue to move in a circle); objects dropped from a moving object fall straight down (no projectile motion)
+    - claim by disessa is that impetus is not a systematic and coherent theory - abstraction salient in a small class of situations like toss (where the impetus of the ball dies off and gravity brings it back down); impetus theory is the confluence of certain p-prims and will only be observed occassionally; 
+    - principle of invariance - p-prims deal with these better from bell sound dying to dynamic balance (that applies in different situations from the ball toss, that is better at adjusting to different naive theories by learners than the single impetus theory)
+        - the theory depends on the problem statement - how they described the particular circular motion (but why don't carried objects get the impetus) [fine structure of changing minds and intricate decisions can't be captured by impetus theory]
+    - coverage - what about the large %'s of people who didn't converge - they are displaying different p-prims
+    - continuity - how do people jump straight to impetus theory, how does mcclosky's theory immediately get replaced by real physics; there's a discontinuity; p-prims on the other hand are continuous - a process of reweighting them and reorganizing them to achieve real physics understanding
+    - principle of dynamic - impetus theory holders are flexible and influences by problem data and nudges, like being reminded of centripetal force changes their answer; changing the p-prims is the key for physics understanding
+- spawned knowledge-in-pieces research
+- p-prims might be a schema but they are primitive and the smallest element
+- built a microworld for her - really emphasized only force gravity
+- different can activate different p-prims
+- ken forbus builds aii models; but building p-primis model is tough because there is a lot of other stuff to model; scott friedman - intermediate nodes in NN correspondence with p-prim? (but what ken/scott have done is traditional AI)
+- difficulty of 6x5 (easy) vs 6x9 (hard) video
+    - 5's are easier than 9's (sucking up mental effort)
+    - geometric (arrays) [suppose to be harder than divide to groups]
+    - sharing (given # groups) vs. measurement (given size of group) division (partitive vs. quotative) [partitive supposed to be harder than quotative]
+    - accidents of process
+    - list of 5's vs 9,18,27,etc. 
+
+
+mccloskey (short notes tue if time, expand wed)
+- impetus theory (1) the act of setting an object in motion imparts to the object an internal force or "impetus" that serves to maintain the motion (the force is then with the object) (2) impetus dies off so object comes to a stop (*) circular motion retained after projectlie released (**) projectile - first the object procedes straight; then turns down
+    - tapering off circular OR just circular
+    - plane projectile - straight down or diagonal line
+    - cliff projectile many said curved right angle down
+    - sherin's revision (1) motino requires a causal explanation (2) forces can be stored up in objects ...
+- modern students are not aristotelean - aristotle said the air is pushing the projectile and there is always some force in contact with the projectile - students believe the medieval theory that the force is imparted on to the object
+- modern impetus theory evidence
+    - [ball tossed up and comes down] ball provided force, cancel out at top, on way down gravity becomes stronger [2 ppl]
+    - [moving ball over cliff] belief that impetus can act in one direction only; first the ball goes straight, then goes down after the horizontal force dissipates (same with ball cut at bottom of swinging pendulum, claim that curvilinear momentum continues for a bit)
+- individual differences
+    - existence of curvilinear impetus
+    - how impetus is dissipated - naturally or by some external friction
+    - when gravity takes effect (immediately vs after another say horizontal impetus dies)
+    - impetus is imparted to the object stays with the object and makes it keep moving VS an object that's merely carried does not acquire the impetus (airplane projectile)
+
+siegler
+- microgenetic method - (a) observations of individual children throughout the period of the change, (b) a high density of observations relative to the rate of change within that period, and (c) intensive trial-by-trial analyses intended to infer the processes that gave
+    - density has to be high relative to rate of change of phenomena
+    - can increase likelihood of change by hypothesizing relevant tasks or materials that would lead to the change
+    - or can present a novel task and see how children change when doing it in a single session 
+    - intensive analyses can pinpoint whether it was change in which strategies used, more efficient processing, or new strategies
+- Lawler - found that children finding 2 competing theories that are able to solve the same problem led to insights and discoveries
+- min strategy for addition - starting at the bigger number
+    - Groen and Parkman found that time to solve problems was proportional to smaller number (chronometric)
+- Siegler - K-3 math problem experiment - consistent with chronometric; also used add strategy - counting on fingers representations of both addends to achieve the sum; were confident they'd hit conditions where children would construct min strategy
+    - large variability in types of strategies used
+    - variability in correctness's association with strategies used
+    - most made the discovery
+- impasse driven learning - when it's difficult to solve the problem without the strategy
+    - but discovery happened in all of the problems not just impasse ones (24+1), distributed fairly evenly 
+- children often change without impasses, grammars change, methods of determining larger vs smaller (by counting or by logic that one set is a superset/bigger)
+    - change (like mutation) as the norm
+    - children did not use illegitimate strategies however
+    - production rule would have probably involved representing both addends 
+    - a strategy many students lacked that was associated with not using min strategy: number can be represented quantitatively by simply restating the number and using it to represent the quantity
+        - this would be encoded as production rules
+    - goal sketch production rules may influence strategies used / not used, knowledge of procedures and conceptual knowledge, components of existing strategies may be a useful source of components for new strategies, microgenetic methods can help
+- performance just before the discoveries were unusually long and strange
+- count-from-first does not mediate discovery of min
+- sum-cut strategy - 1,2,3,4-5,6 rather than sum strategy or min strategy (4,5,6) - is transitional and essential (in all 7 children in experiment)
+- still min only used occasionally at first
+    - impasses play a role in generalization of the strategy
+-  probablilistic mutations in ideas
+- learning events - speed, certain p-prims activated; 
+
+- learning - changes that occur over minutes to hours (enduring change to knowledge in LTM) (forgetting counts as learning?)
+- conceptual change - fundamental conceptual shifts that happen over weeks to months
+- novice to expert - changes that occur over years and thousands of hours of focused study and practice
+- development - maturational changes that occur during childhood years
+- learning can happen from working on problems, from listening to someone, from random probabilistic processes
+
+posner
+- learning is: the result of the interaction between what the student is taught and his current ideas or concepts (model of conceptual change is not articulated)
+    -  a rational activity (impacted by affect but rational)
+- central commitments - strategies, categories, and solution criteria for science research
+- change in central commitment - scientific revolution or central commitments require a change
+- assimilation - students use existing concepts to deal with new phenomena
+- accomodation - student must replace or reorganize his central concepts
+- conceptual ecology - concepts that students know already that affect their change
+    - concepts generate class of problems - accepted approaches solve the class of problems
+    - (1) there must be dissatisfaction with existing conceptions (2) a new concept must be intelligible (3) a new conception must appear initially plausible (i.e. in context with the current body of literature) (4) a new concept should suggest the plausibility of a fruitful research program (future research)
+- Anomalies: The character of the specific failures of a given idea are an important part of the ecology which selects its successor.
+- Analogies and metaphors: These can serve to suggest new ideas and to make them intelligible.
+- Explanatory idea: Most fields have subject matter specific views concerning what counts as a successful explanation in the field.
+- General views about the character of knowledge: Some standards for successful knowledge such as elegance, economy, parsimony. And not being ad hoc seem subject matter neutral.
+- metaphysical beliefs about the universe - that it is organized and follows certain rules
+- metaphysical concepts of science - beliefs about the nature of the universe 
+- knowledge of other fields and competing concepts play a role
+- representations must be visually represented in the person's mind
+- Einstein's 2 special relativity laws were intelligible but perhaps difficult to reconcile with Newtonian mechanics. 
+- special relativity subject to all the above concerns: metaphysical beliefs, consistency with state of knowledge, consistent with past experience, visualize imagery of it, conception can solve problems
+    - must be empirically correct
+    - naturalness, simplicity, inner perfection
+    - potential energy being relative (gravitational potential energy relative to center of earth)
+    - perceptual change is what the students say (rod hasn't changed size, clocks don't actually change) - metaphysical commitments
+    - Newtonizing - an attempt to assimilate new info into this framework
+- fruitfulness of theory - engineering, science, astronomy, etc contributions
+- 2 features of conceptual analogies that were shown to guide the change process from one conception to another. 1) anomalies, and 2) fundamental assumptions about science and about knowledge.
+- awareness of fundamental assumptions, demand for consistency, awareness of epistemological and historical foundations of mdoern science, sense of fruitfulness
+- assimilation focus, retrospective anomolies, observational theories, analogies
+- a focus on student errors, representations, common conceptual problems, etc.
+    - teacher as devil's advocate adversary, challenger
+    - demand for consistency, exactness, agreement with existing theory
+
+Carey
+- restructuring - articulation of changes in domain, concepts, and explanatory structure are required as they depend on each other (Aristotle -> Galileo)
+    - weaker - new relations among concepts are represented, and new schemata come into being which allow the solution of new problems and which change the solutions to old problems
+    - stronger - includes these kinds of change, and also includes changes at the level of individual concepts at the core of time successive systems (the question is, is this stronger sense required for science education?)
+    - whether fundamental belief systems has to be changed matters in research: Acquiring expertise in chess does not require abandoning a highly deveioped altemative theory of chess, while the shift from Aristotelian to Galilean mechanics' does
+- restructuring in child learners vs restructuring in novice-expert conversion
+    - novice-expert restructuring involves new interrelations ("no acceleration without a force instead of no motion without a force")
+    - novice-expert restructuring involves new interconnections that create new abstract concepts and schemata
+    - novice vs expert - they share many terms but the meaning / relationships of the terms / concepts are different for novices and experts (strong view of restructuring)
+- intuitive theory constraints - our intuitive theories have certain natural constratins (like we don't think a rabbit means an animal chewing carrots)
+- restructuring when children learn - weaker and even stronger restructurations do occur, child domains split (psychology) from parent domains (biology)
+- inductive projections - patterns of inductive projection provide evidence about the theories held by the person making the inferences (i.e. we think that human dolls don't have omenta like humans do, but dolphins have them)
+    - 4 year olds did not project (i.e. think that A has a spleen because B has a spleen) spleens more to other animals than to inanimate objects
+- patterns of attribution of biological properties - restructuring occurs over the years to understand species relationships
+    - 4 year olds still project from animals to non-animals and from mammals to non-mammals in a way that is incorrect according to science (eat, breathe, have babies, etc.)
+    - so restructuring occurs
+- projection from two animals - for 6 year olds projection to any animal from dog alone is the same as from dog and bee; where as adults think that dog and bee together give a signal that all animals have a spleen whereas just dog / just bee doesn't do it
+- clinical interviews - young children do not know the biological function of bodily processes and internal body parts.
+chi, but 10 year olds have achieved the naive adult understanding
+- species as natural kinds - people know the difference betweeen natural phenomena and man-made or conceptual phenomena (box, thing, etc)
+- childhood animism - thinking that inanimate things are alive when a child
+- domain - selection of phenomena that describe a group (eating, drinking, sleeping for humans)
+- explanatory framework - the why and conventions behind certain behaviors and descriptors of a group
+- changes in individual concepts - male means more than just clothing but also has to do with body's role in reproduction; eating helps people stay alive - it's not just for fun
+- coalescence of animal and plant - involves reconceptualizing both
+- Piaget Stage Theory - ? - point at end?
+- conceptual change: change in domain of phenomena (intuitive bio and psych are together but they split off), change in individual concepts, change in nature of explanations
+    -  coalescences (plants and animals) and differentiations (living things vs not living) 
+- conceptual change hard and conditions: conditions for change difficult - have to learn lots of the specifics of how systems work - accumulation of raw material; then only conceptual change can emerge
+    - need to understand all individual concepts to be able to apply a framework accurately (i.e. framework of newtonian mechanics)
+    - novices go through weak (knowl change) or strong restructuring (conceptual change) to get to expert
+
+diSessa
+- conceptual change framework - nodes can be added, deleted, relinked, etc (i.e. no force without motion replaced without change in speed)
+- concept of a concept - force / mammal are important, but it's important to justify what counts
+    - childhood animism - young children think many inanimate objects are alive
+    - mentalese - expressions of tacit knowledge which is not evident in language but is key for how learning works
+- manifest variety - from dogs to numbers the variety is very diverse, need for more than one theoretical construct
+- theoretical imprecision - as per cog-sci tradition, need more precision about processes and form of mental representations associated with concepts (variety of processes involved in change)
+- probabilistic theory of concept - how similar a given instance (to be classified) is to the gold-standard prototype
+    - knowing the concept VS categorizing are two different things
+- ICM - idealized cognitive models - i.e. bachelors are unmarried males in a society where they are of marriagable age (very specific definitions, visuals that exclude non-ICM compliant instances like priests)
+- relational theory of concepts - addition, deletion, interrelation of nodes
+- patterns of activation in a neural net - concepts may be intermediate node visuals / feature maps in an NN
+- actional / situated perspective - concepts are a pattern of people, things in the world, and neuronal activations
+- tenets of accountability: standards of what counts as a concept, an account of different varieties of concepts, theoretical accounts of a variety of processes involved in concept use and conceptual change (ancillary knowledge may have an impact on the change and how fast/easily it happens), *match real-time data of students with theoretical accounts of processes*
+- coordination classes (one type of concept) - the competence to see a particular class of info in the world; important to see how learner's models are different from experts; systematically connected ways of getting information from the world; multiple observations or aspects may need to be coordinated to determine the necessary information (integration); across instances and situations, the knowledge that accomplishes readout of information must reliably determine the same info 
+- causal net - class of info / set of inferences not obvious but that can be determined by info given (i.e. force causes acceleration)
+- quantitities as coordination classes - p-prims are abstractions of common experiences (push harder and go farther/faster); people can see physically relevant things; invariance is an issue too much noise and too much is seen as relevant; p-prims coordinate -  beginning causal net is the naive sense of mechanisms; qualitative interpretations of equations are important
+- invariance - that the rules apply in all situations (J violates this by basically saying newton's 3rd law doesn't apply in many situations)
+    - lack of invariance is a source of issues because they don't try to make sure the laws always apply
+- levels of change - learning a category - learning concepts like what a number is
+- changing psychological entities - causal net - certain nodes get stronger or weaker
+- difficulty of conceptual change - different situations activate different nodes in the causal net
+    - causal net is a collection of tacit knowledge
+- conditions for conceptual change - readout strategies (process for seeing and read out its values) and the causal net should co-evolve - first read out strategy then causal net (different situations activiate different p-prims)
+    - haven't been integrated into a coordination class consistent with Newtonian physics (or maybe different p-prims are connected to multiple "naive" corrdination classes)
+
+Chi
+- emergent - some processes that emerge as you assemble info (such as the apparent flow in diffusion of dye in water)
+    - micro level molecular level - flow from one to another, aggregate phenomena is emergent
+    - explanation does not do justice to this - randomness of both actions and interactions not emphasized; all molecules move not dye molecules; molecules are a population that must be treated as random variables  
+- direct - can be understood by just being told (such as the flow of blood in human circulation)
+    - both processes direct and emergent have global patterns and components
+    - both have multiple levels
+    - both have interaction
+    - both have invisible patterns
+    - both processes involve numerous simple and complicated descriptors about both the pattern and the components
+    - both local and global behaviors / patterns can be influenced
+pattern and/or the components.
+- differences
+    - neither the aggregate components themselves (the dye and clear liquids) nor their constituents (dye and water molecules) are directly (nor indirectly) causing the global flow pattern to occur
+- direct processes are - distinct (each stage of process different), constrained (only interacts with other prespecified components), sequential, dependent (stages are dependen on each other), terminating
+    - component pattern relations are - direct (effect on the overall pattern), corresponding (direction of process corresponds to overall pattern), differntial status (some portions are more essential for certain outcomes than other portions), global goal or intentional
+- emergent processes are - uniform (same behavior happening everywhere throughout the process), unconstrained / random, simultaneous, independent, continuous
+    - component pattern relations are - nondirect, disjoint (i.e. the relationship between the cars and the jam is disjoint in that the jam can move backward while the cars move forward), equivalent status, local goal or unintentional
+- domain-specific vs concept-specific vs theory-specific definitions
+    - but underlying similarities should be there from the real world to theory taught in school
+    - commonalities can be construed as an ontological kind / category
+    - misconceptions within an ontological category should be easier to resolve than misconceptions across categories
+- understanding the causal mechanism between the components and the pattern, is distinct from understanding the cause-effect relations between some factors and the
+- causes of failure - Alternative Conceptions, Incorrectly explaining the cause of the flow pattern at the constituent
+component level (emergent processes are misconceived of as a kind of direct processes),  
+- levels and kinds of change - conceptions within a category vs across ontological categories (direct vs emergent)
+- change - ontologies are phychological entities - through common processes (deletion, addition, etc)
+- that particular misassignment of emergent vs direct is a problem for a lot of science learning
+
+- tacit knowledge - knowledge that we aren't aware that we have 
+    - (can be obvious in retrospect - restaurant script, p-prims, sense for answers in NYT)
+    - won't be explicitly stated in talk aloud, questions for making it easier to infer tacit knowledge (as opposed to questions to bring out the tacit knowledge - we should probe it though)
+    - beliefs are included in knowledge, knowledge is the stuff in your head that stays in LTM
+        - still useful to understand on-the-fly constructed mental models
+    - if we probe are we making it un-tacit - still always getting sliver surface level but most knowledge is not conscious
+
+scribner
+- practice framework of cognition - congitive skills take shape in the course of practice (often socially organize); as they hit problems when they practice, they try to solve them and build cognitive skills (these skills are specific to the practice literary skills vs religious quran vs science research)
+    - no need to adopt the Western Philosophical thinking thata separates the practical and theoretical thought
+- functional approach - practice of basic mental processes and structures which becomes specialized and diversified through experience; there's a sense of a goal or subgoal that the processes are trying to achieve; notion to analyze the practical, seemingly mundane processes themselves (i.e. the milk factory worker's calculations)
+- unit of analyzes - the task, the goal, the practical processes
+    - might be the same unit as Hutchins but focused on the task
+    - but can't see least effort practices or variability without this emphasis on practice 
+    - also thinking is adapted to particular tasks asked to perform (reading/writing doesn't help you accross the board)
+- Vai tailors famous work - Liberia - 3 kinds of literacy - Western style schooling OR Vai script OR quran - but what they learned were just very adapted to what they learned (no general purpose cogntive skills) 
+- critique of cognitive perspective - can't divorce the cognition from the practices  
+    - mental representations - all the people doing these specific cultural practiced tasks have the same underlying specific representations (that diverge from literal solutions because of influences like the law of mental work); change with increasing experience
+- alternative explanation pattern - students use a literal academic format but people who are in a practice use represenations specific to their practice
+    - people (doing a specific representations) have better representations (in practice) [for accomplishing that task]
+    - processes to apply (develop and improve with practice); processes shaped by the practice; why a certain pattern of behavior comes into existence
+    - still third one applies
+- literacy without schooling (Vai Script, Quranic) - does not lead to the same cognitive skills as literacy with schooling (depends on the activities associated with the written language)
+- practice approach to cognition - the practice itself needs to be studied, thinking in context
+- law of mental work - mental work will be expended to save physical work
+- literal strategy vs non literal (behavioral) strategy - literal means solution is specified exactly in terms of numbers, behavioral means that evening out was done (removing 4 from 14, 1 from 11 to make proper containers)
+- optimial strategy - least physical effort strategies - optimal moves of items from one container to another
+- students use more literal strategies, milk business workers use more practical, non-literal strategies to save on economies of effort
+- practical thinking becomes adaptive when it serves economies of effort
+
+lave
+- setting - where the activity happens repeatably; individual's version of the store (pet food area when you don't have a pet is part of the arena but not the setting) 
+- arena - durable place within which an activity takes place; behavior settings have durable and public properties, not negotiable directly by the individual
+- context - arena + setting (can be same across visits) + but when there is a change, then that sets up a context as well; + highlights difference between arena and setting; 
+- dialectically constituted problem solving - dialectic: the existence or action of opposing social forces, concepts, etc. (metaphysical); your cognition is influenced by the forces of the environment (cheese choices and prices influence your cognition)
+    - Hegelian - thesis, antithesis, synthesis
+- gap-closing arithmetic - arithmetic serves as a tool to repair problems that come up when grocery shopping (analyzing the activity in context and the context itself)
+    - person goes in expecting to do something; environment provides some dialectic feedback and problems that the person solves (in order to get what they wanted in the first place)
+- lave theory - it's not just solving some individual problem (i.e. people have said problem solving = cognition), but interaction with an environment that generates problems (dialectic interactions) that you solve towards some end goal; 
+    - negotiating even what the problem is (time to spend on it, etc)
+    - lave is a scribner student (Vai, Liberia)
+- layout of supermarket is conducive to certain types of arithmetic 
+
+hutchins
+- unit of analysis - entity to be analyzed as a cognitive being; it is the whole (people, materials, i.e. plane cards etc) system here not the individual
+    - bruce idea: perhaps factoring system into persons and environment is not possible; more extreme distributed cognition: even the representation stretches across people and objects; but in hutchins, an individual representation is in a person, or display but the function is spread across entities
+- function system (distributed cognition) - a full system with human actors and physical inanimate representations that together can do cognitive work and have institutional memory (pilots, speed bugs, etc)
+    - internal to individual or external to people representtion
+- stance toward representations - observable and not observable representations (not observable: pilots memories, observable: speed bugs); The properties of these representations inside the system and the processes that operate on representations are assumed to cause or explain the observed performance of the cognitive system as a whole. (it's only the representations and their interactions, not the environment, is the cognitive system; but defining what is the system and what is the environment is key)
+- Thagard thinks that people have represetnations, processes that they apply to them, and the processes applied to the represetnations gennerate the behavior; for Hutchins just replace people with functional system
+- cognitive framework of distributed socio-technical systems - cognitive properties of individuals can be very different from each other and from the system at whole which uses external objects to aid communication, information, and cognition
+    - organizations as cognitive systems
+    - material media using which representations are embodied
+- memory in cogntitive system - a combination of recognition, recall, pattern matching, cross modality consistency checking, construction, and reconstruction that is conducted in interaction with a rich set of representational structures, many of which permit, but do not demand, the reconstruction of some internal representation that we would normally call the “memory” for the speed
+    - individual memories are just a part of the system
+- redundant system - redundant recording, redundant memory, redundant checking - what we care about is interaction of people with each other and environment
+
+Nunez
+- grounding - grounding for situatedness comes from the nature of shared human bodily experience and action, realized through
+basic embodied cognitive processes and conceptual systems; for us to understand something we must reduce it to something more basic (underlying basic experiences - image schemas of lakoff - universal mental language)
+    - nunez et al. claim - for traditional cogsci - our grounding is in an objective world (bruce says this is false - cog sci doesn't handle the reduction) [objective reality is the external physical world; predefined concepts - objectivism]
+- embodiment - image schemata (only few, underlying) different from p-prims (lot of them, not most basic)
+- embodied cognition - learning and cognition are situated and context dependent; and cognition itself is embodied in that it depends on the experience of being in the human body [free moving hand vs epsilon delta definition of continuity]
+- congitivism is based on objectiviism - that there is some underlying truth independent of human cognition
+- image schemata - are perceptual-conceptual primitives that allow the organization of experiences involving spatial relations ("on" is based on support, above, and in contact with schema)
+- conceptual metaphor - ‘mappings’ that preserve the inferential structure of a source domain as it is projected onto a target domain (i.e. spent time at work (metaphor of money for time) ) 
+
+(knowledge representation - this notion that we're problem solving all our lives)
+
 To Do: 
 - scan rale-proj papers for CS Education terms
 - scan explicit-metacog and role-of-self-reg papers for terms
@@ -338,3 +1285,4 @@ And literature on program comprehension:
 - The Role of Self-Regulation in Programming Problem Solving Process and Success - Loksa and Ko
 - Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education - Phillip Guo
 - Automatic Data Visualization for Novice Pascal Programmers Brad Myers
+- Wikipedia
