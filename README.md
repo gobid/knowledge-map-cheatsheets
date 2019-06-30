@@ -1,4 +1,4 @@
-# Knowledge Map Cheat Sheets
+# Knowledge Map Cheat Sheets, by Learning Dollars Talent
 
 Goal: 
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
