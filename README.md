@@ -19,9 +19,9 @@ Method: To be used in conjunction with:
 - educational software found by searching "[subject name] software" or "[subject name] educational software" on google
 - educational games found by searching "[subject name] games" or "[subject name] educational games" on google
 
-While learning to use a mobile device, computer, tablet and mouse has been intuitive since the the advent of the graphical user interface, typing may be something people still have to 'learn with effort'. If needed you can learn typing for free online using https://www.google.com/search?q=learn+typing+online+free.
-
 with the objective of structuring learning around a standard syllabus.
+
+While learning to use a mobile device, computer, tablet and mouse has been intuitive since the the advent of the graphical user interface, typing may be something people still have to 'learn with effort'. If needed you can learn typing for free online using https://www.google.com/search?q=learn+typing+online+free.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
 
