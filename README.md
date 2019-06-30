@@ -3,8 +3,8 @@
 Goal: 
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
-What percent of all established knowledge do you know?
-Add yourself to this sheet http://bit.ly/2AqvNn4 to find out! 
+What percent of all established knowledge do you know? 
+Find out by joining Learning Dollars Talent. You will be able to mark the technical skills and academic topics you know.
 
 The sheet can also help you find collaborators for industry, startup, or research projects.
 
