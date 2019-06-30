@@ -16,6 +16,7 @@ Method: To be used in conjunction with:
 - articles from http://google.com or http://scholar.google.com
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
 - exercises found by searching "[subject name] problems / exercises" on google
+- educational software found by searching "[subject name] software" or "[subject name] educational software" on google
 - educational games found by searching "[subject name] games" or "[subject name] educational games" on google
 
 with the objective of structuring learning around a standard syllabus.
