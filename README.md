@@ -5,7 +5,7 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 
 What percent of all established knowledge do you know? Find out by joining http://learningdollarstalent.com. You will be able to mark the technical skills and academic topics you know.
 
-The sheet can also help you find collaborators for industry, startup, or research projects.
+LD Talent can also help you find engineering opportunities or engineers for hire.
 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
