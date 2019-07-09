@@ -1,12 +1,11 @@
-# Knowledge Map Cheat Sheets
+# Knowledge Map Cheat Sheets, by Learning Dollars Talent
 
 Goal: 
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
-What percent of all established knowledge do you know?
-Add yourself to this sheet http://bit.ly/2AqvNn4 to find out! 
+What percent of all established knowledge do you know? Find out by joining http://learningdollarstalent.com. You will be able to mark the technical skills and academic topics you know.
 
-The sheet can also help you find collaborators for industry, startup, or research projects.
+LD Talent can also help you find engineering opportunities or engineers for hire.
 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
@@ -17,8 +16,12 @@ Method: To be used in conjunction with:
 - articles from http://google.com or http://scholar.google.com
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
 - exercises found by searching "[subject name] problems / exercises" on google
+- educational software found by searching "[subject name] software" or "[subject name] educational software" on google
+- educational games found by searching "[subject name] games" or "[subject name] educational games" on google
 
 with the objective of structuring learning around a standard syllabus.
+
+While learning to use a mobile device, computer, tablet and mouse has been intuitive since the the advent of the graphical user interface, typing may be something people still have to 'learn with effort'. If needed you can learn typing for free online using https://www.google.com/search?q=learn+typing+online+free.
 
 This project IS NOT solving the problem of learning content -- online courses, videos, and q&a sites listed above solve that problem. 
 
