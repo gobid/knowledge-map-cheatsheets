@@ -56,6 +56,11 @@ To contribute:
 4. make a pull request from your fork to this project 
 
 Citations:
+- 0209_Causal_Inference.pdf: https://oapen.org/download?type=document&docid=1004045
+- 0212_Large_Deviations_Theory.pdf http://staff.utia.cas.cz/swart/LDP10.pdf
+- 0214_Bayesian_Statistics.pdf https://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf
+- 
+
 - https://www.princetonreview.com/college/ap-subjects
 - http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
 - https://en.wikipedia.org/wiki/List_of_academic_fields
