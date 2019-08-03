@@ -57,9 +57,12 @@ To contribute:
 
 Citations:
 - 0209_Causal_Inference.pdf: https://oapen.org/download?type=document&docid=1004045
-- 0212_Large_Deviations_Theory.pdf http://staff.utia.cas.cz/swart/LDP10.pdf
-- 0214_Bayesian_Statistics.pdf https://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf
-- 
+- 0212_Large_Deviations_Theory.pdf: http://staff.utia.cas.cz/swart/LDP10.pdf
+- 0214_Bayesian_Statistics.pdf: https://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf
+- 0218_Graphical_Models.pdf: https://stat.ethz.ch/~maathuis/papers/Handbook.pdf
+- 0219_Compessed_Sensing.pdf: http://webee.technion.ac.il/Sites/People/YoninaEldar/files/ddek.pdf
+- 0220_Survival_Analysis.pdf: http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_analysis_195.721.pdf
+- left off at spectral analysis
 
 - https://www.princetonreview.com/college/ap-subjects
 - http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
