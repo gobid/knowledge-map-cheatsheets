@@ -78,3 +78,4 @@ Auxiliary Citations:
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 - https://course-notes.org/biology/outlines
 
+- useful learning tools (i.e. https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e type of stuff) - have a section for this
