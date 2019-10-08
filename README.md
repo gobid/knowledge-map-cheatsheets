@@ -71,6 +71,7 @@ Citations:
 - dummies.com
 - cliffnotes.com
 - LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
+- also can add https://www.tableau.com/learn/training
 
 Auxiliary Citations:
 - dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
