@@ -56,27 +56,5 @@ To contribute:
 4. make a pull request from your fork to this project 
 
 Citations:
-- 0209_Causal_Inference.pdf: https://oapen.org/download?type=document&docid=1004045
-- 0212_Large_Deviations_Theory.pdf: http://staff.utia.cas.cz/swart/LDP10.pdf
-- 0214_Bayesian_Statistics.pdf: https://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf
-- 0218_Graphical_Models.pdf: https://stat.ethz.ch/~maathuis/papers/Handbook.pdf
-- 0219_Compessed_Sensing.pdf: http://webee.technion.ac.il/Sites/People/YoninaEldar/files/ddek.pdf
-- 0220_Survival_Analysis.pdf: http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_analysis_195.721.pdf
-- left off at spectral analysis
-
-- https://www.princetonreview.com/college/ap-subjects
-- http://exploredegrees.stanford.edu/ (bachelors and masters course lists, ~10 courses each, ~120 courses/quarters total, should take ~30 years -- lifelong learning)
-- https://en.wikipedia.org/wiki/List_of_academic_fields
-- cheatsheets that are not custom-made (noted) are the first good result on google or google images for "(comprehensive) [subject] cheatsheet"
-- dummies.com
-- cliffnotes.com
-- LD Moodle: http://ec2-52-40-128-122.us-west-2.compute.amazonaws.com/
-- also can add https://www.tableau.com/learn/training
-
-Auxiliary Citations:
-- dvusd.org and http://staff.orecity.k12.or.us/steven.becker/Final%20Notes%20for%20AB%20and%20BC.pdf for the 0009_Calculus cheatsheets
-- 0011_Differential_Equations also should have cited http://www.math.cmu.edu/~gheorghi/fin_form.pdf
-- https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
-- https://course-notes.org/biology/outlines
-
+- all the sources are included in the pdfs themselves
 - useful learning tools (i.e. https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e type of stuff) - have a section for this
