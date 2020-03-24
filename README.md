@@ -18,6 +18,8 @@ Method: To be used in conjunction with:
 - exercises found by searching "[subject name] problems / exercises" on google
 - educational software found by searching "[subject name] software" or "[subject name] educational software" on google
 - educational games found by searching "[subject name] games" or "[subject name] educational games" on google
+- educational apps found by searching "[subject name] app" on google play or app store
+- books on https://www.gutenberg.org/, https://projecteuclid.org/, https://openlibrary.org/, https://manybooks.net/, https://www.audible.com/, http://www.openculture.com/freeaudiobooks or just by google searching "nearest library" and finding books or audiobooks from there
 
 with the objective of structuring learning around a standard syllabus.
 
