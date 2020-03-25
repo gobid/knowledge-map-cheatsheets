@@ -21,7 +21,9 @@ I recommend choosing what you learn to optimize the latter 2 reasons to learn:
 - Finally spend the rest of your career applying your knowledge to your life contribution, doing an auxiliary life long learning course here or there, as needed for your contribution. At this stage, making the contribution is probably more of a priority than learning, since you're likely more than half way through your life. What a shame it would be to learn Calculus and then die before ever applying it! We live in a strange society where every 80 years we flush down everything a person has learned, and the next generation has to re-learn it. 
 - Your contribution may be research, a company, art, or a political contribution.
 
-LD Talent can also help you find opportunities (given your skillset / what you know) or talent for hire (given your needs / what you don't know).
+LD Talent can also help you find: 
+- opportunities (given your skillset / what you know) 
+- talent for hire (given your needs / what you don't know)
 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
