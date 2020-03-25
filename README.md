@@ -5,7 +5,7 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 
 What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com and marking your skills. You will be able to mark the technical skills and academic topics you know. 
 
-This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all, and out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take 20 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take across disciplines in order to make your contribution to society. 
+This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all. And out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take 20 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take in order to make your contribution to society. 
 
 My belief is that you can learn things to appreciate and experience the universe, but also to make a contribution to society. I recommend choosing what you learn to optimize both:
 (1) first graduate from high school, undergrad, or grad school (18-35) 
