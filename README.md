@@ -3,9 +3,17 @@
 Goal: 
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation.
 
-What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com. You will be able to mark the technical skills and academic topics you know.
+What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com and marking your skills. You will be able to mark the technical skills and academic topics you know. 
 
-LD Talent can also help you find engineering opportunities or engineers for hire.
+This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all, and out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take ~200 years of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take across disciplines in order to make your contribution to society. 
+
+My belief is that you can learn things to appreciate and experience the universe, but also to make a contribution to society. I recommend choosing what you learn to optimize both:
+(1) first graduate from high school, undergrad, or grad school (18-35) 
+(2) create a selection of 40 courses that you can complete over 10 years (35-45)
+(3) try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills)
+(4) spend the rest of your life applying what you have learned to your life contribution whether it's research, a company, art, or a political contribution.
+
+LD Talent can also help you find opportunities (given your skillset / what you know) or talent for hire (given your needs / what you don't know).
 
 Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
