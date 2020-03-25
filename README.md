@@ -16,8 +16,8 @@ My belief is that people learn things for 4 reasons:
 I recommend choosing what you learn to optimize the latter 2 reasons to learn:
 - First, graduate from high school, undergrad, or grad school (18-35).
 - Next, create a selection of 40 lifelong learning courses that you can complete over 10 years (35-45).
-- Try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills) 
-- You can browse other profiles on http://www.learningdollarstalent.com to find out how unique your T-shaped skillset is
+- Try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills).
+- You can browse other profiles on http://www.learningdollarstalent.com to find out how unique your T-shaped skillset is.
 - Finally spend the rest of your career applying your knowledge to your life contribution, doing an auxiliary life long learning course here or there, as needed for your contribution. At this stage, making the contribution is probably more of a priority than learning, since you're likely more than half way through your life. What a shame it would be to learn Calculus and then die before ever applying it! We live in a strange society where every 80 years we flush down everything a person has learned, and the next generations has to re-learn it. 
 - Your contribution may be research, a company, art, or a political contribution.
 
