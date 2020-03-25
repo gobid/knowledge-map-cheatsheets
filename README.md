@@ -7,11 +7,13 @@ What percent of all established knowledge do you know? Find out by joining http:
 
 This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all. And out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take 20 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take in order to make your contribution to society. 
 
-My belief is that you can learn things for 2 reasons: 
-- to appreciate and experience the universe
-- to make a contribution to society 
+My belief is that people learn things for 4 reasons: 
+- because they have to (i.e. many school children)
+- for money (i.e. some college students and professional development scholars)
+- to appreciate and experience the universe (i.e. book worms and hobbyists)
+- to make a contribution to society (i.e. professors, entrepreneurs, leaders, and artists)
 
-I recommend choosing what you learn to optimize both:
+I recommend choosing what you learn to optimize the latter 2 reasons to learn:
 - First, graduate from high school, undergrad, or grad school (18-35).
 - Next, create a selection of 40 lifelong learning courses that you can complete over 10 years (35-45).
 - Try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills) 
