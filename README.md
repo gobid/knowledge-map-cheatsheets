@@ -14,7 +14,7 @@ My belief is that you can learn things for 2 reasons:
 I recommend choosing what you learn to optimize both:
 - first, graduate from high school, undergrad, or grad school (18-35) 
 - next, create a selection of 40 lifelong learning courses that you can complete over 10 years (35-45)
-- then, try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills)
+- try to include a little bit of representation from every field and a lot of depth in one field (i.e. https://en.wikipedia.org/wiki/T-shaped_skills)
 - finally spend the rest of your life applying what you have learned to your life contribution whether it's research, a company, art, or a political contribution.
 
 LD Talent can also help you find opportunities (given your skillset / what you know) or talent for hire (given your needs / what you don't know).
