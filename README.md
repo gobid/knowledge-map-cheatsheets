@@ -33,6 +33,7 @@ Method: To be used in conjunction with:
 - lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, http://bighistoryproject.com
 - articles from http://google.com or http://scholar.google.com
 - research articles found by googling labs at accreddited universities (https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/) and looking at their papers on their websites
+- a note: if you don't have access to a lab, we suggest watching youtube videos of relevant scientific experiments you're curious about
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
 - exercises found by searching "[subject name] problems / exercises" on google
 - educational software found by searching "[subject name] software" or "[subject name] educational software" on google
