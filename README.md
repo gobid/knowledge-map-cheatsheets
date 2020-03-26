@@ -5,7 +5,7 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 
 What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com and marking your skills. You will be able to mark the technical skills and academic topics you know. 
 
-This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all. And out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take 20 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take in order to make your contribution to society. We hope you choose a nice "slice".
+This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all. And out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take perhaps 5 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take in order to make your contribution to society. We hope you choose a nice "slice".
 
 My belief is that people learn things for 4 reasons: 
 - because they have to (i.e. many school children)
