@@ -57,7 +57,7 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
 2. Statistics
 3. Computer Science
-4. Physics - EE, MechE, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+4. Physics - EE, MechE, Materials Science, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
 5. Chemistry - ChemE
 6. Biology - Medicine, BioE
 7. Psychology - Cognitive Science
