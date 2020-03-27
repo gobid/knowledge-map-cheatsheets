@@ -88,6 +88,10 @@ To learn them simply google "[skill name] tutorial", "learn [skill name]", "[ski
 
 You'll get a ton of text and video material to learn from. We recommend going for the official documentation whenever possible. Then mark that you know that skill on your LD profile. You can make one by pressing "be an engineer" on https://www.learningdollarstalent.com/.
 
+### Why is this all in English only?
+
+
+
 To critique: 
 Use the github comments.
 
