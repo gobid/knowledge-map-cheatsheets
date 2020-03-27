@@ -86,7 +86,7 @@ https://www.learningdollars.com/client/select_engineers/
 
 To learn them simply google "[skill name] tutorial", "learn [skill name]", "[skill name] free online course", or "[skill name] documentation". 
 
-You'll get a ton of text and video material to learn from. We recommend going for the official documentation whenever possible. Then mark that you know that skill on your learningdollars.com engineer profile.
+You'll get a ton of text and video material to learn from. We recommend going for the official documentation whenever possible. Then mark that you know that skill on your LD profile. You can make one by pressing "be an engineer" on https://www.learningdollarstalent.com/.
 
 To critique: 
 Use the github comments.
