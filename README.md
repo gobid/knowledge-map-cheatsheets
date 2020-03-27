@@ -1,6 +1,6 @@
 # Knowledge Map Cheat Sheets, by Learning Dollars Talent
 
-Goal: 
+### Goal
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. 
 
 What we mean by "established knowledge" is textbook and course knowledge, not research knowledge, research courses, or derivative knowledge. 
@@ -9,6 +9,7 @@ What we mean by "established knowledge" is textbook and course knowledge, not re
 - A final heuristic - this is the core knowledge of all society. Sure there's an infinite amount of derivative knowledge and skill. But, this is the core knowledge that marks expertise in any given field. 
 - Obviously, this is a continuously repository and you can submit a pull request if you think some knowledge should be added or edited.
 
+### What do you know? 
 What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com and marking your skills. You will be able to mark the technical skills and academic topics you know. 
 
 This has been incredibly humbling for all of us. Many of us, myself included, came out of high school thinking we know it all. And out of college realizing we know nothing. At a rate of 4 life long courses per year, it will take perhaps 5 lifetimes of studying to learn and apply everything. Hence you have to pick and choose what courses you want to take in order to make your contribution to society. We hope you choose a nice "slice".
@@ -31,7 +32,7 @@ LD Talent can also help you find:
 - opportunities (given your skillset / what you know) 
 - talent for hire (given your needs / what you don't know)
 
-Mission: 
+### Mission: 
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
 Method: To be used in conjunction with: 
@@ -59,6 +60,8 @@ This project SHOULD ALSO help with writing proofs or arguments by surfacing all 
 
 Finally, this project should stop you from feeling guilty about forgetting what you learned a few years ago by reminding you with ample context.
 
+### Subjects 
+
 Explore these subjects to grasp the fundamentals of all knowledge:
 
 1. Mathematics
@@ -73,6 +76,17 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify / saavn, youtube), Sports, Cooking
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
+
+### What about skills and tools? 
+
+Now this covers knowledge (i.e. Machine Learning, Algorithms, Statistical Mechanics, Genetics) but what about skills and tools (i.e. Tensorflow, Java, Matlab, Biopython).
+
+Well, to see all the interesting and in-demand skills and tools you can learn, we recommend visiting: 
+https://www.learningdollars.com/client/select_engineers/ 
+
+To learn them simply google "[skill name] tutorial", "learn [skill name]", "[skill name] free online course", or "[skill name] documentation". 
+
+You'll get a ton of text and video material to learn from. We recommend going for the official documentation whenever possible. Then mark that you know that skill on your learningdollars.com engineer profile.
 
 To critique: 
 Use the github comments.
