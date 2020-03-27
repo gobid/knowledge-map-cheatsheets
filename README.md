@@ -108,7 +108,7 @@ See:
 - https://www.theguardian.com/education/gallery/2015/jan/23/a-language-family-tree-in-pictures
 - https://www.google.com/search?q=language+tree
 
-So with that said we only focus on English and present all our materials in English (just like StackOverflow and StackExchange do for instance). Here are the learning resources we recommend: 
+So with that said we only focus on English and present all our materials in English (just like StackOverflow and StackExchange do for instance). If you are not fluent in English, here are the learning resources we recommend: 
 - https://www.duolingo.com/ (you can actually learn most major world languages with this)
 - https://www.khanacademy.org/mission/sat/
 - http://www.merriam-webster.com/word-games/vocabulary-quiz
