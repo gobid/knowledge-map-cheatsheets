@@ -38,7 +38,7 @@ Let's not get bogged down by information overload! Let's cut to the chase (in TO
 Method: To be used in conjunction with: 
 - moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com
 - lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, https://www.ixl.com/, http://bighistoryproject.com
-- articles from http://google.com or http://scholar.google.com
+- articles from http://google.com, http://scholar.google.com, https://www.researchgate.net/, http://academia.edu/
 - research articles found by googling labs at accreddited universities (https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/) and looking at their papers on their websites
 - a note: if you don't have access to a lab, we suggest watching youtube videos of relevant scientific experiments you're curious about
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
