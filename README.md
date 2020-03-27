@@ -5,7 +5,7 @@ To assemble all established knowledge into an efficient set of cheat sheets for 
 
 What we mean by "established knowledge" is textbook and course knowledge, not research knowledge, research courses, or derivative knowledge. 
 - One good heuristic is that these are the common set of topics that every reputable research university in the world (such as "R1 universities" in the US) offers their undergrad and graduate students. 
-- Another heuristic is that after mastering this knowledge (or disciplinary slices of it), you should be an expert, ready to do research ad push knowledge forward. So, this is the real deal, not popular science content for a lay audience. 
+- Another heuristic is that after mastering this knowledge (or disciplinary slices of it), you should be an expert, ready to do research and push knowledge forward. So, this is the real deal, not popular science content for a lay audience. 
 - A final heuristic - this is the core knowledge of all society. Sure there's an infinite amount of derivative knowledge and skill. But, this is the core knowledge that marks expertise in any given field. 
 - Obviously, this is a continuously repository and you can submit a pull request if you think some knowledge should be added or edited.
 
