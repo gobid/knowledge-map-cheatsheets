@@ -97,6 +97,4 @@ To contribute:
 3. push to your fork (adding github as a remote for your fork might help https://stackoverflow.com/questions/11690709/can-a-project-have-multiple-origins) and
 4. make a pull request from your fork to this project 
 
-Citations:
-- all the sources are included in the pdfs themselves
-- useful learning tools (i.e. https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e type of stuff) - have a section for this
+Citations: all the sources are included in the pdfs themselves.
