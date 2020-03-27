@@ -17,12 +17,12 @@ Explore these subjects to grasp the fundamentals of all knowledge:
 1. Mathematics
 2. Statistics
 3. Computer Science
-4. Physics - EE, MechE, Materials Science, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+4. Physics - EE, MechE, Materials Science, Product Design, CivilE, Architecture, EnvE, Geography, AeroE, and Astronomy
 5. Chemistry - ChemE
 6. Biology - Medicine, BioE
 7. Psychology - Cognitive Science
 8. Economics - Business and Finance
-9. Humanities - Language Arts, History, Archaeology, Geography, Philosophy, Political Science, and Law
+9. Humanities - Language Arts, History, Archaeology, Anthropology, Urban Studies, Sociology, Political Science, Philosophy, Linguistics, Communication, and Law
 10. Art - Visual Arts, Dance, Music, Film, Sports, Cooking
 
 FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
@@ -152,4 +152,4 @@ To add content:
 3. push to your fork (adding github as a remote for your fork might help https://stackoverflow.com/questions/11690709/can-a-project-have-multiple-origins) and
 4. make a pull request from your fork to this project 
 
-Citations: all the sources are included in the pdfs themselves.
+Citations: all the sources are included in the pdfs themselves. Curriculum inspired by https://exploredegrees.stanford.edu/. 
