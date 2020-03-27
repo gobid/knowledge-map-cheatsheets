@@ -141,10 +141,12 @@ The languages include:
 
 Duolingo does a good job at covering most of the rest of the world's major languages <=> English.
 
+### To contribute:
+
 To critique: 
 Use the github comments.
 
-To contribute: 
+To add content: 
 1. fork the project
 2. edit the fork (Please cite the source somehow, either an indication of the author on the pdf or below in the citations.)
 3. push to your fork (adding github as a remote for your fork might help https://stackoverflow.com/questions/11690709/can-a-project-have-multiple-origins) and
