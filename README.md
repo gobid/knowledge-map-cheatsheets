@@ -9,6 +9,24 @@ What we mean by "established knowledge" is textbook and course knowledge. Not re
 - A final heuristic - this is the core knowledge of all society. Sure there's an infinite amount of derivative knowledge and skill. But, this is the core knowledge that marks expertise in any given field. 
 - Obviously, this is a continuously repository and you can submit a pull request if you think some knowledge should be added or edited.
 
+
+### Subjects 
+
+Explore these subjects to grasp the fundamentals of all knowledge:
+
+1. Mathematics
+2. Statistics
+3. Computer Science
+4. Physics - EE, MechE, Materials Science, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
+5. Chemistry - ChemE
+6. Biology - Medicine, BioE
+7. Psychology - Cognitive Science
+8. Economics - Business and Finance
+9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
+10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify / saavn, youtube), Sports, Cooking
+
+FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
+
 ### What do you know? 
 What percent of all established knowledge do you know? Find out by joining http://www.learningdollarstalent.com and marking your skills. You will be able to mark the technical skills and academic topics you know. 
 
@@ -59,23 +77,6 @@ This project IS solving the problem of "going down a rabbit hole of prerequisite
 This project SHOULD ALSO help with writing proofs or arguments by surfacing all reference theorems / concepts in one place. 
 
 Finally, this project should stop you from feeling guilty about forgetting what you learned a few years ago by reminding you with ample context.
-
-### Subjects 
-
-Explore these subjects to grasp the fundamentals of all knowledge:
-
-1. Mathematics
-2. Statistics
-3. Computer Science
-4. Physics - EE, MechE, Materials Science, Product Design, CivilE, Architecture, EnvE, AeroE, and Astronomy
-5. Chemistry - ChemE
-6. Biology - Medicine, BioE
-7. Psychology - Cognitive Science
-8. Economics - Business and Finance
-9. Humanities - Literature (grammar, vocab), Journalism, History, Geography, Philosophy, Political Science, and Law
-10. Art - Visual Arts, Dance, Music (music theory, piano, singing, etc; spotify / saavn, youtube), Sports, Cooking
-
-FLIPPED CLASS IS MUCH BETTER. Can pause and understand comfortably. Live chat or Piazza helps.
 
 ### What about skills and tools? 
 
