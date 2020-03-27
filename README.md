@@ -90,7 +90,55 @@ You'll get a ton of text and video material to learn from. We recommend going fo
 
 ### Why is this all in English only?
 
+As per this comment about the balance of powers of society's languages (https://bit.ly/2JivbUn) and this comment about society's inventions and discoveries (https://bit.ly/33N1OTs) on our first cultural blog post, we at LD Talent use and accept English as the lingua franca of the world. 
 
+All peoples of the world own and shape English now. This harkens the famous "Empire strikes back" jokes (Trevor Noah, Anuvab Pal, Russel Peters, etc). Jokes aside, nowadays far more non-English writers contribute to English writing and communication than ones hailing from England do. Just like everyone uses the Hindu-Arabic numeral system, everyone uses English writing and speaking. It's ok. English is a human possession now. Moreover, the English language is related to Indo-European languages as East as Sanskrit and Bengali and has gained words from non Indo-European language groups as well. Like: 
+
+- algebra from Arabic
+- maize from Native American Taino
+- mongoose from South Indian Telugu and West Indian Marathi
+- chai from Mandarin
+- tattoo from Tahitian
+- banana from West African Mande
+
+See:
+- https://en.wikipedia.org/wiki/Language_family
+- https://www.angmohdan.com/the-root-of-all-human-languages/
+- https://www.theguardian.com/education/gallery/2015/jan/23/a-language-family-tree-in-pictures
+- https://www.google.com/search?q=language+tree
+
+So with that said we only focus on English and present all our materials in English (just like StackOverflow and StackExchange do for instance). Here are the learning resources we recommend: 
+- https://www.duolingo.com/ (you can actually learn most major world languages with this)
+- https://www.khanacademy.org/mission/sat/
+- http://www.merriam-webster.com/word-games/vocabulary-quiz
+- https://www.class-central.com/search?lang=english&q=english
+- https://www.google.com/search?q=learn+typing+online+free (for typing)
+- https://learnenglish.britishcouncil.org/
+- https://www.britishcouncil.si/en/english/apps
+
+A special note: We at Learning Dollars Talent created a spreadsheet of 8000+ English words and phrases translated into 11 regional South Asian languages and they are all here:
+
+Words and Phrases: https://docs.google.com/spreadsheets/d/1L7ZG-bMcku1g5nDpo9E46dBQXFU2HXKrRPENva2qZ80/edit#gid=759234093
+
+Recordings of Words and Phrases: https://drive.google.com/drive/u/0/folders/0B8C-fNTa0hp9NmdxNkROMUVQZU0
+
+The sheet and recordings take a while to load but it's worth it.
+
+The languages include:
+
+- Hindi
+- Gujarati
+- Marathi
+- Arabic
+- Urdu
+- Telugu
+- Tamil
+- Punjabi (in Gurmukhi and Shahmukhi)
+- Bengali
+- Malayalam
+- Kannada
+
+Duolingo does a good job at covering most of the rest of the world's major languages <=> English.
 
 To critique: 
 Use the github comments.
