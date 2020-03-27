@@ -117,7 +117,7 @@ So with that said we only focus on English and present all our materials in Engl
 - https://learnenglish.britishcouncil.org/
 - https://www.britishcouncil.si/en/english/apps
 
-### We at created a spreadsheet of 8000+ English words and phrases translated into 11 regional South Asian languages and they are all here:
+### We also created a spreadsheet of 8000+ English words and phrases translated into 11 regional South Asian languages and they are all here:
 
 Words and Phrases: https://docs.google.com/spreadsheets/d/1L7ZG-bMcku1g5nDpo9E46dBQXFU2HXKrRPENva2qZ80/edit#gid=759234093
 
