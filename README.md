@@ -80,7 +80,7 @@ Finally, this project should stop you from feeling guilty about forgetting what 
 
 ### What about skills and tools? 
 
-Now this covers knowledge (i.e. Machine Learning, Algorithms, Statistical Mechanics, Genetics) but what about skills and tools (i.e. Tensorflow, Java, Matlab, Biopython).
+Now this covers knowledge (i.e. Machine Learning, Algorithms, Statistical Mechanics, Genetics) but what about skills and tools (i.e. Tensorflow, Java, Matlab, Biopython)?
 
 Well, to see all the interesting and in-demand skills and tools you can learn, we recommend visiting: 
 https://www.learningdollars.com/client/select_engineers/ 
