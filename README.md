@@ -3,7 +3,7 @@
 ### Goal
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. 
 
-What we mean by "established knowledge" is textbook and course knowledge. Not research knowledge, research courses, derivative knowledge, or skill / tool specific knowledge (for which plentiful documentation exists on the web). 
+What we mean by "established knowledge" is conceptual textbook and course knowledge. Not research knowledge, research courses, derivative knowledge, or skill / tool specific knowledge (for which plentiful documentation exists on the web). 
 - One good heuristic is that these are the common set of topics that every reputable research university in the world (such as "R1 universities" in the US) offers their undergrad and graduate students. 
 - Another heuristic is that after mastering this knowledge (or disciplinary slices of it), you should be an expert, ready to do research and push knowledge forward. So, this is the real deal, not some popular science content for a lay audience. 
 - A final heuristic - this is the core knowledge of all society. Sure there's an infinite amount of derivative knowledge and skill. But, this is the core knowledge that marks expertise in any given field. 
