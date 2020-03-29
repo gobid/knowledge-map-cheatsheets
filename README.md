@@ -3,7 +3,7 @@
 ### Goal
 To assemble all established knowledge into an efficient set of cheat sheets for interdisciplinary innovation. 
 
-This compilation is intended to serve all the learners of the world who don't have access to developed world institutions like Stanford and Northwestern. No matter where you are or what you have, if you're reading this on a computer or phone, you can learn this material and find a way toward disciplinary expertise.  
+This compilation is intended to serve the learners of the world who don't have access to developed world institutions like Stanford and Northwestern. No matter where you are or what you have, if you're reading this on a computer or phone, you can learn this material and find a way toward disciplinary expertise. Online courses and resources may have all the information you need, but this repository gives you a structured curriculum with which to guide your studies and professional development. 
 
 What we mean by "established knowledge" is conceptual textbook and course knowledge. Not research knowledge, research courses, derivative knowledge, or skill / tool specific knowledge (for which plentiful documentation exists on the web). 
 - One good heuristic is that these are the common set of topics that every reputable research university in the world (such as "R1 universities" in the US) offers their undergrad and graduate students. 
