@@ -60,7 +60,7 @@ Method: To be used in conjunction with:
 - lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, https://www.ixl.com/, http://bighistoryproject.com
 - resources on open courseware sites like https://ocw.mit.edu/index.htm, https://www.oeconsortium.org/, https://oyc.yale.edu/, https://open.umich.edu/, https://ocw.jhsph.edu/, 
 - articles from http://google.com, http://scholar.google.com, https://www.researchgate.net/, http://academia.edu/
-    - if you find you don't have access to articles found on google scholar, you may try using the internet at your local library or university to download the articles
+    - if you find you don't have access to articles found on google scholar, you may try using the internet at your local library or university to download the articles (they might have a subscription to the likes of sciencedirect or jstor)
 - research articles found by googling labs at accreddited universities (https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/) and looking at their papers on their websites
 - a note: if you don't have access to a lab, we suggest watching youtube videos of relevant scientific experiments you're curious about
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
