@@ -65,6 +65,7 @@ Method: To be used in conjunction with:
 - research articles found by googling labs at accreddited universities (https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/) and looking at their papers on their websites
 - a note: if you don't have access to a lab, we suggest watching youtube videos of relevant scientific experiments you're curious about
 - answers on http://stackexchange.com, http://investopedia.com, http://quora.com, http://medium.com 
+- searching https://www.youtube.com/results?search_query=how+its+made for literally any thing
 - exercises found by searching "[subject name] problems / exercises" on google
 - educational software found by searching "[subject name] software" or "[subject name] educational software" on google
 - educational games found by searching "[subject name] games" or "[subject name] educational games" on google
