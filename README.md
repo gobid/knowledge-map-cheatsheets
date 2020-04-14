@@ -61,6 +61,7 @@ Method: To be used in conjunction with:
 - resources on open courseware sites like https://ocw.mit.edu/index.htm, https://www.oeconsortium.org/, https://oyc.yale.edu/, https://open.umich.edu/, https://ocw.jhsph.edu/, 
 - articles from http://google.com, http://scholar.google.com, https://www.researchgate.net/, http://academia.edu/
     - if you find you don't have access to articles found on google scholar, you may try using the internet at your local library or university to download the articles (they might have a subscription to the likes of sciencedirect or jstor)
+- textbooks found on https://openstax.org/
 - textbooks found online through google, https://libgen.is/ and https://epdf.pub/ - this is a controversial method that we don't endorse or comment on, all we can say is that we believe that textbooks are overpriced and hence disenfranchise the majority world and the poor of the world from information access - those who can afford access to such textbook information are often those people whose ancestors benefited from the theivery of colonialism
 - research articles found by googling labs at accreddited universities (https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/) and looking at their papers on their websites
 - a note: if you don't have access to a lab, we suggest watching youtube videos of relevant scientific experiments you're curious about
