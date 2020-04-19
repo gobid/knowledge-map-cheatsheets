@@ -169,3 +169,11 @@ Citations: all the sources are included in the pdfs themselves. Curriculum inspi
 - https://www.architecture.yale.edu/
 - note yearly mc to keep books / skills up to date
 - computer architectures and design patterns we have a list of
+
+important medical links:
+- https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+- https://www.cdc.gov/nchs/icd/icd10cm.htm
+- https://projects.propublica.org/docdollars/
+- https://openpaymentsdata.cms.gov/
+- https://en.wikipedia.org/wiki/Category:Medical_doctors_by_specialty
+- 
