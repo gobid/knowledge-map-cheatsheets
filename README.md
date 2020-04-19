@@ -179,3 +179,4 @@ important medical links:
 - 
 
 It's on you to ask yourself questions and make sure you understand concepts fully, to maintaing quality of learning.
+I never knew what's important to learn and faced info overload - this will teach bright aspiring minds what to learn and where to spend their time.
