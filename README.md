@@ -160,3 +160,11 @@ To add content:
 4. make a pull request from your fork to this project 
 
 Citations: all the sources are included in the pdfs themselves. Curriculum inspired by https://exploredegrees.stanford.edu/. 
+
+
+- thank pranav for edusalsa
+-https://chicago.medicine.uic.edu/education/md-curriculum/curriculum-by-year/phase-1/m1-recommended-textbooks-and-materials/
+- https://exploredegrees.stanford.edu/schoolofmedicine/cancerbiology/#courseinventory
+- https://www.architecture.yale.edu/
+- note yearly mc to keep books / skills up to date
+- computer architectures and design patterns we have a list of
