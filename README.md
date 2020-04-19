@@ -177,3 +177,5 @@ important medical links:
 - https://openpaymentsdata.cms.gov/
 - https://en.wikipedia.org/wiki/Category:Medical_doctors_by_specialty
 - 
+
+It's on you to ask yourself questions and make sure you understand concepts fully, to maintaing quality of learning.
