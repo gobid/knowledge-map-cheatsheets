@@ -176,7 +176,7 @@ important medical links:
 - https://projects.propublica.org/docdollars/
 - https://openpaymentsdata.cms.gov/
 - https://en.wikipedia.org/wiki/Category:Medical_doctors_by_specialty
-- 
+- wikipedia discpilinary segmentation i.e. bottom https://en.wikipedia.org/wiki/Medicine
 
 It's on you to ask yourself questions and make sure you understand concepts fully, to maintaing quality of learning.
 I never knew what's important to learn and faced info overload - this will teach bright aspiring minds what to learn and where to spend their time.
