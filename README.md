@@ -181,3 +181,10 @@ important medical links:
 
 It's on you to ask yourself questions and make sure you understand concepts fully, to maintaing quality of learning.
 I never knew what's important to learn and faced info overload - this will teach bright aspiring minds what to learn and where to spend their time.
+
+medical listing resources:
+- https://chicago.medicine.uic.edu/education/md-curriculum/curriculum-by-year/phase-1/m1-recommended-textbooks-and-materials/
+- https://exploredegrees.stanford.edu/schoolofmedicine/#courseinventory
+- https://en.wikipedia.org/wiki/Medicine bottom
+- https://en.wikipedia.org/wiki/Specialty_(medicine) 
+- https://www.quora.com/search?q=oncology+textbook
