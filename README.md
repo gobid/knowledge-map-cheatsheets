@@ -177,6 +177,7 @@ important medical links:
 - https://openpaymentsdata.cms.gov/
 - https://en.wikipedia.org/wiki/Category:Medical_doctors_by_specialty
 - wikipedia discpilinary segmentation i.e. bottom https://en.wikipedia.org/wiki/Medicine
+- google for handbooks of a particular topic / subject and it will cover seminal literature that you can scan and then you can see what works those cite or are cited by to explore literature relevant to your needs 
 
 It's on you to ask yourself questions and make sure you understand concepts fully, to maintaing quality of learning.
 I never knew what's important to learn and faced info overload - this will teach bright aspiring minds what to learn and where to spend their time.
