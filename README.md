@@ -192,3 +192,4 @@ medical listing resources:
 
 Note!
 - download the explore degrees and uic etc site as is and date stamp it 2020, os you can write a scritp to parse for new courses every year
+- audiobook method, speaker
