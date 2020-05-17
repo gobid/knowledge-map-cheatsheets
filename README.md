@@ -189,3 +189,6 @@ medical listing resources:
 - https://en.wikipedia.org/wiki/Medicine bottom
 - https://en.wikipedia.org/wiki/Specialty_(medicine) 
 - https://www.quora.com/search?q=oncology+textbook
+
+Note!
+- download the explore degrees and uic etc site as is and date stamp it 2020, os you can write a scritp to parse for new courses every year
