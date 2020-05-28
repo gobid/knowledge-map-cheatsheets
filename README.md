@@ -193,3 +193,5 @@ medical listing resources:
 Note!
 - download the explore degrees and uic etc site as is and date stamp it 2020, os you can write a scritp to parse for new courses every year
 - audiobook method, speaker, eprestigio for pdf
+
+- km - don’t need to keep it all in your head, when you’re building something and might want to apply km you can refer to km
