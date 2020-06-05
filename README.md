@@ -56,7 +56,7 @@ LD Talent can also help you find:
 Let's not get bogged down by information overload! Let's cut to the chase (in TOPOLOGICAL order so we never get stuck).
 
 Method: To be used in conjunction with: 
-- moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com
+- moocs from http://class-central.com, http://coursera.org, http://edx.org, http://codecademy.com, 
 - lectures on http://youtube.com, http://khanacademy.org, http://ck12.org, https://www.ixl.com/, http://bighistoryproject.com
 - resources on open courseware sites like https://ocw.mit.edu/index.htm, https://www.oeconsortium.org/, https://oyc.yale.edu/, https://open.umich.edu/, https://ocw.jhsph.edu/, 
 - articles from http://google.com, http://scholar.google.com, https://www.researchgate.net/, http://academia.edu/
@@ -190,6 +190,8 @@ medical listing resources:
 - https://en.wikipedia.org/wiki/Specialty_(medicine) 
 - https://www.quora.com/search?q=oncology+textbook
 - https://www.sesp.northwestern.edu/learning-sciences/course-schedule-2019-2020.html
+
+- https://www.interaction-design.org/
 
 Note!
 - download the explore degrees and uic etc site as is and date stamp it 2020, os you can write a scritp to parse for new courses every year
